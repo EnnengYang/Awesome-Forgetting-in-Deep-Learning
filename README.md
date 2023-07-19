@@ -14,7 +14,7 @@ If you find our paper or this resource helpful, please consider cite:
 ```
 @article{Forgetting_Survey_2023,
   title={A Comprehensive Survey of Forgetting in Deep Learning Beyond Continual Learning},
-  author={Zhenyi Wang, Enneng Yang, Li Shen, Heng Huang},
+  author={Zhenyi Wang and Enneng Yang and Li Shen and Heng Huang},
   journal={arXiv preprint arXiv:2307.09218},
   year={2023}
 }
