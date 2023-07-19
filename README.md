@@ -3,20 +3,19 @@
 [![Awesome](https://awesome.re/badge.svg)]()
 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt=""/>
 
-A comprehensive list of papers about **'Forgetting in Deep Learning'**.
+A comprehensive list of papers about **'[A Comprehensive Survey of Forgetting in Deep Learning Beyond Continual Learning](https://arxiv.org/abs/2307.09218)'**.
 
 ## Abstract
-> Forgetting refers to the loss or deterioration of previously acquired information or knowledge. While the existing surveys on forgetting have primarily focused on continual learning, forgetting exists in various other research areas within deep learning. Forgetting manifests in research fields such as generative models due to generator shifts, and federated learning due to heterogeneous data distributions across clients. Addressing forgetting encompasses several challenges, including balancing the retention of old task knowledge with fast learning of new tasks, managing task interference with conflicting goals, and preventing privacy leakage, etc.
-Moreover, most existing surveys on continual learning implicitly assume that forgetting is always harmful. In contrast, our survey argues that forgetting is a double-edged sword and can be beneficial and desirable in certain cases, such as privacy-preserving scenarios. By exploring forgetting in a broader context, we aim to present a more nuanced understanding of this phenomenon and highlight its potential advantages. Through this comprehensive review, we aspire to uncover potential solutions by drawing upon approaches from various fields that have dealt with forgetting. By examining forgetting beyond its conventional boundaries, we hope to develop novel strategies for mitigating, harnessing, or even embracing forgetting in real applications.
+> Forgetting refers to the loss or deterioration of previously acquired information or knowledge. While the existing surveys on forgetting have primarily focused on continual learning, forgetting is a prevalent phenomenon observed in various other research domains within deep learning. Forgetting manifests in research fields such as generative models due to generator shifts, and federated learning due to heterogeneous data distributions across clients. Addressing forgetting encompasses several challenges, including balancing the retention of old task knowledge with fast learning of new tasks, managing task interference with conflicting goals, and preventing privacy leakage, etc. Moreover, most existing surveys on continual learning implicitly assume that forgetting is always harmful. In contrast, our survey argues that forgetting is a double-edged sword and can be beneficial and desirable in certain cases, such as privacy-preserving scenarios. By exploring forgetting in a broader context, we aim to present a more nuanced understanding of this phenomenon and highlight its potential advantages. Through this comprehensive survey, we aspire to uncover potential solutions by drawing upon ideas and approaches from various fields that have dealt with forgetting. By examining forgetting beyond its conventional boundaries, in future work, we hope to encourage the development of novel strategies for mitigating, harnessing, or even embracing forgetting in real applications.
 
 ## Citation
 
-If you find this resource is helpful, please consider cite:  
+If you find our paper or this resource helpful, please consider cite:
 ```
 @article{Forgetting_Survey_2023,
   title={A Comprehensive Survey of Forgetting in Deep Learning Beyond Continual Learning},
   author={Zhenyi Wang, Enneng Yang, Li Shen, Heng Huang},
-  journal={arXiv preprint arXiv:},
+  journal={arXiv preprint arXiv:2307.09218},
   year={2023}
 }
 ```
@@ -573,6 +572,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [The Curse of Recursion: Training on Generated Data Makes Models Forget](https://arxiv.org/pdf/2305.17493.pdf)| 2023|Arxiv
 | [Forget-Me-Not: Learning to Forget in Text-to-Image Diffusion Models](https://arxiv.org/pdf/2303.17591.pdf) | 2023|Arxiv
 | [Selective Amnesia: A Continual Learning Approach to Forgetting in Deep Generative Models](https://arxiv.org/pdf/2305.10120.pdf) | 2023|Arxiv
 | [Lifelong Generative Modelling Using Dynamic Expansion Graph Model](https://ojs.aaai.org/index.php/AAAI/article/view/20867/20626) | 2022|AAAI
