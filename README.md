@@ -430,6 +430,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [SLCA: Slow Learner with Classifier Alignment for Continual Learning on a Pre-trained Model](https://arxiv.org/pdf/2303.05118.pdf)| 2023| ICCV
 | [Progressive Prompts: Continual Learning for Language Models](https://openreview.net/pdf?id=UJTgQBc91_) | 2023| ICLR
 | [Continual Pre-training of Language Models](https://openreview.net/pdf?id=m_GDIItaI3o) | 2023 | ICLR
 | [CODA-Prompt: COntinual Decomposed Attention-based Prompting for Rehearsal-Free Continual Learning](https://openaccess.thecvf.com/content/CVPR2023/papers/Smith_CODA-Prompt_COntinual_Decomposed_Attention-Based_Prompting_for_Rehearsal-Free_Continual_Learning_CVPR_2023_paper.pdf) | 2023 | CVPR
@@ -596,13 +597,17 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Continual Task Allocation in Meta-Policy Network via Sparse Prompting](https://openreview.net/pdf?id=IqI8074rFu) |2023 | ICML
 | [Building a Subspace of Policies for Scalable Continual Learning](https://openreview.net/pdf?id=ZloanUtG4a) |2023 | ICLR
 | [Modular Lifelong Reinforcement Learning via Neural Composition](https://openreview.net/pdf?id=5XmLzdslFNN) |2022 |ICLR
+| [Disentangling Transfer in Continual Reinforcement Learning](https://openreview.net/pdf?id=pgF-N1YORd)|2022 |NeurIPS
 | [Towards continual reinforcement learning: A review and perspectives](https://arxiv.org/pdf/2012.13490.pdf) | 2022 | Journal of Artificial Intelligence Research
 | [Model-Free Generative Replay for Lifelong Reinforcement Learning: Application to Starcraft-2](https://proceedings.mlr.press/v199/daniels22a/daniels22a.pdf) | 2022|Conference on Lifelong Learning Agents
 | [Transient Non-stationarity and Generalisation in Deep Reinforcement Learning](https://openreview.net/pdf?id=Qun8fv4qSby) | 2021 | ICLR
 | [Sharing Less is More: Lifelong Learning in Deep Networks with Selective Layer Transfer](http://proceedings.mlr.press/v139/lee21a/lee21a.pdf) | 2021| ICML
 | [Pseudo-rehearsal: Achieving deep reinforcement learning without catastrophic forgetting](https://arxiv.org/pdf/1812.02464.pdf) | 2021|Neurocomputing
+| [Lifelong Policy Gradient Learning of Factored Policies for Faster Training Without Forgetting](https://arxiv.org/pdf/2007.07011.pdf)|2020 |NeurIPS
+| [Policy Consolidation for Continual Reinforcement Learning](http://proceedings.mlr.press/v97/kaplanis19a/kaplanis19a.pdf)| 2019| ICML
 | [Exploiting Hierarchy for Learning and Transfer in KL-regularized RL](https://openreview.net/pdf?id=CCs4iXw4KJ-) | 2019|Arxiv
 | [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://proceedings.mlr.press/v70/finn17a/finn17a.pdf) | 2017| ICML
 | [Progressive neural networks](https://arxiv.org/pdf/1606.04671.pdf) |2016 | Arxiv
