@@ -72,14 +72,16 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Problem Setting** | **Goal** | **Source of forgetting** |
 | --------------- | :---- | :---- |
-| Continual Learning | non-stationary data distribution without forgetting previous knowledge  | data-distribution shift during training |
-| Foundation Models |unsupervised learning on large-scale unlabeled data | data-distribution shift in pre-training, fine-tuning  |
+| Continual Learning | learn non-stationary data distribution without forgetting previous knowledge  | data-distribution shift during training |
+| Foundation Model |unsupervised learning on large-scale unlabeled data | data-distribution shift in pre-training, fine-tuning  |
 | Domain Adaptation | adapt to target domain while maintaining performance on source domain | target domain sequentially shift over time |
+| Test-time Adaptation |mitigate the distribution gap between training and testing | adaptation to the test data distribution during testing|
 | Meta-Learning | learn adaptable knowledge to new tasks | incrementally meta-learn new classes / task-distribution shift  |
 | Generative Model | learn a generator to appriximate real data distribution | generator shift/data-distribution shift |
-| Self-Supervised Learning | unsupervised pre-training | data-distribution shift |
-| Reinforcement Learning | aximize accumulate rewards | state, action, reward and state transition dynamics|
+| Reinforcement Learning | maximize accumulate rewards | state, action, reward and state transition dynamics|
 | Federated Learning | decentralized training without sharing data |  model average; non-i.i.d data; data-distribution shift |
+
+<!-- | Self-Supervised Learning | unsupervised pre-training | data-distribution shift | -->
 
 **Links**:
 <u> [Forgetting in Continual Learning](#forgetting-in-continual-learning) </u> |
