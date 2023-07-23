@@ -488,10 +488,12 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [A Comprehensive Survey on Test-Time Adaptation under Distribution Shifts](https://arxiv.org/pdf/2303.15361.pdf) | 2023 | Arxiv
 | [MECTA: Memory-Economic Continual Test-Time Model Adaptation](https://openreview.net/pdf?id=N92hjSf5NNh) | 2023|ICLR
 | [Decorate the Newcomers: Visual Domain Prompt for Continual Test Time Adaptation](https://arxiv.org/pdf/2212.04145.pdf) |2023 | AAAI (Outstanding Student Paper Award)
 | [Robust Mean Teacher for Continual and Gradual Test-Time Adaptation](https://openaccess.thecvf.com/content/CVPR2023/papers/Dobler_Robust_Mean_Teacher_for_Continual_and_Gradual_Test-Time_Adaptation_CVPR_2023_paper.pdf) | 2023|CVPR
 | [A Probabilistic Framework for Lifelong Test-Time Adaptation](https://openaccess.thecvf.com/content/CVPR2023/papers/Brahma_A_Probabilistic_Framework_for_Lifelong_Test-Time_Adaptation_CVPR_2023_paper.pdf) | 2023 | CVPR
+| [EcoTTA: Memory-Efficient Continual Test-time Adaptation via Self-distilled Regularization](https://openaccess.thecvf.com/content/CVPR2023/papers/Song_EcoTTA_Memory-Efficient_Continual_Test-Time_Adaptation_via_Self-Distilled_Regularization_CVPR_2023_paper.pdf) |  2023 | CVPR
 | [AUTO: Adaptive Outlier Optimization for Online Test-Time OOD Detection](https://arxiv.org/pdf/2303.12267.pdf) |2023 |Arxiv
 | [Efficient Test-Time Model Adaptation without Forgetting](https://proceedings.mlr.press/v162/niu22a/niu22a.pdf) | 2022| ICML
 | [MEMO: Test time robustness via adaptation and augmentation](https://openreview.net/pdf?id=vn74m_tWu8O) | 2022|NeurIPS
@@ -599,6 +601,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [A Definition of Continual Reinforcement Learning](https://arxiv.org/pdf/2307.11046.pdf) | 2023 | Arxiv
 | [Continual Task Allocation in Meta-Policy Network via Sparse Prompting](https://openreview.net/pdf?id=IqI8074rFu) |2023 | ICML
 | [Building a Subspace of Policies for Scalable Continual Learning](https://openreview.net/pdf?id=ZloanUtG4a) |2023 | ICLR
 | [Modular Lifelong Reinforcement Learning via Neural Composition](https://openreview.net/pdf?id=5XmLzdslFNN) |2022 |ICLR
