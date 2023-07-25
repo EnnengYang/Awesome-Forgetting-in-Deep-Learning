@@ -444,7 +444,6 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 | [S-Prompts Learning with Pre-trained Transformers: An Occam’s Razor for Domain Incremental Learning](https://openreview.net/pdf?id=ZVe_WeMold) |2022 | NeurIPS
 | [Pretrained Language Model in Continual Learning: A Comparative Study](https://openreview.net/pdf?id=figzpGMrdD) | 2022 | ICLR
 | [Effect of scale on catastrophic forgetting in neural networks](https://openreview.net/pdf?id=GhVS8_yPeEa) | 2022| ICLR
-| [An Empirical Investigation of the Role of Pre-training in Lifelong Learning](https://arxiv.org/pdf/2112.09153.pdf) | 2022 | ICML
 | [Learning to Prompt for Continual Learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Learning_To_Prompt_for_Continual_Learning_CVPR_2022_paper.pdf) | 2022 | CVPR
 | [Class-Incremental Learning with Strong Pre-trained Models](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_Class-Incremental_Learning_With_Strong_Pre-Trained_Models_CVPR_2022_paper.pdf) |  2022|CVPR
 | [DualPrompt: Complementary Prompting for Rehearsal-free Continual Learning](https://arxiv.org/pdf/2204.04799.pdf) |2022  |ECCV
@@ -453,7 +452,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 | [Continual Training of Language Models for Few-Shot Learning](https://aclanthology.org/2022.emnlp-main.695.pdf) | 2022 | EMNLP
 | [Continual Learning with Foundation Models: An Empirical Study of Latent Replay](https://arxiv.org/pdf/2205.00329.pdf) |2022 | Conference on Lifelong Learning Agents
 | [Achieving Forgetting Prevention and Knowledge Transfer in Continual Learning](https://openreview.net/pdf?id=RJ7XFI15Q8f) | 2021 |NeurIPS
-
+| [An Empirical Investigation of the Role of Pre-training in Lifelong Learning](https://arxiv.org/pdf/2112.09153.pdf) | 2021 | Arxiv
 
 
 ### Forgetting in Domain Adaptation
