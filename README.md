@@ -155,7 +155,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 | [Gradient Episodic Memory for Continual Learning](https://proceedings.neurips.cc/paper_files/paper/2017/file/f87522788a2be2d171666752f97ddebb-Paper.pdf) | 2017 |NeurIPS
 | [Continual Learning with Deep Generative Replay](https://proceedings.neurips.cc/paper_files/paper/2017/file/0efbe98067c6c73dba1250d2beaa81f9-Paper.pdf) | 2017 |NeurIPS
 | [iCaRL: Incremental Classifier and Representation Learning](https://openaccess.thecvf.com/content_cvpr_2017/papers/Rebuffi_iCaRL_Incremental_Classifier_CVPR_2017_paper.pdf) | 2017| CVPR
-
+| [Catastrophic forgetting, rehearsal and pseudorehearsal](https://www.tandfonline.com/doi/abs/10.1080/09540099550039318) | Connection Science | 1995
 
 
 #####  Architecture-based Methods
@@ -163,6 +163,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [CLR: Channel-wise Lightweight Reprogramming for Continual Learning](https://arxiv.org/pdf/2307.11386.pdf) | 2023 | ICCV
 | [Parameter-Level Soft-Masking for Continual Learning](https://openreview.net/pdf?id=wxFXvPdVqi) | 2023 | ICML
 | [Continual Learning on Dynamic Graphs via Parameter Isolation](https://arxiv.org/pdf/2305.13825.pdf) | 2023 | SIGIR
 | [Heterogeneous Continual Learning](https://openaccess.thecvf.com/content/CVPR2023/papers/Madaan_Heterogeneous_Continual_Learning_CVPR_2023_paper.pdf) | 2023 | CVPR
@@ -178,7 +179,10 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 | [DER: Dynamically Expandable Representation for Class Incremental Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Yan_DER_Dynamically_Expandable_Representation_for_Class_Incremental_Learning_CVPR_2021_paper.pdf) | 2021 | CVPR
 | [Adaptive Aggregation Networks for Class-Incremental Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Adaptive_Aggregation_Networks_for_Class-Incremental_Learning_CVPR_2021_paper.pdf) |2021 | CVPR
 | [BatchEnsemble: an Alternative Approach to Efficient Ensemble and Lifelong Learning](https://openreview.net/pdf?id=Sklf1yrYDr) | 2020 | ICLR
+| [Calibrating CNNs for Lifelong Learning](https://proceedings.neurips.cc/paper_files/paper/2020/file/b3b43aeeacb258365cc69cdaf42a68af-Paper.pdf) | 2020 | NeurIPS
 | [Compacting, Picking and Growing for Unforgetting Continual Learning](https://proceedings.neurips.cc/paper/2019/file/3b220b436e5f3d917a1e649a0dc0281c-Paper.pdf) | 2019 | NeurIPS
+| [Superposition of many models into one](https://papers.nips.cc/paper_files/paper/2019/file/4c7a167bb329bd92580a99ce422d6fa6-Paper.pdf)  | 2019 | NeurIPS
+| [Reinforced Continual Learning](https://proceedings.neurips.cc/paper_files/paper/2018/file/cee631121c2ec9232f3a2f028ad5c89b-Paper.pdf) | 2018 | NeurIPS
 | [Progress & Compress: A scalable framework for continual learning](https://proceedings.mlr.press/v80/schwarz18a/schwarz18a.pdf) | 2018 | ICML
 | [Overcoming Catastrophic Forgetting with Hard Attention to the Task](https://arxiv.org/pdf/1801.01423.pdf) |2018 | ICML
 | [Lifelong Learning with Dynamically Expandable Networks ](https://openreview.net/pdf?id=Sk7KsfW0-) | 2018 | ICLR
@@ -201,7 +205,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 | [Memory Aware Synapses: Learning what (not) to forget](https://openaccess.thecvf.com/content_ECCV_2018/papers/Rahaf_Aljundi_Memory_Aware_Synapses_ECCV_2018_paper.pdf) | 2018 | ECCV
 | [Overcoming catastrophic forgetting in neural networks](https://arxiv.org/pdf/1612.00796v2.pdf) | 2017 | Arxiv
 | [Continual Learning Through Synaptic Intelligence](https://dl.acm.org/doi/pdf/10.5555/3305890.3306093) | 2017 | ICML
-| [Learning without Forgetting](https://ieeexplore.ieee.org/document/8107520) |2016 | TPAMI
+| [Learning without Forgetting](https://ieeexplore.ieee.org/document/8107520) |2017 | TPAMI
 
 
 
