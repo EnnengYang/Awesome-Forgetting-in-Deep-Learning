@@ -121,6 +121,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Improving Replay Sample Selection and Storage for Less Forgetting in Continual Learning](https://arxiv.org/pdf/2308.01895.pdf) | 2023 | ICCV
 | [Error Sensitivity Modulation based Experience Replay: Mitigating Abrupt Representation Drift in Continual Learning](https://openreview.net/pdf?id=zlbci7019Z3) |2023 | ICLR
 |[A Model or 603 Exemplars: Towards Memory-Efficient Class-Incremental Learning](https://arxiv.org/pdf/2205.13218.pdf)| 2023 | ICLR
 | [DualHSIC: HSIC-Bottleneck and Alignment for Continual Learning](https://arxiv.org/pdf/2305.00380.pdf) | 2023 | ICML
@@ -283,6 +284,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [CBA: Improving Online Continual Learning via Continual Bias Adaptor](https://arxiv.org/pdf/2308.06925.pdf) | 2023 | ICCV
 | [New Insights for the Stability-Plasticity Dilemma in Online Continual Learning](https://openreview.net/pdf?id=fxC7kJYwA_a) | 2023 | ICLR
 | [Real-Time Evaluation in Online Continual Learning: A New Hope](https://openaccess.thecvf.com/content/CVPR2023/papers/Ghunaim_Real-Time_Evaluation_in_Online_Continual_Learning_A_New_Hope_CVPR_2023_paper.pdf) | 2023 | CVPR
 | [PCR: Proxy-based Contrastive Replay for Online Class-Incremental Continual Learning](https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_PCR_Proxy-Based_Contrastive_Replay_for_Online_Class-Incremental_Continual_Learning_CVPR_2023_paper.pdf) |2023 | CVPR
@@ -343,6 +345,8 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Few-shot Class-incremental Learning: A Survey](https://arxiv.org/pdf/2308.06764.pdf) | 2023 | Arxiv
+| [Neural Collapse Terminus: A Unified Solution for Class Incremental Learning and Its Variants](https://arxiv.org/pdf/2308.01746.pdf) | 2023 | Arxiv
 | [Warping the Space: Weight Space Rotation for Class-Incremental Few-Shot Learning](https://openreview.net/pdf?id=kPLzOfPfA2l) |2023 | ICLR
 | [Neural Collapse Inspired Feature-Classifier Alignment for Few-Shot Class Incremental Learning](https://openreview.net/pdf?id=y5W8tpojhtJ) |2023 | ICLR
 | [Few-Shot Class-Incremental Learning by Sampling Multi-Phase Tasks](https://arxiv.org/pdf/2203.17030.pdf) | 2022 | TPAMI
@@ -407,10 +411,12 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Continual Pre-Training of Large Language Models: How to (re)warm your model?](https://arxiv.org/pdf/2308.04014.pdf) | 2023 | ICMLW
 | [Improving Gender Fairness of Pre-Trained Language Models without Catastrophic Forgetting](https://arxiv.org/pdf/2110.05367.pdf) |2023 | ACL
 | [On The Role of Forgetting in Fine-Tuning Reinforcement Learning Models](https://openreview.net/pdf?id=zmXJUKULDzh) | 2023 | ICLRW
 | [Reinforcement Learning with Action-Free Pre-Training from Videos](https://proceedings.mlr.press/v162/seo22a/seo22a.pdf) | 2022 | ICML
 | [Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos](https://openreview.net/pdf?id=AXDNM76T1nc) | 2022 |NeurIPS
+| [On Reinforcement Learning and Distribution Matching for Fine-Tuning Language Models with no Catastrophic Forgetting](https://proceedings.neurips.cc/paper_files/paper/2022/file/67496dfa96afddab795530cc7c69b57a-Paper-Conference.pdf) | 2022 |NeurIPS
 | [How Should Pre-Trained Language Models Be Fine-Tuned Towards Adversarial Robustness?](https://proceedings.neurips.cc/paper/2021/file/22b1f2e0983160db6f7bb9f62f4dbb39-Paper.pdf) | 2021 | NeurIPS
 | [Mixout: Effective Regularization to Finetune Large-scale Pretrained Language Models](https://openreview.net/pdf?id=HkgaETNtDB) | 2020 | ICLR
 | [Recall and Learn: Fine-tuning Deep Pretrained Language Models with Less Forgetting](https://aclanthology.org/2020.emnlp-main.634.pdf) | 2020 | EMNLP
