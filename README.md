@@ -286,6 +286,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
 | [CBA: Improving Online Continual Learning via Continual Bias Adaptor](https://arxiv.org/pdf/2308.06925.pdf) | 2023 | ICCV
+| [Online Continual Learning on Hierarchical Label Expansion](https://arxiv.org/pdf/2308.14374.pdf) | 2023 | ICCV
 | [New Insights for the Stability-Plasticity Dilemma in Online Continual Learning](https://openreview.net/pdf?id=fxC7kJYwA_a) | 2023 | ICLR
 | [Real-Time Evaluation in Online Continual Learning: A New Hope](https://openaccess.thecvf.com/content/CVPR2023/papers/Ghunaim_Real-Time_Evaluation_in_Online_Continual_Learning_A_New_Hope_CVPR_2023_paper.pdf) | 2023 | CVPR
 | [PCR: Proxy-based Contrastive Replay for Online Class-Incremental Continual Learning](https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_PCR_Proxy-Based_Contrastive_Replay_for_Online_Class-Incremental_Continual_Learning_CVPR_2023_paper.pdf) |2023 | CVPR
