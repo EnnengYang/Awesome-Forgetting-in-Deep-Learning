@@ -165,6 +165,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [ScrollNet: Dynamic Weight Importance for Continual Learning](https://arxiv.org/pdf/2308.16567.pdf) | 2023 | ICCV
 | [CLR: Channel-wise Lightweight Reprogramming for Continual Learning](https://arxiv.org/pdf/2307.11386.pdf) | 2023 | ICCV
 | [Parameter-Level Soft-Masking for Continual Learning](https://openreview.net/pdf?id=wxFXvPdVqi) | 2023 | ICML
 | [Continual Learning on Dynamic Graphs via Parameter Isolation](https://arxiv.org/pdf/2305.13825.pdf) | 2023 | SIGIR
@@ -413,6 +414,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Speciality vs Generality: An Empirical Study on Catastrophic Forgetting in Fine-tuning Foundation Models](https://arxiv.org/pdf/2309.06256.pdf) | 2023 | Arxiv
 | [Continual Pre-Training of Large Language Models: How to (re)warm your model?](https://arxiv.org/pdf/2308.04014.pdf) | 2023 | ICMLW
 | [Improving Gender Fairness of Pre-Trained Language Models without Catastrophic Forgetting](https://arxiv.org/pdf/2110.05367.pdf) |2023 | ACL
 | [On The Role of Forgetting in Fine-Tuning Reinforcement Learning Models](https://openreview.net/pdf?id=zmXJUKULDzh) | 2023 | ICLRW
