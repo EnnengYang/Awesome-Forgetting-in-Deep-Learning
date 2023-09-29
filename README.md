@@ -217,6 +217,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Data Augmented Flatness-aware Gradient Projection for Continual Learning](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Data_Augmented_Flatness-aware_Gradient_Projection_for_Continual_Learning_ICCV_2023_paper.pdf) | 2023 | ICCV
 | [Building a Subspace of Policies for Scalable Continual Learning](https://openreview.net/pdf?id=ZloanUtG4a) | 2023 | ICLR
 | [Rethinking Gradient Projection Continual Learning: Stability / Plasticity Feature Space Decoupling](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_Rethinking_Gradient_Projection_Continual_Learning_Stability__Plasticity_Feature_Space_CVPR_2023_paper.pdf) | 2023 | CVPR
 | [Continual Learning with Scaled Gradient Projection](https://arxiv.org/pdf/2302.01386.pdf) | 2023 | AAAI
