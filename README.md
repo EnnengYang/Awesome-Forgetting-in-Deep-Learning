@@ -165,6 +165,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [TriRE: A Multi-Mechanism Learning Paradigm for Continual Knowledge Retention and Promotion](https://arxiv.org/pdf/2310.08217.pdf) | 2023 | NeurIPS
 | [ScrollNet: Dynamic Weight Importance for Continual Learning](https://arxiv.org/pdf/2308.16567.pdf) | 2023 | ICCV
 | [CLR: Channel-wise Lightweight Reprogramming for Continual Learning](https://arxiv.org/pdf/2307.11386.pdf) | 2023 | ICCV
 | [Parameter-Level Soft-Masking for Continual Learning](https://openreview.net/pdf?id=wxFXvPdVqi) | 2023 | ICML
@@ -447,6 +448,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Hierarchical Decomposition of Prompt-Based Continual Learning: Rethinking Obscured Sub-optimality](https://arxiv.org/pdf/2310.07234.pdf) | 2023 | NeurIPS
 | [SLCA: Slow Learner with Classifier Alignment for Continual Learning on a Pre-trained Model](https://arxiv.org/pdf/2303.05118.pdf)| 2023| ICCV
 | [Progressive Prompts: Continual Learning for Language Models](https://openreview.net/pdf?id=UJTgQBc91_) | 2023| ICLR
 | [Continual Pre-training of Language Models](https://openreview.net/pdf?id=m_GDIItaI3o) | 2023 | ICLR
