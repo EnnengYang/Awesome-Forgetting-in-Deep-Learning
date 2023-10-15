@@ -226,6 +226,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 | [Beyond Not-Forgetting: Continual Learning with Backward Knowledge Transfer](https://openreview.net/pdf?id=diV1PpaP33) | 2022 | NeurIPS
 | [TRGP: Trust Region Gradient Projection for Continual Learning](https://openreview.net/pdf?id=iEvAf8i6JjO) | 2022 | ICLR
 | [Continual Learning with Recursive Gradient Optimization](https://openreview.net/pdf?id=7YDLgf9_zgm) | 2022 | ICLR
+| [Class Gradient Projection For Continual Learning](https://dl.acm.org/doi/pdf/10.1145/3503161.3548054) | 2022 | MM
 | [Balancing Stability and Plasticity through Advanced Null Space in Continual Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136860215.pdf) |  2022 | ECCV
 | [Adaptive Orthogonal Projection for Batch and Online Continual Learning](https://ojs.aaai.org/index.php/AAAI/article/view/20634/20393) | 2022 | AAAI
 | [Natural continual learning: success is a journey, not (just) a destination](https://proceedings.neurips.cc/paper/2021/file/ec5aa0b7846082a2415f0902f0da88f2-Paper.pdf) | 2021 | NeurIPS
