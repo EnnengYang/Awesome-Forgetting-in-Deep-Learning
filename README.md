@@ -121,6 +121,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Distributionally Robust Memory Evolution with Generalized Divergence for Continual Learning](https://www.computer.org/csdl/journal/tp/5555/01/10258417/1QEwVQys7ok) | 2023 | TPAMI
 | [Improving Replay Sample Selection and Storage for Less Forgetting in Continual Learning](https://arxiv.org/pdf/2308.01895.pdf) | 2023 | ICCV
 | [Masked Autoencoders are Efficient Class Incremental Learners](https://arxiv.org/pdf/2308.12510.pdf) | 2023 | ICCV
 | [Error Sensitivity Modulation based Experience Replay: Mitigating Abrupt Representation Drift in Continual Learning](https://openreview.net/pdf?id=zlbci7019Z3) |2023 | ICLR
@@ -157,7 +158,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 | [Gradient Episodic Memory for Continual Learning](https://proceedings.neurips.cc/paper_files/paper/2017/file/f87522788a2be2d171666752f97ddebb-Paper.pdf) | 2017 |NeurIPS
 | [Continual Learning with Deep Generative Replay](https://proceedings.neurips.cc/paper_files/paper/2017/file/0efbe98067c6c73dba1250d2beaa81f9-Paper.pdf) | 2017 |NeurIPS
 | [iCaRL: Incremental Classifier and Representation Learning](https://openaccess.thecvf.com/content_cvpr_2017/papers/Rebuffi_iCaRL_Incremental_Classifier_CVPR_2017_paper.pdf) | 2017| CVPR
-| [Catastrophic forgetting, rehearsal and pseudorehearsal](https://www.tandfonline.com/doi/abs/10.1080/09540099550039318) | Connection Science | 1995
+| [Catastrophic forgetting, rehearsal and pseudorehearsal](https://www.tandfonline.com/doi/abs/10.1080/09540099550039318) | 1995 | Connection Science
 
 
 #####  Architecture-based Methods
@@ -219,6 +220,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
 | [Data Augmented Flatness-aware Gradient Projection for Continual Learning](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Data_Augmented_Flatness-aware_Gradient_Projection_for_Continual_Learning_ICCV_2023_paper.pdf) | 2023 | ICCV
+| [Orthogonal Subspace Learning for Language Model Continual Learning](https://arxiv.org/pdf/2310.14152.pdf) | 2023 | EMNLP
 | [Building a Subspace of Policies for Scalable Continual Learning](https://openreview.net/pdf?id=ZloanUtG4a) | 2023 | ICLR
 | [Rethinking Gradient Projection Continual Learning: Stability / Plasticity Feature Space Decoupling](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_Rethinking_Gradient_Projection_Continual_Learning_Stability__Plasticity_Feature_Space_CVPR_2023_paper.pdf) | 2023 | CVPR
 | [Continual Learning with Scaled Gradient Projection](https://arxiv.org/pdf/2302.01386.pdf) | 2023 | AAAI
@@ -289,6 +291,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Rapid Adaptation in Online Continual Learning: Are We Evaluating It Right?](https://openaccess.thecvf.com/content/ICCV2023/papers/Al_Kader_Hammoud_Rapid_Adaptation_in_Online_Continual_Learning_Are_We_Evaluating_It_ICCV_2023_paper.pdf) |2023 | ICCV
 | [CBA: Improving Online Continual Learning via Continual Bias Adaptor](https://arxiv.org/pdf/2308.06925.pdf) | 2023 | ICCV
 | [Online Continual Learning on Hierarchical Label Expansion](https://arxiv.org/pdf/2308.14374.pdf) | 2023 | ICCV
 | [New Insights for the Stability-Plasticity Dilemma in Online Continual Learning](https://openreview.net/pdf?id=fxC7kJYwA_a) | 2023 | ICLR
@@ -668,6 +671,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [TARGET: Federated Class-Continual Learning via Exemplar-Free Distillation](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_TARGET_Federated_Class-Continual_Learning_via_Exemplar-Free_Distillation_ICCV_2023_paper.pdf)| 2023 | ICCV
 | [FedET: A Communication-Efficient Federated Class-Incremental Learning Framework Based on Enhanced Transformer](https://arxiv.org/pdf/2306.15347.pdf) | 2023| IJCAI
 | [Better Generative Replay for Continual Federated Learning](https://openreview.net/pdf?id=cRxYWKiTan) |2023 | ICLR
 | [Don’t Memorize; Mimic The Past: Federated Class Incremental Learning Without Episodic Memory](https://arxiv.org/pdf/2307.00497.pdf) |2023 | ICMLW
