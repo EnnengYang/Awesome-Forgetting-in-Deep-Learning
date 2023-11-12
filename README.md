@@ -121,6 +121,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [An Efficient Dataset Condensation Plugin and Its Application to Continual Learning](https://openreview.net/pdf?id=Murj6wcjRw) | 2023 | NeurIPS
 | [Distributionally Robust Memory Evolution with Generalized Divergence for Continual Learning](https://www.computer.org/csdl/journal/tp/5555/01/10258417/1QEwVQys7ok) | 2023 | TPAMI
 | [Improving Replay Sample Selection and Storage for Less Forgetting in Continual Learning](https://arxiv.org/pdf/2308.01895.pdf) | 2023 | ICCV
 | [Masked Autoencoders are Efficient Class Incremental Learners](https://arxiv.org/pdf/2308.12510.pdf) | 2023 | ICCV
