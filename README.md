@@ -766,6 +766,13 @@ Beneficial forgetting arises when the model contains private information that co
 
 ******
 
+**Star History**
+
+[![Star History Chart](https://api.star-history.com/svg?repos=EnnengYang/Awesome-Forgetting-in-Deep-Learning&type=Date)](https://star-history.com/#EnnengYang/Awesome-Forgetting-in-Deep-Learning&Date)
+
+
+******
+
 **Contact**
 
 We welcome all researchers to contribute to this repository **'forgetting in deep learning'**.
