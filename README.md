@@ -672,6 +672,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [A Data-Free Approach to Mitigate Catastrophic Forgetting in Federated Class Incremental Learning for Vision Tasks](https://arxiv.org/pdf/2311.07784.pdf)| 2023 | NeurIPS
 | [TARGET: Federated Class-Continual Learning via Exemplar-Free Distillation](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_TARGET_Federated_Class-Continual_Learning_via_Exemplar-Free_Distillation_ICCV_2023_paper.pdf)| 2023 | ICCV
 | [FedET: A Communication-Efficient Federated Class-Incremental Learning Framework Based on Enhanced Transformer](https://arxiv.org/pdf/2306.15347.pdf) | 2023| IJCAI
 | [Better Generative Replay for Continual Federated Learning](https://openreview.net/pdf?id=cRxYWKiTan) |2023 | ICLR
