@@ -622,6 +622,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Replay-enhanced Continual Reinforcement Learning](https://arxiv.org/pdf/2311.11557.pdf)| 2023 | TMLR
 | [A Definition of Continual Reinforcement Learning](https://arxiv.org/pdf/2307.11046.pdf) | 2023 | Arxiv
 | [Continual Task Allocation in Meta-Policy Network via Sparse Prompting](https://openreview.net/pdf?id=IqI8074rFu) |2023 | ICML
 | [Building a Subspace of Policies for Scalable Continual Learning](https://openreview.net/pdf?id=ZloanUtG4a) |2023 | ICLR
