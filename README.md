@@ -126,8 +126,9 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 | [Improving Replay Sample Selection and Storage for Less Forgetting in Continual Learning](https://arxiv.org/pdf/2308.01895.pdf) | 2023 | ICCV
 | [Masked Autoencoders are Efficient Class Incremental Learners](https://arxiv.org/pdf/2308.12510.pdf) | 2023 | ICCV
 | [Error Sensitivity Modulation based Experience Replay: Mitigating Abrupt Representation Drift in Continual Learning](https://openreview.net/pdf?id=zlbci7019Z3) |2023 | ICLR
-|[A Model or 603 Exemplars: Towards Memory-Efficient Class-Incremental Learning](https://arxiv.org/pdf/2205.13218.pdf)| 2023 | ICLR
+| [A Model or 603 Exemplars: Towards Memory-Efficient Class-Incremental Learning](https://arxiv.org/pdf/2205.13218.pdf)| 2023 | ICLR
 | [DualHSIC: HSIC-Bottleneck and Alignment for Continual Learning](https://arxiv.org/pdf/2305.00380.pdf) | 2023 | ICML
+| [DDGR: Continual Learning with Deep Diffusion-based Generative Replay](https://openreview.net/pdf?id=RlqgQXZx6r) | 2023 | ICML
 | [Regularizing Second-Order Influences for Continual Learning](https://openaccess.thecvf.com/content/CVPR2023/papers/Sun_Regularizing_Second-Order_Influences_for_Continual_Learning_CVPR_2023_paper.pdf) | 2023|CVPR
 | [Class-Incremental Exemplar Compression for Class-Incremental Learning](https://openaccess.thecvf.com/content/CVPR2023/papers/Luo_Class-Incremental_Exemplar_Compression_for_Class-Incremental_Learning_CVPR_2023_paper.pdf) | 2023|CVPR
 | [Class-Incremental Learning using Diffusion Model for Distillation and Replay](https://arxiv.org/pdf/2306.17560.pdf) | 2023 | Arxiv
@@ -141,6 +142,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 | [GCR: Gradient Coreset based Replay Buffer Selection for Continual Learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Tiwari_GCR_Gradient_Coreset_Based_Replay_Buffer_Selection_for_Continual_Learning_CVPR_2022_paper.pdf) | 2022 | CVPR
 | [RMM: Reinforced Memory Management for Class-Incremental Learning](https://proceedings.neurips.cc/paper_files/paper/2021/file/1cbcaa5abbb6b70f378a3a03d0c26386-Paper.pdf) | 2021 | NeurIPS
 | [Rainbow Memory: Continual Learning with a Memory of Diverse Samples](https://openaccess.thecvf.com/content/CVPR2021/papers/Bang_Rainbow_Memory_Continual_Learning_With_a_Memory_of_Diverse_Samples_CVPR_2021_paper.pdf) | 2021|CVPR
+| [Prototype Augmentation and Self-Supervision for Incremental Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhu_Prototype_Augmentation_and_Self-Supervision_for_Incremental_Learning_CVPR_2021_paper.pdf) | 2021|CVPR
 | [Always Be Dreaming: A New Approach for Data-Free Class-Incremental Learning](https://openaccess.thecvf.com/content/ICCV2021/papers/Smith_Always_Be_Dreaming_A_New_Approach_for_Data-Free_Class-Incremental_Learning_ICCV_2021_paper.pdf) | 2021 | ICCV
 | [Using Hindsight to Anchor Past Knowledge in Continual Learning](https://arxiv.org/pdf/2002.08165.pdf) | 2021 | AAAI
 | [Improved Schemes for Episodic Memory-based Lifelong Learning](https://proceedings.neurips.cc/paper/2020/file/0b5e29aa1acf8bdc5d8935d7036fa4f5-Paper.pdf) | 2020 |NeurIPS
@@ -150,11 +152,13 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 | [LAMOL: LAnguage MOdeling for Lifelong Language Learning](https://openreview.net/pdf?id=Skgxcn4YDS) | 2020 |ICLR
 | [Mnemonics Training: Multi-Class Incremental Learning without Forgetting](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Mnemonics_Training_Multi-Class_Incremental_Learning_Without_Forgetting_CVPR_2020_paper.pdf) | 2020 | CVPR
 | [GDumb: A Simple Approach that Questions Our Progress in Continual Learning](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470511.pdf) |2020| ECCV
+| [Episodic Memory in Lifelong Language Learning](https://proceedings.neurips.cc/paper_files/paper/2019/file/f8d2e80c1458ea2501f98a2cafadb397-Paper.pdf) | 2019 | NeurIPS
 | [Continual Learning with Tiny Episodic Memories](https://arxiv.org/pdf/1902.10486.pdf) | 2019 | ICML |
 | [Efficient lifelong learning with A-GEM](https://openreview.net/pdf?id=Hkf2_sC5FX) | 2019 | ICLR |
 | [Learning to Learn without Forgetting by Maximizing Transfer and Minimizing Interference](https://openreview.net/pdf?id=B1gTShAct7) | 2019 |ICLR
 | [Large Scale Incremental Learning](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wu_Large_Scale_Incremental_Learning_CVPR_2019_paper.pdf) | 2019 | CVPR
 | [On Tiny Episodic Memories in Continual Learning](https://arxiv.org/pdf/1902.10486.pdf) | 2019 | Arxiv
+| [Memory Replay GANs: learning to generate images from new categories without forgetting](https://proceedings.neurips.cc/paper_files/paper/2018/file/a57e8915461b83adefb011530b711704-Paper.pdf) | 2018 |NeurIPS
 | [Progress & Compress: A scalable framework for continual learning](https://proceedings.mlr.press/v80/schwarz18a/schwarz18a.pdf) | 2018 | ICML
 | [Gradient Episodic Memory for Continual Learning](https://proceedings.neurips.cc/paper_files/paper/2017/file/f87522788a2be2d171666752f97ddebb-Paper.pdf) | 2017 |NeurIPS
 | [Continual Learning with Deep Generative Replay](https://proceedings.neurips.cc/paper_files/paper/2017/file/0efbe98067c6c73dba1250d2beaa81f9-Paper.pdf) | 2017 |NeurIPS
@@ -186,6 +190,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 | [Adaptive Aggregation Networks for Class-Incremental Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Adaptive_Aggregation_Networks_for_Class-Incremental_Learning_CVPR_2021_paper.pdf) |2021 | CVPR
 | [BatchEnsemble: an Alternative Approach to Efficient Ensemble and Lifelong Learning](https://openreview.net/pdf?id=Sklf1yrYDr) | 2020 | ICLR
 | [Calibrating CNNs for Lifelong Learning](https://proceedings.neurips.cc/paper_files/paper/2020/file/b3b43aeeacb258365cc69cdaf42a68af-Paper.pdf) | 2020 | NeurIPS
+| [Continual Learning of a Mixed Sequence of Similar and Dissimilar Tasks](https://proceedings.neurips.cc/paper/2020/file/d7488039246a405baf6a7cbc3613a56f-Paper.pdf) | 2020 | NeurIPS
 | [Compacting, Picking and Growing for Unforgetting Continual Learning](https://proceedings.neurips.cc/paper/2019/file/3b220b436e5f3d917a1e649a0dc0281c-Paper.pdf) | 2019 | NeurIPS
 | [Superposition of many models into one](https://papers.nips.cc/paper_files/paper/2019/file/4c7a167bb329bd92580a99ce422d6fa6-Paper.pdf)  | 2019 | NeurIPS
 | [Reinforced Continual Learning](https://proceedings.neurips.cc/paper_files/paper/2018/file/cee631121c2ec9232f3a2f028ad5c89b-Paper.pdf) | 2018 | NeurIPS
@@ -202,12 +207,21 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
 | [Overcoming Catastrophic Forgetting in Incremental Object Detection via Elastic Response Distillation](https://openaccess.thecvf.com/content/CVPR2022/papers/Feng_Overcoming_Catastrophic_Forgetting_in_Incremental_Object_Detection_via_Elastic_Response_CVPR_2022_paper.pdf) | 2022 | CVPR
+| [Class-Incremental Learning by Knowledge Distillation with Adaptive Feature Consolidation](https://openaccess.thecvf.com/content/CVPR2022/papers/Kang_Class-Incremental_Learning_by_Knowledge_Distillation_With_Adaptive_Feature_Consolidation_CVPR_2022_paper.pdf) | 2022 | CVPR
 | [Natural continual learning: success is a journey, not (just) a destination](https://proceedings.neurips.cc/paper/2021/file/ec5aa0b7846082a2415f0902f0da88f2-Paper.pdf) | 2021 | NeurIPS
+| [Distilling Causal Effect of Data in Class-Incremental Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Hu_Distilling_Causal_Effect_of_Data_in_Class-Incremental_Learning_CVPR_2021_paper.pdf) | 2021 | CVPR
+| [On Learning the Geodesic Path for Incremental Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Simon_On_Learning_the_Geodesic_Path_for_Incremental_Learning_CVPR_2021_paper.pdf) | 2021 | CVPR
 | [CPR: Classifier-Projection Regularization for Continual Learning](https://openreview.net/pdf?id=F2v4aqEL6ze) | 2021 | ICLR
+| [Few-Shot Class-Incremental Learning via Relation Knowledge Distillation](https://ojs.aaai.org/index.php/AAAI/article/view/16213) | 2021 | AAAI
 | [Continual Learning with Node-Importance based Adaptive Group Sparse Regularization](https://proceedings.neurips.cc/paper/2020/file/258be18e31c8188555c2ff05b4d542c3-Paper.pdf) | 2020 | NeurIPS
+| [PODNet: Pooled Outputs Distillation for Small-Tasks Incremental Learning](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650086.pdf) | 2020 | ECCV
+| [Topology-Preserving Class-Incremental Learning](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123640256.pdf) | 2020 | ECCV
 | [Uncertainty-based Continual Learning with Adaptive Regularization](https://proceedings.neurips.cc/paper_files/paper/2019/file/2c3ddf4bf13852db711dd1901fb517fa-Paper.pdf) | 2019 |NeurIPS
+| [Learning a Unified Classifier Incrementally via Rebalancing](https://openaccess.thecvf.com/content_CVPR_2019/papers/Hou_Learning_a_Unified_Classifier_Incrementally_via_Rebalancing_CVPR_2019_paper.pdf) | 2019 | CVPR
+| [Learning Without Memorizing](https://openaccess.thecvf.com/content_CVPR_2019/papers/Dhar_Learning_Without_Memorizing_CVPR_2019_paper.pdf) | 2019 | CVPR
 | [Efficient Lifelong Learning with A-GEM](https://openreview.net/pdf?id=Hkf2_sC5FX) | 2019| ICLR
 | [Riemannian Walk for Incremental Learning: Understanding Forgetting and Intransigence](https://openaccess.thecvf.com/content_ECCV_2018/papers/Arslan_Chaudhry__Riemannian_Walk_ECCV_2018_paper.pdf) | 2018 | ECCV
+| [Lifelong Learning via Progressive Distillation and Retrospection](https://openaccess.thecvf.com/content_ECCV_2018/papers/Saihui_Hou_Progressive_Lifelong_Learning_ECCV_2018_paper.pdf) | 2018 | ECCV
 | [Memory Aware Synapses: Learning what (not) to forget](https://openaccess.thecvf.com/content_ECCV_2018/papers/Rahaf_Aljundi_Memory_Aware_Synapses_ECCV_2018_paper.pdf) | 2018 | ECCV
 | [Overcoming catastrophic forgetting in neural networks](https://arxiv.org/pdf/1612.00796v2.pdf) | 2017 | Arxiv
 | [Continual Learning Through Synaptic Intelligence](https://dl.acm.org/doi/pdf/10.5555/3305890.3306093) | 2017 | ICML
@@ -330,7 +344,8 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 | [Information-theoretic Online Memory Selection for Continual Learning](https://openreview.net/pdf?id=IpctgL7khPp) | 2022 | ICLR
 | [SS-IL: Separated Softmax for Incremental Learning](https://openaccess.thecvf.com/content/ICCV2021/papers/Ahn_SS-IL_Separated_Softmax_for_Incremental_Learning_ICCV_2021_paper.pdf) |2021 | ICCV
 | [Online Continual Learning from Imbalanced Data](http://proceedings.mlr.press/v119/chrysakis20a/chrysakis20a.pdf) | 2020 | ICML
-| [Maintaining Discrimination and Fairness in Class Incremental Learning]() |2020 | CVPR
+| [Maintaining Discrimination and Fairness in Class Incremental Learning](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_Maintaining_Discrimination_and_Fairness_in_Class_Incremental_Learning_CVPR_2020_paper.pdf) |2020 | CVPR
+| [Semantic Drift Compensation for Class-Incremental Learning](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yu_Semantic_Drift_Compensation_for_Class-Incremental_Learning_CVPR_2020_paper.pdf) |2020 | CVPR
 | [Imbalanced Continual Learning with Partitioning Reservoir Sampling](https://arxiv.org/pdf/2009.03632.pdf) | 2020| ECCV
 | [GDumb: A Simple Approach that Questions Our Progress in Continual Learning](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470511.pdf) |2020 | ECCV
 | [Large scale incremental learning](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wu_Large_Scale_Incremental_Learning_CVPR_2019_paper.pdf) | 2019 | CVPR
@@ -457,6 +472,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 | [SLCA: Slow Learner with Classifier Alignment for Continual Learning on a Pre-trained Model](https://arxiv.org/pdf/2303.05118.pdf)| 2023| ICCV
 | [Progressive Prompts: Continual Learning for Language Models](https://openreview.net/pdf?id=UJTgQBc91_) | 2023| ICLR
 | [Continual Pre-training of Language Models](https://openreview.net/pdf?id=m_GDIItaI3o) | 2023 | ICLR
+| [Continual Learning of Language Models](https://openreview.net/pdf?id=m_GDIItaI3o)| 2023 | ICLR
 | [CODA-Prompt: COntinual Decomposed Attention-based Prompting for Rehearsal-Free Continual Learning](https://openaccess.thecvf.com/content/CVPR2023/papers/Smith_CODA-Prompt_COntinual_Decomposed_Attention-Based_Prompting_for_Rehearsal-Free_Continual_Learning_CVPR_2023_paper.pdf) | 2023 | CVPR
 | [PIVOT: Prompting for Video Continual Learning](https://openaccess.thecvf.com/content/CVPR2023/papers/Villa_PIVOT_Prompting_for_Video_Continual_Learning_CVPR_2023_paper.pdf) |2023 | CVPR
 | [Do Pre-trained Models Benefit Equally in Continual Learning?](https://openaccess.thecvf.com/content/WACV2023/papers/Lee_Do_Pre-Trained_Models_Benefit_Equally_in_Continual_Learning_WACV_2023_paper.pdf) | 2023 | WACV
@@ -466,6 +482,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 | [S-Prompts Learning with Pre-trained Transformers: An Occam’s Razor for Domain Incremental Learning](https://openreview.net/pdf?id=ZVe_WeMold) |2022 | NeurIPS
 | [Pretrained Language Model in Continual Learning: A Comparative Study](https://openreview.net/pdf?id=figzpGMrdD) | 2022 | ICLR
 | [Effect of scale on catastrophic forgetting in neural networks](https://openreview.net/pdf?id=GhVS8_yPeEa) | 2022| ICLR
+| [LFPT5: A Unified Framework for Lifelong Few-shot Language Learning Based on Prompt Tuning of T5](https://openreview.net/pdf?id=HCRVf71PMF) | 2022| ICLR
 | [Learning to Prompt for Continual Learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Learning_To_Prompt_for_Continual_Learning_CVPR_2022_paper.pdf) | 2022 | CVPR
 | [Class-Incremental Learning with Strong Pre-trained Models](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_Class-Incremental_Learning_With_Strong_Pre-Trained_Models_CVPR_2022_paper.pdf) |  2022|CVPR
 | [DualPrompt: Complementary Prompting for Rehearsal-free Continual Learning](https://arxiv.org/pdf/2204.04799.pdf) |2022  |ECCV
@@ -473,8 +490,10 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 | [Fine-tuned Language Models are Continual Learners](https://aclanthology.org/2022.emnlp-main.410.pdf) | 2022 | EMNLP
 | [Continual Training of Language Models for Few-Shot Learning](https://aclanthology.org/2022.emnlp-main.695.pdf) | 2022 | EMNLP
 | [Continual Learning with Foundation Models: An Empirical Study of Latent Replay](https://arxiv.org/pdf/2205.00329.pdf) |2022 | Conference on Lifelong Learning Agents
+| [Rational LAMOL: A Rationale-Based Lifelong Learning Framework](https://aclanthology.org/2021.acl-long.229.pdf) | 2021 | ACL
 | [Achieving Forgetting Prevention and Knowledge Transfer in Continual Learning](https://openreview.net/pdf?id=RJ7XFI15Q8f) | 2021 |NeurIPS
 | [An Empirical Investigation of the Role of Pre-training in Lifelong Learning](https://arxiv.org/pdf/2112.09153.pdf) | 2021 | Arxiv
+| [LAnguage MOdeling for Lifelong Language Learning](https://openreview.net/pdf?id=Skgxcn4YDS) | 2020 | ICLR
 
 
 ### Forgetting in Domain Adaptation
