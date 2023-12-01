@@ -469,6 +469,8 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
 | [Hierarchical Decomposition of Prompt-Based Continual Learning: Rethinking Obscured Sub-optimality](https://arxiv.org/pdf/2310.07234.pdf) | 2023 | NeurIPS
+| [Generating Instance-level Prompts for Rehearsal-free Continual Learning](https://openaccess.thecvf.com/content/ICCV2023/papers/Jung_Generating_Instance-level_Prompts_for_Rehearsal-free_Continual_Learning_ICCV_2023_paper.pdf) | 2023| ICCV
+| [Introducing Language Guidance in Prompt-based Continual Learning](https://openaccess.thecvf.com/content/ICCV2023/papers/Khan_Introducing_Language_Guidance_in_Prompt-based_Continual_Learning_ICCV_2023_paper.pdf) | 2023| ICCV
 | [SLCA: Slow Learner with Classifier Alignment for Continual Learning on a Pre-trained Model](https://arxiv.org/pdf/2303.05118.pdf)| 2023| ICCV
 | [Progressive Prompts: Continual Learning for Language Models](https://openreview.net/pdf?id=UJTgQBc91_) | 2023| ICLR
 | [Continual Pre-training of Language Models](https://openreview.net/pdf?id=m_GDIItaI3o) | 2023 | ICLR
