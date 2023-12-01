@@ -370,8 +370,8 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Few-Shot Class-Incremental Learning via Training-Free Prototype Calibration](https://openreview.net/pdf?id=8NAxGDdf7H) |2023 | NeurIPS
 | [Few-shot Class-incremental Learning: A Survey](https://arxiv.org/pdf/2308.06764.pdf) | 2023 | Arxiv
-| [Neural Collapse Terminus: A Unified Solution for Class Incremental Learning and Its Variants](https://arxiv.org/pdf/2308.01746.pdf) | 2023 | Arxiv
 | [Warping the Space: Weight Space Rotation for Class-Incremental Few-Shot Learning](https://openreview.net/pdf?id=kPLzOfPfA2l) |2023 | ICLR
 | [Neural Collapse Inspired Feature-Classifier Alignment for Few-Shot Class Incremental Learning](https://openreview.net/pdf?id=y5W8tpojhtJ) |2023 | ICLR
 | [Few-Shot Class-Incremental Learning by Sampling Multi-Phase Tasks](https://arxiv.org/pdf/2203.17030.pdf) | 2022 | TPAMI
@@ -391,6 +391,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 | [Few-shot Continual Learning: a Brain-inspired Approach](https://arxiv.org/pdf/2104.09034.pdf) | 2021 | Arxiv |
 | [Few-Shot Class-Incremental Learning](https://openaccess.thecvf.com/content_CVPR_2020/papers/Tao_Few-Shot_Class-Incremental_Learning_CVPR_2020_paper.pdf) | 2020 | CVPR
 
+<!-- | [Neural Collapse Terminus: A Unified Solution for Class Incremental Learning and Its Variants](https://arxiv.org/pdf/2308.01746.pdf) | 2023 | Arxiv -->
 
 #### Unsupervised CL
 > Unsupervised CL (UCL) assumes that only unlabeled data is provided to the CL learner.
