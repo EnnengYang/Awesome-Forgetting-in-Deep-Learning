@@ -741,6 +741,7 @@ Beneficial forgetting arises when the model contains private information that co
 | --------------- | :----: | :----: |
 | [Sample-Efficient Reinforcement Learning by Breaking the Replay Ratio Barrier](https://openreview.net/pdf?id=OpC-9aBBVJe) | 2023|ICLR
 | [The Primacy Bias in Deep Reinforcement Learning](https://proceedings.mlr.press/v162/nikishin22a/nikishin22a.pdf) | 2022|ICML
+| [The Impact of Reinitialization on Generalization in Convolutional Neural Networks](https://arxiv.org/pdf/2109.00267.pdf) | 2021 | Arxiv
 | [Learning with Selective Forgetting](https://www.ijcai.org/proceedings/2021/0137.pdf) | 2021|IJCAI
 | [SIGUA: Forgetting May Make Learning with Noisy Labels More Robust](https://arxiv.org/pdf/1809.11008.pdf) | 2020|ICML
 | [Invariant Representations through Adversarial Forgetting](https://ojs.aaai.org/index.php/AAAI/article/view/5850/5706) |2020 |AAAI
@@ -759,6 +760,7 @@ Beneficial forgetting arises when the model contains private information that co
 | [Skin Deep Unlearning: Artefact and Instrument Debiasing in the Context of Melanoma Classification](https://proceedings.mlr.press/v162/bevan22a/bevan22a.pdf) |2022 |ICML
 | [Near-Optimal Task Selection for Meta-Learning with Mutual Information and Online Variational Bayesian Unlearning](https://proceedings.mlr.press/v151/chen22h/chen22h.pdf) |2022 |AISTATS
 | [AFEC: Active Forgetting of Negative Transfer in Continual Learning](https://proceedings.neurips.cc/paper/2021/file/bc6dc48b743dc5d013b1abaebd2faed2-Paper.pdf) |2021 |NeurIPS
+| [Knowledge Evolution in Neural Networks](https://openaccess.thecvf.com/content/CVPR2021/papers/Taha_Knowledge_Evolution_in_Neural_Networks_CVPR_2021_paper.pdf) | 2021 | CVPR
 | [Active Forgetting: Adaptation of Memory by Prefrontal Control](https://www.annualreviews.org/doi/10.1146/annurev-psych-072720-094140) | 2021|Annual Review of Psychology
 | [Learning to Forget for Meta-Learning](https://openaccess.thecvf.com/content_CVPR_2020/papers/Baik_Learning_to_Forget_for_Meta-Learning_CVPR_2020_paper.pdf) | 2020|CVPR
 | [The Forgotten Part of Memory](https://www.nature.com/articles/d41586-019-02211-5) |2019 |Nature
