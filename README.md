@@ -753,6 +753,7 @@ Beneficial forgetting arises when the model contains private information that co
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Improving Language Plasticity via Pretraining with Active Forgetting](https://arxiv.org/pdf/2307.01163.pdf) | 2023 | NeurIPS
 | [ReFactor GNNs: Revisiting Factorisation-based Models from a Message-Passing Perspective](https://openreview.net/pdf?id=81LQV4k7a7X) | 2022|NeurIPS
 | [Fortuitous Forgetting in Connectionist Networks](https://openreview.net/pdf?id=ei3SY1_zYsE) | 2022|ICLR
 | [Skin Deep Unlearning: Artefact and Instrument Debiasing in the Context of Melanoma Classification](https://proceedings.mlr.press/v162/bevan22a/bevan22a.pdf) |2022 |ICML
