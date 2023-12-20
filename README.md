@@ -171,6 +171,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Incorporating neuro-inspired adaptability for continual learning in artificial intelligence](https://www.nature.com/articles/s42256-023-00747-w) | 2023 | Nature Machine Intelligence
 | [TriRE: A Multi-Mechanism Learning Paradigm for Continual Knowledge Retention and Promotion](https://arxiv.org/pdf/2310.08217.pdf) | 2023 | NeurIPS
 | [ScrollNet: Dynamic Weight Importance for Continual Learning](https://arxiv.org/pdf/2308.16567.pdf) | 2023 | ICCV
 | [CLR: Channel-wise Lightweight Reprogramming for Continual Learning](https://arxiv.org/pdf/2307.11386.pdf) | 2023 | ICCV
