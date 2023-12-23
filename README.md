@@ -288,6 +288,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Doubly Perturbed Task-Free Continual Learning](https://arxiv.org/pdf/2312.13027.pdf) | 2024 | AAAI
 | [Online Bias Correction for Task-Free Continual Learning](https://openreview.net/pdf?id=18XzeuYZh_) | 2023 | ICLR
 | [Task-Free Continual Learning via Online Discrepancy Distance Learning](https://openreview.net/pdf?id=UFTcdcJrIl2) | 2022 |NeurIPS
 | [Improving Task-free Continual Learning by Distributionally Robust Memory Evolution](https://proceedings.mlr.press/v162/wang22v/wang22v.pdf) | 2022 | ICML
@@ -650,6 +651,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Prediction and Control in Continual Reinforcement Learning](https://arxiv.org/pdf/2312.11669.pdf) | 2023 | NeurIPS
 | [Replay-enhanced Continual Reinforcement Learning](https://arxiv.org/pdf/2311.11557.pdf)| 2023 | TMLR
 | [A Definition of Continual Reinforcement Learning](https://arxiv.org/pdf/2307.11046.pdf) | 2023 | Arxiv
 | [Continual Task Allocation in Meta-Policy Network via Sparse Prompting](https://openreview.net/pdf?id=IqI8074rFu) |2023 | ICML
