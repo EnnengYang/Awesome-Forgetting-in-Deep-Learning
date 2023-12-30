@@ -121,7 +121,13 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Saving 100x Storage: Prototype Replay for Reconstructing Training Sample Distribution in Class-Incremental Semantic Segmentation](https://openreview.net/pdf?id=Ct0zPIe3xs) |  2023 | NeurIPS
+| [Selective Amnesia: A Continual Learning Approach to Forgetting in Deep Generative Models](https://arxiv.org/pdf/2305.10120.pdf) | 2023 | NeurIPS
+| [A Unified Approach to Domain Incremental Learning with Memory: Theory and Algorithm](https://arxiv.org/pdf/2310.12244.pdf)|  2023 | NeurIPS
 | [An Efficient Dataset Condensation Plugin and Its Application to Continual Learning](https://openreview.net/pdf?id=Murj6wcjRw) | 2023 | NeurIPS
+| [Augmented Memory Replay-based Continual Learning Approaches for Network Intrusion Detection](https://openreview.net/pdf?id=yGLokEhdh9) | 2023 | NeurIPS
+| [Bilevel Coreset Selection in Continual Learning: A New Formulation and Algorithm](https://openreview.net/pdf?id=2dtU9ZbgSN) | 2023 | NeurIPS
+| [FeCAM: Exploiting the Heterogeneity of Class Distributions in Exemplar-Free Continual Learning](https://arxiv.org/pdf/2309.14062.pdf) | 2023 | NeurIPS
 | [Distributionally Robust Memory Evolution with Generalized Divergence for Continual Learning](https://www.computer.org/csdl/journal/tp/5555/01/10258417/1QEwVQys7ok) | 2023 | TPAMI
 | [Improving Replay Sample Selection and Storage for Less Forgetting in Continual Learning](https://arxiv.org/pdf/2308.01895.pdf) | 2023 | ICCV
 | [Masked Autoencoders are Efficient Class Incremental Learners](https://arxiv.org/pdf/2308.12510.pdf) | 2023 | ICCV
@@ -129,6 +135,9 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 | [A Model or 603 Exemplars: Towards Memory-Efficient Class-Incremental Learning](https://arxiv.org/pdf/2205.13218.pdf)| 2023 | ICLR
 | [DualHSIC: HSIC-Bottleneck and Alignment for Continual Learning](https://arxiv.org/pdf/2305.00380.pdf) | 2023 | ICML
 | [DDGR: Continual Learning with Deep Diffusion-based Generative Replay](https://openreview.net/pdf?id=RlqgQXZx6r) | 2023 | ICML
+| [BiRT: Bio-inspired Replay in Vision Transformers for Continual Learning](https://arxiv.org/pdf/2305.04769.pdf)| 2023 | ICML
+| [Neuro-Symbolic Continual Learning: Knowledge, Reasoning Shortcuts and Concept Rehearsal](https://proceedings.mlr.press/v202/marconato23a/marconato23a.pdf)| 2023 | ICML
+| [Poisoning Generative Replay in Continual Learning to Promote Forgetting](https://proceedings.mlr.press/v202/kang23c/kang23c.pdf)| 2023 | ICML
 | [Regularizing Second-Order Influences for Continual Learning](https://openaccess.thecvf.com/content/CVPR2023/papers/Sun_Regularizing_Second-Order_Influences_for_Continual_Learning_CVPR_2023_paper.pdf) | 2023|CVPR
 | [Class-Incremental Exemplar Compression for Class-Incremental Learning](https://openaccess.thecvf.com/content/CVPR2023/papers/Luo_Class-Incremental_Exemplar_Compression_for_Class-Incremental_Learning_CVPR_2023_paper.pdf) | 2023|CVPR
 | [Class-Incremental Learning using Diffusion Model for Distillation and Replay](https://arxiv.org/pdf/2306.17560.pdf) | 2023 | Arxiv
@@ -207,6 +216,8 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Prototype-Sample Relation Distillation: Towards Replay-Free Continual Learning](https://arxiv.org/pdf/2303.14771.pdf) | 2023 | ICML
+| [Continual Learning via Sequential Function-Space Variational Inference](https://arxiv.org/pdf/2312.17210.pdf) | 2022 | ICML
 | [Overcoming Catastrophic Forgetting in Incremental Object Detection via Elastic Response Distillation](https://openaccess.thecvf.com/content/CVPR2022/papers/Feng_Overcoming_Catastrophic_Forgetting_in_Incremental_Object_Detection_via_Elastic_Response_CVPR_2022_paper.pdf) | 2022 | CVPR
 | [Class-Incremental Learning by Knowledge Distillation with Adaptive Feature Consolidation](https://openaccess.thecvf.com/content/CVPR2022/papers/Kang_Class-Incremental_Learning_by_Knowledge_Distillation_With_Adaptive_Feature_Consolidation_CVPR_2022_paper.pdf) | 2022 | CVPR
 | [Natural continual learning: success is a journey, not (just) a destination](https://proceedings.neurips.cc/paper/2021/file/ec5aa0b7846082a2415f0902f0da88f2-Paper.pdf) | 2021 | NeurIPS
@@ -235,10 +246,10 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
-| [Data Augmented Flatness-aware Gradient Projection for Continual Learning](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Data_Augmented_Flatness-aware_Gradient_Projection_for_Continual_Learning_ICCV_2023_paper.pdf) | 2023 | ICCV
 | [Orthogonal Subspace Learning for Language Model Continual Learning](https://arxiv.org/pdf/2310.14152.pdf) | 2023 | EMNLP
-| [Building a Subspace of Policies for Scalable Continual Learning](https://openreview.net/pdf?id=ZloanUtG4a) | 2023 | ICLR
+| [Data Augmented Flatness-aware Gradient Projection for Continual Learning](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Data_Augmented_Flatness-aware_Gradient_Projection_for_Continual_Learning_ICCV_2023_paper.pdf) | 2023 | ICCV
 | [Rethinking Gradient Projection Continual Learning: Stability / Plasticity Feature Space Decoupling](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_Rethinking_Gradient_Projection_Continual_Learning_Stability__Plasticity_Feature_Space_CVPR_2023_paper.pdf) | 2023 | CVPR
+| [Building a Subspace of Policies for Scalable Continual Learning](https://openreview.net/pdf?id=ZloanUtG4a) | 2023 | ICLR
 | [Continual Learning with Scaled Gradient Projection](https://arxiv.org/pdf/2302.01386.pdf) | 2023 | AAAI
 | [SketchOGD: Memory-Efficient Continual Learning](https://arxiv.org/pdf/2305.16424.pdf) | 2023 | Arxiv
 | [Beyond Not-Forgetting: Continual Learning with Backward Knowledge Transfer](https://openreview.net/pdf?id=diV1PpaP33) | 2022 | NeurIPS
@@ -289,6 +300,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
 | [Doubly Perturbed Task-Free Continual Learning](https://arxiv.org/pdf/2312.13027.pdf) | 2024 | AAAI
+| [Loss Decoupling for Task-Agnostic Continual Learning](https://openreview.net/pdf?id=9Oi3YxIBSa) | 2023 | NeurIPS
 | [Online Bias Correction for Task-Free Continual Learning](https://openreview.net/pdf?id=18XzeuYZh_) | 2023 | ICLR
 | [Task-Free Continual Learning via Online Discrepancy Distance Learning](https://openreview.net/pdf?id=UFTcdcJrIl2) | 2022 |NeurIPS
 | [Improving Task-free Continual Learning by Distributionally Robust Memory Evolution](https://proceedings.mlr.press/v162/wang22v/wang22v.pdf) | 2022 | ICML
@@ -342,6 +354,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Overcoming Recency Bias of Normalization Statistics in Continual Learning: Balance and Adaptation](https://openreview.net/pdf?id=Ph65E1bE6A) | 2023 | NeurIPS
 | [Online Bias Correction for Task-Free Continual Learning](https://openreview.net/pdf?id=18XzeuYZh_) | 2023| ICLR
 | [Information-theoretic Online Memory Selection for Continual Learning](https://openreview.net/pdf?id=IpctgL7khPp) | 2022 | ICLR
 | [SS-IL: Separated Softmax for Incremental Learning](https://openaccess.thecvf.com/content/ICCV2021/papers/Ahn_SS-IL_Separated_Softmax_for_Incremental_Learning_ICCV_2021_paper.pdf) |2021 | ICCV
@@ -361,6 +374,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Dynamic Sub-graph Distillation for Robust Semi-supervised Continual Learning](https://arxiv.org/pdf/2312.16409.pdf) | 2024 | AAAI
 | [Semi-supervised drifted stream learning with short lookback](https://arxiv.org/pdf/2205.13066.pdf) | 2022 | SIGKDD
 | [Ordisco: Effective and efficient usage of incremental unlabeled data for semi-supervised continual learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_ORDisCo_Effective_and_Efficient_Usage_of_Incremental_Unlabeled_Data_for_CVPR_2021_paper.pdf) | 2021 | CVPR
 | [Memory-Efficient Semi-Supervised Continual Learning: The World is its Own Replay Buffer](https://arxiv.org/pdf/2101.09536.pdf) | 2021| IJCNN
@@ -400,6 +414,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Plasticity-Optimized Complementary Networks for Unsupervised Continual](https://arxiv.org/pdf/2309.06086.pdf) | 2024 | WACV
 | [Unsupervised Continual Learning in Streaming Environments](https://ieeexplore.ieee.org/document/9756660) | 2023 | TNNLS
 | [Representational Continuity for Unsupervised Continual Learning](https://openreview.net/pdf?id=9Hrka5PA7LW) | 2022 | ICLR
 | [Probing Representation Forgetting in Supervised and Unsupervised Continual Learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Davari_Probing_Representation_Forgetting_in_Supervised_and_Unsupervised_Continual_Learning_CVPR_2022_paper.pdf) |2022 | CVPR
@@ -414,6 +429,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Does Continual Learning Equally Forget All Parameters? ](https://proceedings.mlr.press/v202/zhao23n/zhao23n.pdf)| 2023 | ICML
 | [The Ideal Continual Learner: An Agent That Never Forgets](https://openreview.net/pdf?id=o7BOzuqFi2) | 2023 | ICML
 | [Continual Learning in Linear Classification on Separable Data](https://openreview.net/pdf?id=kkpIrMu3Vf) | 2023 | ICML
 | [Theory on Forgetting and Generalization of Continual Learning](https://arxiv.org/pdf/2302.05836.pdf) |2023  | ArXiv
@@ -472,7 +488,8 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
-| [KOPPA: Improving Prompt-based Continual Learning with Key-Query Orthogonal Projection and Prototype-based One-Versus-All](https://arxiv.org/pdf/2311.15414.pdf) | 2023 | Arxiv
+| [KOPPA: Improving Prompt-based Continual Learning with Key-Query Orthogonal Projection and Prototype-based One-Versus-All](https://arxiv.org/pdf/2311.15414.pdf) | 2023 |
+| [RanPAC: Random Projections and Pre-trained Models for Continual Learning](https://arxiv.org/pdf/2307.02251.pdf) | 2023 | NeurIPS
 | [Hierarchical Decomposition of Prompt-Based Continual Learning: Rethinking Obscured Sub-optimality](https://arxiv.org/pdf/2310.07234.pdf) | 2023 | NeurIPS
 | [Generating Instance-level Prompts for Rehearsal-free Continual Learning](https://openaccess.thecvf.com/content/ICCV2023/papers/Jung_Generating_Instance-level_Prompts_for_Rehearsal-free_Continual_Learning_ICCV_2023_paper.pdf) | 2023| ICCV
 | [Introducing Language Guidance in Prompt-based Continual Learning](https://openaccess.thecvf.com/content/ICCV2023/papers/Khan_Introducing_Language_Guidance_in_Prompt-based_Continual_Learning_ICCV_2023_paper.pdf) | 2023| ICCV
@@ -570,6 +587,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Few-Shot Class-Incremental Learning via Training-Free Prototype Calibration](https://arxiv.org/pdf/2312.05229.pdf) | 2023|NeurIPS
 | [Constrained Few-shot Class-incremental Learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Hersche_Constrained_Few-Shot_Class-Incremental_Learning_CVPR_2022_paper.pdf) | 2022 | CVPR
 | [Meta-Learning with Less Forgetting on Large-Scale Non-Stationary Task Distributions](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136800211.pdf) | 2022 | ECCV
 | [Overcoming Catastrophic Forgetting in Incremental Few-Shot Learning by Finding Flat Minima](https://proceedings.neurips.cc/paper/2021/file/357cfba15668cc2e1e73111e09d54383-Paper.pdf) | 2021 | NeurIPS
@@ -585,6 +603,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Recasting Continual Learning as Sequence Modeling](https://arxiv.org/pdf/2310.11952.pdf) | 2023 | NeurIPS
 | [Adaptive Compositional Continual Meta-Learning](https://proceedings.mlr.press/v202/wu23d/wu23d.pdf) | 2023|ICML
 | [Learning to Learn and Remember Super Long Multi-Domain Task Sequence](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Learning_To_Learn_and_Remember_Super_Long_Multi-Domain_Task_Sequence_CVPR_2022_paper.pdf) | 2022|CVPR
 | [Meta-Learning with Less Forgetting on Large-Scale Non-Stationary Task Distributions](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136800211.pdf) | 2022|ECCV
@@ -704,6 +723,8 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [A Data-Free Approach to Mitigate Catastrophic Forgetting in Federated Class Incremental Learning for Vision Tasks](https://arxiv.org/pdf/2311.07784.pdf)|2023 | NeurIPS
+| [Federated Continual Learning via Knowledge Fusion: A Survey](https://arxiv.org/pdf/2312.16475.pdf) | 2023 | Arxiv
 | [A Data-Free Approach to Mitigate Catastrophic Forgetting in Federated Class Incremental Learning for Vision Tasks](https://arxiv.org/pdf/2311.07784.pdf)| 2023 | NeurIPS
 | [TARGET: Federated Class-Continual Learning via Exemplar-Free Distillation](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_TARGET_Federated_Class-Continual_Learning_via_Exemplar-Free_Distillation_ICCV_2023_paper.pdf)| 2023 | ICCV
 | [FedET: A Communication-Efficient Federated Class-Incremental Learning Framework Based on Enhanced Transformer](https://arxiv.org/pdf/2306.15347.pdf) | 2023| IJCAI
