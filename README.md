@@ -109,6 +109,31 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 <u> [Unsupervised CL](#unsupervised-cl)  </u>|
 <u> [Theoretical Analysis](#theoretical-analysis) </u>
 
+
+#### Survey / Book
+| **Paper Title** | **Year** | **Conference/Journal** |
+| --------------- | :----: | :----: |
+| [A Survey on Few-Shot Class-Incremental Learning](https://www.sciencedirect.com/science/article/pii/S0893608023006019?via%3Dihub) | 2024 | Neural Networks
+| [Deep Class-Incremental Learning: A Survey](https://arxiv.org/pdf/2302.03648.pdf) | 2023  | Arxiv
+| [A Comprehensive Survey of Continual Learning: Theory, Method and Application](https://arxiv.org/pdf/2302.00487.pdf) | 2023  | Arxiv
+| [A Survey on Incremental Update for Neural Recommender Systems](https://arxiv.org/pdf/2303.02851.pdf) | 2023  | Arxiv
+| [Continual Graph Learning: A Survey](https://arxiv.org/pdf/2301.12230.pdf) | 2023  | Arxiv
+| [Towards Label-Efficient Incremental Learning: A Survey](https://arxiv.org/pdf/2302.00353.pdf) |    2023  | Arxiv
+| [Advancing continual lifelong learning in neural information retrieval: definition, dataset, framework, and empirical evaluation](https://arxiv.org/pdf/2308.08378.pdf) |   2023  | Arxiv
+| [How to Reuse and Compose Knowledge for a Lifetime of Tasks: A Survey on Continual Learning and Functional Composition](https://arxiv.org/pdf/2207.07730.pdf) | 2023  |  Transactions on Machine Learning Research
+| [Online Continual Learning in Image Classification: An Empirical Survey](https://arxiv.org/pdf/2101.10423.pdf) | 2022  |Neurocomputing
+| [Class-incremental learning: survey and performance evaluation on image classification](https://arxiv.org/pdf/2010.15277.pdf) | 2022  |TPAMI
+| [Towards Continual Reinforcement Learning: A Review and Perspectives](https://arxiv.org/pdf/2012.13490.pdf) | 2022  |Journal of Artificial Intelligence Research
+| [An Introduction to Lifelong Supervised Learning](https://arxiv.org/pdf/2207.04354.pdf) | 2022 | Arxiv
+| [Continual Learning for Real-World Autonomous Systems: Algorithms, Challenges and Frameworks](https://arxiv.org/pdf/2105.12374.pdf) |  2022 | Arxiv
+| [A continual learning survey: Defying forgetting in classification tasks](https://arxiv.org/pdf/1909.08383.pdf) |  2021 | TPAMI
+| [Recent Advances of Continual Learning in Computer Vision: An Overview](https://arxiv.org/pdf/2109.11369.pdf) | 2021  | Arxiv
+| [Continual Lifelong Learning in Natural Language Processing: A Survey](https://aclanthology.org/2020.coling-main.574/) | 2020  |COLING
+| [A Comprehensive Study of Class Incremental Learning Algorithms for Visual Tasks](https://arxiv.org/pdf/2011.01844.pdf) | 2020 | Neural Networks
+| [Continual Lifelong Learning with Neural Networks: A Review](https://www.sciencedirect.com/science/article/pii/S0893608019300231) | 2019   | Neural Networks
+| [Three scenarios for continual learning](https://arxiv.org/pdf/1904.07734.pdf) | 2018  | NeurIPSW
+| [Lifelong Machine Learning](https://link.springer.com/book/10.1007/978-3-031-01575-5) | 2016  | Book
+
 #### Task-aware CL
 > Task-aware CL focuses on addressing scenarios where explicit task definitions, such as task IDs or labels, are available during the CL process. Existing methods on task-aware CL have explored five main branches:   [Memory-based Methods](#memory-based-methods) |
   [Architecture-based Methods](#architecture-based-methods) |
@@ -216,6 +241,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Fine-Grained Knowledge Selection and Restoration for Non-Exemplar Class Incremental Learning](https://arxiv.org/pdf/2312.12722.pdf) | 2024 | AAAI
 | [Prototype-Sample Relation Distillation: Towards Replay-Free Continual Learning](https://arxiv.org/pdf/2303.14771.pdf) | 2023 | ICML
 | [Continual Learning via Sequential Function-Space Variational Inference](https://arxiv.org/pdf/2312.17210.pdf) | 2022 | ICML
 | [Overcoming Catastrophic Forgetting in Incremental Object Detection via Elastic Response Distillation](https://openaccess.thecvf.com/content/CVPR2022/papers/Feng_Overcoming_Catastrophic_Forgetting_in_Incremental_Object_Detection_via_Elastic_Response_CVPR_2022_paper.pdf) | 2022 | CVPR
