@@ -114,6 +114,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
 | [A Survey on Few-Shot Class-Incremental Learning](https://www.sciencedirect.com/science/article/pii/S0893608023006019?via%3Dihub) | 2024 | Neural Networks
+| [A Comprehensive Survey of Forgetting in Deep Learning Beyond Continual Learning](https://arxiv.org/pdf/2307.09218.pdf) | 2023  | Arxiv
 | [Deep Class-Incremental Learning: A Survey](https://arxiv.org/pdf/2302.03648.pdf) | 2023  | Arxiv
 | [A Comprehensive Survey of Continual Learning: Theory, Method and Application](https://arxiv.org/pdf/2302.00487.pdf) | 2023  | Arxiv
 | [A Survey on Incremental Update for Neural Recommender Systems](https://arxiv.org/pdf/2303.02851.pdf) | 2023  | Arxiv
@@ -174,6 +175,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 | [Memory Replay with Data Compression for Continual Learning](https://openreview.net/pdf?id=a7H7OucbWaU) | 2022 | ICLR
 | [Improving Task-free Continual Learning by Distributionally Robust Memory Evolution](https://proceedings.mlr.press/v162/wang22v/wang22v.pdf) | 2022 | ICML
 | [GCR: Gradient Coreset based Replay Buffer Selection for Continual Learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Tiwari_GCR_Gradient_Coreset_Based_Replay_Buffer_Selection_for_Continual_Learning_CVPR_2022_paper.pdf) | 2022 | CVPR
+| [On the Convergence of Continual Learning with Adaptive Methods](https://proceedings.mlr.press/v216/han23a/han23a.pdf) | 2022 | UAI
 | [RMM: Reinforced Memory Management for Class-Incremental Learning](https://proceedings.neurips.cc/paper_files/paper/2021/file/1cbcaa5abbb6b70f378a3a03d0c26386-Paper.pdf) | 2021 | NeurIPS
 | [Rainbow Memory: Continual Learning with a Memory of Diverse Samples](https://openaccess.thecvf.com/content/CVPR2021/papers/Bang_Rainbow_Memory_Continual_Learning_With_a_Memory_of_Diverse_Samples_CVPR_2021_paper.pdf) | 2021|CVPR
 | [Prototype Augmentation and Self-Supervision for Incremental Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhu_Prototype_Augmentation_and_Self-Supervision_for_Incremental_Learning_CVPR_2021_paper.pdf) | 2021|CVPR
@@ -514,7 +516,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
-| [KOPPA: Improving Prompt-based Continual Learning with Key-Query Orthogonal Projection and Prototype-based One-Versus-All](https://arxiv.org/pdf/2311.15414.pdf) | 2023 |
+| [KOPPA: Improving Prompt-based Continual Learning with Key-Query Orthogonal Projection and Prototype-based One-Versus-All](https://arxiv.org/pdf/2311.15414.pdf) | 2023 | Arxiv
 | [RanPAC: Random Projections and Pre-trained Models for Continual Learning](https://arxiv.org/pdf/2307.02251.pdf) | 2023 | NeurIPS
 | [Hierarchical Decomposition of Prompt-Based Continual Learning: Rethinking Obscured Sub-optimality](https://arxiv.org/pdf/2310.07234.pdf) | 2023 | NeurIPS
 | [Generating Instance-level Prompts for Rehearsal-free Continual Learning](https://openaccess.thecvf.com/content/ICCV2023/papers/Jung_Generating_Instance-level_Prompts_for_Rehearsal-free_Continual_Learning_ICCV_2023_paper.pdf) | 2023| ICCV
