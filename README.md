@@ -483,6 +483,8 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Scaling Laws for Forgetting When Fine-Tuning Large Language Models](https://arxiv.org/pdf/2401.05605.pdf)| 2024 | Arxiv
+| [TOFU: A Task of Fictitious Unlearning for LLMs](https://arxiv.org/pdf/2401.06121.pdf) | 2024 | Arxiv
 | [Self-regulating Prompts: Foundational Model Adaptation without Forgetting](https://openaccess.thecvf.com/content/ICCV2023/papers/Khattak_Self-regulating_Prompts_Foundational_Model_Adaptation_without_Forgetting_ICCV_2023_paper.pdf) | 2023| ICCV
 | [Speciality vs Generality: An Empirical Study on Catastrophic Forgetting in Fine-tuning Foundation Models](https://arxiv.org/pdf/2309.06256.pdf) | 2023 | Arxiv
 | [Continual Pre-Training of Large Language Models: How to (re)warm your model?](https://arxiv.org/pdf/2308.04014.pdf) | 2023 | ICMLW
@@ -831,6 +833,7 @@ Beneficial forgetting arises when the model contains private information that co
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Machine Unlearning: A Survey](https://dl.acm.org/doi/10.1145/3603620) | 2023 | ACM Computing Surveys
 | [Deep Unlearning via Randomized Conditionally Independent Hessians](https://openaccess.thecvf.com/content/CVPR2022/papers/Mehta_Deep_Unlearning_via_Randomized_Conditionally_Independent_Hessians_CVPR_2022_paper.pdf) | 2022|CVPR
 | [Eternal Sunshine of the Spotless Net: Selective Forgetting in Deep Networks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Golatkar_Eternal_Sunshine_of_the_Spotless_Net_Selective_Forgetting_in_Deep_CVPR_2020_paper.pdf) |2022 | CVPR
 | [PUMA: Performance Unchanged Model Augmentation for Training Data Removal](https://ojs.aaai.org/index.php/AAAI/article/view/20846/20605) | 2022|AAAI
