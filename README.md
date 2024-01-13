@@ -382,6 +382,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Imbalance Mitigation for Continual Learning via Knowledge Decoupling and Dual Enhanced Contrastive Learning](https://ieeexplore.ieee.org/abstract/document/10382590) | 2024 | TNNLS
 | [Overcoming Recency Bias of Normalization Statistics in Continual Learning: Balance and Adaptation](https://openreview.net/pdf?id=Ph65E1bE6A) | 2023 | NeurIPS
 | [Online Bias Correction for Task-Free Continual Learning](https://openreview.net/pdf?id=18XzeuYZh_) | 2023| ICLR
 | [Information-theoretic Online Memory Selection for Continual Learning](https://openreview.net/pdf?id=IpctgL7khPp) | 2022 | ICLR
@@ -414,6 +415,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Analogical Learning-Based Few-Shot Class-Incremental Learning](https://ieeexplore.ieee.org/abstract/document/10382651) | 2024 | IEEE TCSVT
 | [Few-Shot Class-Incremental Learning via Training-Free Prototype Calibration](https://openreview.net/pdf?id=8NAxGDdf7H) |2023 | NeurIPS
 | [Few-shot Class-incremental Learning: A Survey](https://arxiv.org/pdf/2308.06764.pdf) | 2023 | Arxiv
 | [Warping the Space: Weight Space Rotation for Class-Incremental Few-Shot Learning](https://openreview.net/pdf?id=kPLzOfPfA2l) |2023 | ICLR
