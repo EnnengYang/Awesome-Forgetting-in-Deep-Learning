@@ -348,6 +348,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Online Class-Incremental Learning For Real-World Food Image Classification](https://openaccess.thecvf.com/content/WACV2024/papers/Raghavan_Online_Class-Incremental_Learning_for_Real-World_Food_Image_Classification_WACV_2024_paper.pdf)|2024 | WACV
 | [Rapid Adaptation in Online Continual Learning: Are We Evaluating It Right?](https://openaccess.thecvf.com/content/ICCV2023/papers/Al_Kader_Hammoud_Rapid_Adaptation_in_Online_Continual_Learning_Are_We_Evaluating_It_ICCV_2023_paper.pdf) |2023 | ICCV
 | [CBA: Improving Online Continual Learning via Continual Bias Adaptor](https://arxiv.org/pdf/2308.06925.pdf) | 2023 | ICCV
 | [Online Continual Learning on Hierarchical Label Expansion](https://arxiv.org/pdf/2308.14374.pdf) | 2023 | ICCV
