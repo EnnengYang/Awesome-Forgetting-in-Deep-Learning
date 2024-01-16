@@ -492,6 +492,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 | [Continual Pre-Training of Large Language Models: How to (re)warm your model?](https://arxiv.org/pdf/2308.04014.pdf) | 2023 | ICMLW
 | [Improving Gender Fairness of Pre-Trained Language Models without Catastrophic Forgetting](https://arxiv.org/pdf/2110.05367.pdf) |2023 | ACL
 | [On The Role of Forgetting in Fine-Tuning Reinforcement Learning Models](https://openreview.net/pdf?id=zmXJUKULDzh) | 2023 | ICLRW
+| [Retentive or Forgetful? Diving into the Knowledge Memorizing Mechanism of Language Models](https://arxiv.org/pdf/2305.09144.pdf)| 2023 | Arxiv
 | [Reinforcement Learning with Action-Free Pre-Training from Videos](https://proceedings.mlr.press/v162/seo22a/seo22a.pdf) | 2022 | ICML
 | [Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos](https://openreview.net/pdf?id=AXDNM76T1nc) | 2022 |NeurIPS
 | [On Reinforcement Learning and Distribution Matching for Fine-Tuning Language Models with no Catastrophic Forgetting](https://proceedings.neurips.cc/paper_files/paper/2022/file/67496dfa96afddab795530cc7c69b57a-Paper-Conference.pdf) | 2022 |NeurIPS
