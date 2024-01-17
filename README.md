@@ -207,6 +207,8 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Divide and not forget: Ensemble of selectively trained experts in Continual Learning](https://openreview.net/pdf?id=sSyytcewxe) | 2024 | ICLR
+| [A Probabilistic Framework for Modular Continual Learning](https://openreview.net/pdf?id=MVe2dnWPCu) | 2024 | ICLR
 | [Incorporating neuro-inspired adaptability for continual learning in artificial intelligence](https://www.nature.com/articles/s42256-023-00747-w) | 2023 | Nature Machine Intelligence
 | [TriRE: A Multi-Mechanism Learning Paradigm for Continual Knowledge Retention and Promotion](https://arxiv.org/pdf/2310.08217.pdf) | 2023 | NeurIPS
 | [ScrollNet: Dynamic Weight Importance for Continual Learning](https://arxiv.org/pdf/2308.16567.pdf) | 2023 | ICCV
@@ -274,6 +276,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Hebbian Learning based Orthogonal Projection for Continual Learning of Spiking Neural Networks](https://openreview.net/pdf?id=MeB86edZ1P) | 2024 | ICLR
 | [Orthogonal Subspace Learning for Language Model Continual Learning](https://arxiv.org/pdf/2310.14152.pdf) | 2023 | EMNLP
 | [Data Augmented Flatness-aware Gradient Projection for Continual Learning](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Data_Augmented_Flatness-aware_Gradient_Projection_for_Continual_Learning_ICCV_2023_paper.pdf) | 2023 | ICCV
 | [Rethinking Gradient Projection Continual Learning: Stability / Plasticity Feature Space Decoupling](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_Rethinking_Gradient_Projection_Continual_Learning_Stability__Plasticity_Feature_Space_CVPR_2023_paper.pdf) | 2023 | CVPR
@@ -348,6 +351,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Online Continual Learning for Interactive Instruction Following Agents](https://openreview.net/pdf?id=7M0EzjugaN)|2024 | ICLR
 | [Online Class-Incremental Learning For Real-World Food Image Classification](https://openaccess.thecvf.com/content/WACV2024/papers/Raghavan_Online_Class-Incremental_Learning_for_Real-World_Food_Image_Classification_WACV_2024_paper.pdf)|2024 | WACV
 | [Rapid Adaptation in Online Continual Learning: Are We Evaluating It Right?](https://openaccess.thecvf.com/content/ICCV2023/papers/Al_Kader_Hammoud_Rapid_Adaptation_in_Online_Continual_Learning_Are_We_Evaluating_It_ICCV_2023_paper.pdf) |2023 | ICCV
 | [CBA: Improving Online Continual Learning via Continual Bias Adaptor](https://arxiv.org/pdf/2308.06925.pdf) | 2023 | ICCV
@@ -404,6 +408,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Continual Learning on a Diet: Learning from Sparsely Labeled Streams Under Constrained Computation](https://openreview.net/pdf?id=Xvfz8NHmCj)| 2024 | ICLR
 | [Dynamic Sub-graph Distillation for Robust Semi-supervised Continual Learning](https://arxiv.org/pdf/2312.16409.pdf) | 2024 | AAAI
 | [Semi-supervised drifted stream learning with short lookback](https://arxiv.org/pdf/2205.13066.pdf) | 2022 | SIGKDD
 | [Ordisco: Effective and efficient usage of incremental unlabeled data for semi-supervised continual learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_ORDisCo_Effective_and_Efficient_Usage_of_Incremental_Unlabeled_Data_for_CVPR_2021_paper.pdf) | 2021 | CVPR
@@ -460,6 +465,8 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [A Unified and General Framework for Continual Learning](https://openreview.net/pdf?id=BE5aK0ETbp)| 2024 | ICLR
+| [Continual Learning in the Presence of Spurious Correlations: Analyses and a Simple Baseline](https://openreview.net/pdf?id=3Y7r6xueJJ)| 2024 | ICLR
 | [Does Continual Learning Equally Forget All Parameters? ](https://proceedings.mlr.press/v202/zhao23n/zhao23n.pdf)| 2023 | ICML
 | [The Ideal Continual Learner: An Agent That Never Forgets](https://openreview.net/pdf?id=o7BOzuqFi2) | 2023 | ICML
 | [Continual Learning in Linear Classification on Separable Data](https://openreview.net/pdf?id=kkpIrMu3Vf) | 2023 | ICML
@@ -522,6 +529,9 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Scalable Language Model with Generalized Continual Learning](https://openreview.net/pdf?id=mz8owj4DXu) | 2024 | ICLR
+| [Prompt Gradient Projection for Continual Learning](https://openreview.net/pdf?id=EH2O3h7sBI) | 2024 | ICLR
+| [TiC-CLIP: Continual Training of CLIP Models](https://openreview.net/pdf?id=TLADT8Wrhn)| 2024 | ICLR
 | [KOPPA: Improving Prompt-based Continual Learning with Key-Query Orthogonal Projection and Prototype-based One-Versus-All](https://arxiv.org/pdf/2311.15414.pdf) | 2023 | Arxiv
 | [RanPAC: Random Projections and Pre-trained Models for Continual Learning](https://arxiv.org/pdf/2307.02251.pdf) | 2023 | NeurIPS
 | [Hierarchical Decomposition of Prompt-Based Continual Learning: Rethinking Obscured Sub-optimality](https://arxiv.org/pdf/2310.07234.pdf) | 2023 | NeurIPS
@@ -590,6 +600,8 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [ViDA: Homeostatic Visual Domain Adapter for Continual Test Time Adaptation](https://openreview.net/pdf?id=sJ88Wg5Bp5)| 2024 | ICLR
+| [Continual Momentum Filtering on Parameter Space for Online Test-time Adaptation](https://openreview.net/pdf?id=BllUWdpIOA)| 2024 | ICLR
 | [A Comprehensive Survey on Test-Time Adaptation under Distribution Shifts](https://arxiv.org/pdf/2303.15361.pdf) | 2023 | Arxiv
 | [MECTA: Memory-Economic Continual Test-Time Model Adaptation](https://openreview.net/pdf?id=N92hjSf5NNh) | 2023|ICLR
 | [Decorate the Newcomers: Visual Domain Prompt for Continual Test Time Adaptation](https://arxiv.org/pdf/2212.04145.pdf) |2023 | AAAI (Outstanding Student Paper Award)
@@ -705,6 +717,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [CPPO: Continual Learning for Reinforcement Learning with Human Feedback](https://openreview.net/pdf?id=86zAUE80pP) | 2024 | ICLR
 | [Prediction and Control in Continual Reinforcement Learning](https://arxiv.org/pdf/2312.11669.pdf) | 2023 | NeurIPS
 | [Replay-enhanced Continual Reinforcement Learning](https://arxiv.org/pdf/2311.11557.pdf)| 2023 | TMLR
 | [A Definition of Continual Reinforcement Learning](https://arxiv.org/pdf/2307.11046.pdf) | 2023 | Arxiv
@@ -748,7 +761,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 | [Rethinking Architecture Design for Tackling Data Heterogeneity in Federated Learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Qu_Rethinking_Architecture_Design_for_Tackling_Data_Heterogeneity_in_Federated_Learning_CVPR_2022_paper.pdf) | 2022|CVPR
 | [Model-Contrastive Federated Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Model-Contrastive_Federated_Learning_CVPR_2021_paper.pdf) | 2021|CVPR
 | [SCAFFOLD: Stochastic Controlled Averaging for Federated Learning](http://proceedings.mlr.press/v119/karimireddy20a/karimireddy20a.pdf) | 2020| ICML
-| [Overcoming Forgetting in Federated Learning on Non-IID Data]() | 2019|NeurIPSW
+| [Overcoming Forgetting in Federated Learning on Non-IID Data](http://www.edgify.ai/wp-content/uploads/2020/04/Overcoming-Forgetting-in-Federated-Learning-on-Non-IID-Data.pdf) | 2019|NeurIPSW
 
 
 #### Federated Continual Learning
@@ -757,6 +770,8 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Accurate Forgetting for Heterogeneous Federated Continual Learning](https://openreview.net/pdf?id=ShQrnAsbPI) | 2024 | ICLR
+| [Federated Orthogonal Training: Mitigating Global Catastrophic Forgetting in Continual Federated Learning](https://openreview.net/pdf?id=nAs4LdaP9Y) | 2024 | ICLR
 | [A Data-Free Approach to Mitigate Catastrophic Forgetting in Federated Class Incremental Learning for Vision Tasks](https://arxiv.org/pdf/2311.07784.pdf)|2023 | NeurIPS
 | [Federated Continual Learning via Knowledge Fusion: A Survey](https://arxiv.org/pdf/2312.16475.pdf) | 2023 | Arxiv
 | [A Data-Free Approach to Mitigate Catastrophic Forgetting in Federated Class Incremental Learning for Vision Tasks](https://arxiv.org/pdf/2311.07784.pdf)| 2023 | NeurIPS
