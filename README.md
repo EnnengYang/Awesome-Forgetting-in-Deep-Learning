@@ -277,6 +277,8 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
 | [Hebbian Learning based Orthogonal Projection for Continual Learning of Spiking Neural Networks](https://openreview.net/pdf?id=MeB86edZ1P) | 2024 | ICLR
+| [Towards Continual Learning Desiderata via HSIC-Bottleneck Orthogonalization
+and Equiangular Embedding](https://arxiv.org/pdf/2401.09067.pdf)  | 2024 | AAAI
 | [Orthogonal Subspace Learning for Language Model Continual Learning](https://arxiv.org/pdf/2310.14152.pdf) | 2023 | EMNLP
 | [Data Augmented Flatness-aware Gradient Projection for Continual Learning](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Data_Augmented_Flatness-aware_Gradient_Projection_for_Continual_Learning_ICCV_2023_paper.pdf) | 2023 | ICCV
 | [Rethinking Gradient Projection Continual Learning: Stability / Plasticity Feature Space Decoupling](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_Rethinking_Gradient_Projection_Continual_Learning_Stability__Plasticity_Feature_Space_CVPR_2023_paper.pdf) | 2023 | CVPR
