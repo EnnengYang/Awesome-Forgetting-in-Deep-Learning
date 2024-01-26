@@ -467,6 +467,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [The Joint Effect of Task Similarity and Overparameterization on Catastrophic Forgetting -- An Analytical Model](https://arxiv.org/pdf/2401.12617.pdf)| 2024 | ICLR
 | [A Unified and General Framework for Continual Learning](https://openreview.net/pdf?id=BE5aK0ETbp)| 2024 | ICLR
 | [Continual Learning in the Presence of Spurious Correlations: Analyses and a Simple Baseline](https://openreview.net/pdf?id=3Y7r6xueJJ)| 2024 | ICLR
 | [Does Continual Learning Equally Forget All Parameters? ](https://proceedings.mlr.press/v202/zhao23n/zhao23n.pdf)| 2023 | ICML
@@ -531,9 +532,12 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [INCPrompt: Task-Aware incremental Prompting for Rehearsal-Free Class-incremental Learning](https://arxiv.org/pdf/2401.11667.pdf) | 2024 | ICASSP
+| [P2DT: Mitigating Forgetting in task-incremental Learning with progressive prompt Decision Transformer](https://arxiv.org/pdf/2401.11666.pdf) | 2024 | ICASSP
 | [Scalable Language Model with Generalized Continual Learning](https://openreview.net/pdf?id=mz8owj4DXu) | 2024 | ICLR
 | [Prompt Gradient Projection for Continual Learning](https://openreview.net/pdf?id=EH2O3h7sBI) | 2024 | ICLR
 | [TiC-CLIP: Continual Training of CLIP Models](https://openreview.net/pdf?id=TLADT8Wrhn)| 2024 | ICLR
+| [Hierarchical Prompts for Rehearsal-free Continual Learning](https://arxiv.org/pdf/2401.11544.pdf)| 2024 | Arxiv
 | [KOPPA: Improving Prompt-based Continual Learning with Key-Query Orthogonal Projection and Prototype-based One-Versus-All](https://arxiv.org/pdf/2311.15414.pdf) | 2023 | Arxiv
 | [RanPAC: Random Projections and Pre-trained Models for Continual Learning](https://arxiv.org/pdf/2307.02251.pdf) | 2023 | NeurIPS
 | [Hierarchical Decomposition of Prompt-Based Continual Learning: Rethinking Obscured Sub-optimality](https://arxiv.org/pdf/2310.07234.pdf) | 2023 | NeurIPS
@@ -756,6 +760,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [How to Forget Clients in Federated Online Learning to Rank?](https://arxiv.org/pdf/2401.13410.pdf) | 2024 | ECIR
 | [GradMA: A Gradient-Memory-based Accelerated Federated Learning with Alleviated Catastrophic Forgetting](https://openaccess.thecvf.com/content/CVPR2023/papers/Luo_GradMA_A_Gradient-Memory-Based_Accelerated_Federated_Learning_With_Alleviated_Catastrophic_Forgetting_CVPR_2023_paper.pdf) |2023 | CVPR
 | [Acceleration of Federated Learning with Alleviated Forgetting in Local Training](https://openreview.net/pdf?id=541PxiEKN3F) |2022 |ICLR
 | [Preservation of the Global Knowledge by Not-True Distillation in Federated Learning](https://openreview.net/pdf?id=qw3MZb1Juo) | 2022 |NeurIPS
