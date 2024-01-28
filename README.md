@@ -147,6 +147,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+｜ [Exemplar-based Continual Learning via Contrastive Learning](https://ieeexplore.ieee.org/abstract/document/10411956) | 2024 | IEEE Transactions on Artificial Intelligence
 | [Saving 100x Storage: Prototype Replay for Reconstructing Training Sample Distribution in Class-Incremental Semantic Segmentation](https://openreview.net/pdf?id=Ct0zPIe3xs) |  2023 | NeurIPS
 | [Selective Amnesia: A Continual Learning Approach to Forgetting in Deep Generative Models](https://arxiv.org/pdf/2305.10120.pdf) | 2023 | NeurIPS
 | [A Unified Approach to Domain Incremental Learning with Memory: Theory and Algorithm](https://arxiv.org/pdf/2310.12244.pdf)|  2023 | NeurIPS
