@@ -113,6 +113,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 #### Survey / Book
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Continual Learning with Pre-Trained Models: A Survey](https://arxiv.org/pdf/2401.16386.pdf) | 2024 | Arxiv
 | [A Survey on Few-Shot Class-Incremental Learning](https://www.sciencedirect.com/science/article/pii/S0893608023006019?via%3Dihub) | 2024 | Neural Networks
 | [A Comprehensive Survey of Forgetting in Deep Learning Beyond Continual Learning](https://arxiv.org/pdf/2307.09218.pdf) | 2023  | Arxiv
 | [Deep Class-Incremental Learning: A Survey](https://arxiv.org/pdf/2302.03648.pdf) | 2023  | Arxiv
@@ -453,6 +454,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Class-Incremental Unsupervised Domain Adaptation via Pseudo-Label Distillation](https://pubmed.ncbi.nlm.nih.gov/38285572/) | 2024 | TIP
 | [Plasticity-Optimized Complementary Networks for Unsupervised Continual](https://arxiv.org/pdf/2309.06086.pdf) | 2024 | WACV
 | [Unsupervised Continual Learning in Streaming Environments](https://ieeexplore.ieee.org/document/9756660) | 2023 | TNNLS
 | [Representational Continuity for Unsupervised Continual Learning](https://openreview.net/pdf?id=9Hrka5PA7LW) | 2022 | ICLR
@@ -533,6 +535,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Continual Learning with Pre-Trained Models: A Survey](https://arxiv.org/pdf/2401.16386.pdf) | 2024 | Arxiv
 | [INCPrompt: Task-Aware incremental Prompting for Rehearsal-Free Class-incremental Learning](https://arxiv.org/pdf/2401.11667.pdf) | 2024 | ICASSP
 | [P2DT: Mitigating Forgetting in task-incremental Learning with progressive prompt Decision Transformer](https://arxiv.org/pdf/2401.11666.pdf) | 2024 | ICASSP
 | [Scalable Language Model with Generalized Continual Learning](https://openreview.net/pdf?id=mz8owj4DXu) | 2024 | ICLR
