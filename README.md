@@ -727,6 +727,8 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Hierarchical Continual Reinforcement Learning via Large Language Model](https://arxiv.org/pdf/2401.15098.pdf)| 2024 | Arxiv
+| [Augmenting Replay in World Models for Continual Reinforcement Learning](https://arxiv.org/pdf/2401.16650.pdf) | 2024 | Arxiv
 | [CPPO: Continual Learning for Reinforcement Learning with Human Feedback](https://openreview.net/pdf?id=86zAUE80pP) | 2024 | ICLR
 | [Prediction and Control in Continual Reinforcement Learning](https://arxiv.org/pdf/2312.11669.pdf) | 2023 | NeurIPS
 | [Replay-enhanced Continual Reinforcement Learning](https://arxiv.org/pdf/2311.11557.pdf)| 2023 | TMLR
