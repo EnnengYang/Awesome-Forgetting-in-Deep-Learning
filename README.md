@@ -113,12 +113,12 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 #### Survey / Book
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [A Comprehensive Survey of Continual Learning: Theory, Method and Application](https://arxiv.org/pdf/2302.00487.pdf) | 2024  | TPAMI
 | [Continual Learning for Large Language Models: A Survey](https://arxiv.org/pdf/2402.01364.pdf)| 2024 | Arxiv
 | [Continual Learning with Pre-Trained Models: A Survey](https://arxiv.org/pdf/2401.16386.pdf) | 2024 | Arxiv
 | [A Survey on Few-Shot Class-Incremental Learning](https://www.sciencedirect.com/science/article/pii/S0893608023006019?via%3Dihub) | 2024 | Neural Networks
 | [A Comprehensive Survey of Forgetting in Deep Learning Beyond Continual Learning](https://arxiv.org/pdf/2307.09218.pdf) | 2023  | Arxiv
 | [Deep Class-Incremental Learning: A Survey](https://arxiv.org/pdf/2302.03648.pdf) | 2023  | Arxiv
-| [A Comprehensive Survey of Continual Learning: Theory, Method and Application](https://arxiv.org/pdf/2302.00487.pdf) | 2023  | Arxiv
 | [A Survey on Incremental Update for Neural Recommender Systems](https://arxiv.org/pdf/2303.02851.pdf) | 2023  | Arxiv
 | [Continual Graph Learning: A Survey](https://arxiv.org/pdf/2301.12230.pdf) | 2023  | Arxiv
 | [Towards Label-Efficient Incremental Learning: A Survey](https://arxiv.org/pdf/2302.00353.pdf) |    2023  | Arxiv
@@ -729,6 +729,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Fine-tuning Reinforcement Learning Models is Secretly a Forgetting Mitigation Problem](https://arxiv.org/pdf/2402.02868.pdf)| 2024 | Arxiv
 | [Hierarchical Continual Reinforcement Learning via Large Language Model](https://arxiv.org/pdf/2401.15098.pdf)| 2024 | Arxiv
 | [Augmenting Replay in World Models for Continual Reinforcement Learning](https://arxiv.org/pdf/2401.16650.pdf) | 2024 | Arxiv
 | [CPPO: Continual Learning for Reinforcement Learning with Human Feedback](https://openreview.net/pdf?id=86zAUE80pP) | 2024 | ICLR
