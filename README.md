@@ -248,6 +248,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Elastic Feature Consolidation for Cold Start Exemplar-free Incremental Learning](https://arxiv.org/pdf/2402.03917.pdf) | 2024 | ICLR
 | [Fine-Grained Knowledge Selection and Restoration for Non-Exemplar Class Incremental Learning](https://arxiv.org/pdf/2312.12722.pdf) | 2024 | AAAI
 | [Prototype-Sample Relation Distillation: Towards Replay-Free Continual Learning](https://arxiv.org/pdf/2303.14771.pdf) | 2023 | ICML
 | [Continual Learning via Sequential Function-Space Variational Inference](https://arxiv.org/pdf/2312.17210.pdf) | 2022 | ICML
@@ -500,6 +501,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [What Will My Model Forget? Forecasting Forgotten Examples in Language Model Refinement](https://arxiv.org/pdf/2402.01865.pdf)| 2024 | Arxiv
 | [Scaling Laws for Forgetting When Fine-Tuning Large Language Models](https://arxiv.org/pdf/2401.05605.pdf)| 2024 | Arxiv
 | [TOFU: A Task of Fictitious Unlearning for LLMs](https://arxiv.org/pdf/2401.06121.pdf) | 2024 | Arxiv
 | [Self-regulating Prompts: Foundational Model Adaptation without Forgetting](https://openaccess.thecvf.com/content/ICCV2023/papers/Khattak_Self-regulating_Prompts_Foundational_Model_Adaptation_without_Forgetting_ICCV_2023_paper.pdf) | 2023| ICCV
@@ -536,6 +538,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [OVOR: OnePrompt with Virtual Outlier Regularization for Rehearsal-Free Class-Incremental Learning](https://arxiv.org/pdf/2402.04129.pdf)| 2024 | ICLR
 | [Continual Learning for Large Language Models: A Survey](https://arxiv.org/pdf/2402.01364.pdf)| 2024 | Arxiv
 | [Continual Learning with Pre-Trained Models: A Survey](https://arxiv.org/pdf/2401.16386.pdf) | 2024 | Arxiv
 | [INCPrompt: Task-Aware incremental Prompting for Rehearsal-Free Class-incremental Learning](https://arxiv.org/pdf/2401.11667.pdf) | 2024 | ICASSP
@@ -769,6 +772,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Flashback: Understanding and Mitigating Forgetting in Federated Learning](https://arxiv.org/pdf/2402.05558.pdf) | 2024 | Arxiv
 | [How to Forget Clients in Federated Online Learning to Rank?](https://arxiv.org/pdf/2401.13410.pdf) | 2024 | ECIR
 | [GradMA: A Gradient-Memory-based Accelerated Federated Learning with Alleviated Catastrophic Forgetting](https://openaccess.thecvf.com/content/CVPR2023/papers/Luo_GradMA_A_Gradient-Memory-Based_Accelerated_Federated_Learning_With_Alleviated_Catastrophic_Forgetting_CVPR_2023_paper.pdf) |2023 | CVPR
 | [Acceleration of Federated Learning with Alleviated Forgetting in Local Training](https://openreview.net/pdf?id=541PxiEKN3F) |2022 |ICLR
