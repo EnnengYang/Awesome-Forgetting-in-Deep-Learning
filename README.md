@@ -790,6 +790,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Federated Continual Learning via Knowledge Fusion: A Survey](https://ieeexplore.ieee.org/abstract/document/10423871) | 2024 | TKDE
 | [Accurate Forgetting for Heterogeneous Federated Continual Learning](https://openreview.net/pdf?id=ShQrnAsbPI) | 2024 | ICLR
 | [Federated Orthogonal Training: Mitigating Global Catastrophic Forgetting in Continual Federated Learning](https://openreview.net/pdf?id=nAs4LdaP9Y) | 2024 | ICLR
 | [A Data-Free Approach to Mitigate Catastrophic Forgetting in Federated Class Incremental Learning for Vision Tasks](https://arxiv.org/pdf/2311.07784.pdf)|2023 | NeurIPS
