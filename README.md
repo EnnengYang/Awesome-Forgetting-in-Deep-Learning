@@ -113,6 +113,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 #### Survey / Book
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Continual Learning on Graphs: A Survey](https://arxiv.org/pdf/2402.06330.pdf)| 2024  | Arxiv
 | [A Comprehensive Survey of Continual Learning: Theory, Method and Application](https://arxiv.org/pdf/2302.00487.pdf) | 2024  | TPAMI
 | [Continual Learning for Large Language Models: A Survey](https://arxiv.org/pdf/2402.01364.pdf)| 2024 | Arxiv
 | [Continual Learning with Pre-Trained Models: A Survey](https://arxiv.org/pdf/2401.16386.pdf) | 2024 | Arxiv
