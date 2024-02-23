@@ -113,6 +113,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 #### Survey / Book
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Continual Learning on Graphs: Challenges, Solutions, and Opportunities](https://arxiv.org/pdf/2402.11565.pdf)| 2024  | Arxiv
 | [Continual Learning on Graphs: A Survey](https://arxiv.org/pdf/2402.06330.pdf)| 2024  | Arxiv
 | [A Comprehensive Survey of Continual Learning: Theory, Method and Application](https://arxiv.org/pdf/2302.00487.pdf) | 2024  | TPAMI
 | [Continual Learning for Large Language Models: A Survey](https://arxiv.org/pdf/2402.01364.pdf)| 2024 | Arxiv
@@ -146,11 +147,12 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
   [Bayesian Methods](#bayesian-methods).
 
 #####  Memory-based Methods
-> Memory-based method keeps a memory buffer that stores the examples/knowledges from previous tasks and replay those examples during learning new tasks.
+> Memory-based (or Rehearsal-based) method keeps a memory buffer that stores the examples/knowledges from previous tasks and replay those examples during learning new tasks.
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
-｜ [Exemplar-based Continual Learning via Contrastive Learning](https://ieeexplore.ieee.org/abstract/document/10411956) | 2024 | IEEE Transactions on Artificial Intelligence
+| [DSLR: Diversity Enhancement and Structure Learning for Rehearsal-based Graph Continual Learning](https://arxiv.org/pdf/2402.13711.pdf) | 2024 | WWW
+| [Exemplar-based Continual Learning via Contrastive Learning](https://ieeexplore.ieee.org/abstract/document/10411956) | 2024 | IEEE Transactions on Artificial Intelligence
 | [Saving 100x Storage: Prototype Replay for Reconstructing Training Sample Distribution in Class-Incremental Semantic Segmentation](https://openreview.net/pdf?id=Ct0zPIe3xs) |  2023 | NeurIPS
 | [Selective Amnesia: A Continual Learning Approach to Forgetting in Deep Generative Models](https://arxiv.org/pdf/2305.10120.pdf) | 2023 | NeurIPS
 | [A Unified Approach to Domain Incremental Learning with Memory: Theory and Algorithm](https://arxiv.org/pdf/2310.12244.pdf)|  2023 | NeurIPS
@@ -834,6 +836,7 @@ Beneficial forgetting arises when the model contains private information that co
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [The Effectiveness of Random Forgetting for Robust Generalization](https://arxiv.org/pdf/2402.11733.pdf)| 2024|ICLR
 | [Sample-Efficient Reinforcement Learning by Breaking the Replay Ratio Barrier](https://openreview.net/pdf?id=OpC-9aBBVJe) | 2023|ICLR
 | [The Primacy Bias in Deep Reinforcement Learning](https://proceedings.mlr.press/v162/nikishin22a/nikishin22a.pdf) | 2022|ICML
 | [The Impact of Reinitialization on Generalization in Convolutional Neural Networks](https://arxiv.org/pdf/2109.00267.pdf) | 2021 | Arxiv
