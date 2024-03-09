@@ -251,6 +251,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Contrastive Continual Learning with Importance Sampling and Prototype-Instance Relation Distillation](https://arxiv.org/pdf/2403.04599.pdf) | 2024 | AAAI
 | [Elastic Feature Consolidation for Cold Start Exemplar-free Incremental Learning](https://arxiv.org/pdf/2402.03917.pdf) | 2024 | ICLR
 | [Fine-Grained Knowledge Selection and Restoration for Non-Exemplar Class Incremental Learning](https://arxiv.org/pdf/2312.12722.pdf) | 2024 | AAAI
 | [Prototype-Sample Relation Distillation: Towards Replay-Free Continual Learning](https://arxiv.org/pdf/2303.14771.pdf) | 2023 | ICML
