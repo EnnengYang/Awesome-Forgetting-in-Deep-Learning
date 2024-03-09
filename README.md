@@ -213,6 +213,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Recall-Oriented Continual Learning with Generative Adversarial Meta-Model](https://arxiv.org/pdf/2403.03082.pdf) | 2024 | AAAI
 | [Divide and not forget: Ensemble of selectively trained experts in Continual Learning](https://openreview.net/pdf?id=sSyytcewxe) | 2024 | ICLR
 | [A Probabilistic Framework for Modular Continual Learning](https://openreview.net/pdf?id=MVe2dnWPCu) | 2024 | ICLR
 | [Incorporating neuro-inspired adaptability for continual learning in artificial intelligence](https://www.nature.com/articles/s42256-023-00747-w) | 2023 | Nature Machine Intelligence
@@ -541,6 +542,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Interactive Continual Learning: Fast and Slow Thinking](https://arxiv.org/pdf/2403.02628.pdf)| 2024 | CVPR
 | [HOP to the Next Tasks and Domains for Continual Learning in NLP](https://arxiv.org/pdf/2402.18449.pdf)| 2024 | AAAI
 | [OVOR: OnePrompt with Virtual Outlier Regularization for Rehearsal-Free Class-Incremental Learning](https://arxiv.org/pdf/2402.04129.pdf)| 2024 | ICLR
 | [Continual Learning for Large Language Models: A Survey](https://arxiv.org/pdf/2402.01364.pdf)| 2024 | Arxiv
