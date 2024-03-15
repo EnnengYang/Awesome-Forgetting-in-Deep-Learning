@@ -362,6 +362,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Online Continual Learning For Interactive Instruction Following Agents](https://arxiv.org/pdf/2403.07548.pdf)|2024 | ICLR
 | [Online Continual Learning for Interactive Instruction Following Agents](https://openreview.net/pdf?id=7M0EzjugaN)|2024 | ICLR
 | [Online Class-Incremental Learning For Real-World Food Image Classification](https://openaccess.thecvf.com/content/WACV2024/papers/Raghavan_Online_Class-Incremental_Learning_for_Real-World_Food_Image_Classification_WACV_2024_paper.pdf)|2024 | WACV
 | [Rapid Adaptation in Online Continual Learning: Are We Evaluating It Right?](https://openaccess.thecvf.com/content/ICCV2023/papers/Al_Kader_Hammoud_Rapid_Adaptation_in_Online_Continual_Learning_Are_We_Evaluating_It_ICCV_2023_paper.pdf) |2023 | ICCV
@@ -543,6 +544,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Consistent Prompting for Rehearsal-Free Continual Learning](https://arxiv.org/pdf/2403.08568.pdf)| 2024 | CVPR
 | [Interactive Continual Learning: Fast and Slow Thinking](https://arxiv.org/pdf/2403.02628.pdf)| 2024 | CVPR
 | [HOP to the Next Tasks and Domains for Continual Learning in NLP](https://arxiv.org/pdf/2402.18449.pdf)| 2024 | AAAI
 | [OVOR: OnePrompt with Virtual Outlier Regularization for Rehearsal-Free Class-Incremental Learning](https://arxiv.org/pdf/2402.04129.pdf)| 2024 | ICLR
