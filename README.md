@@ -173,6 +173,8 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 | [Poisoning Generative Replay in Continual Learning to Promote Forgetting](https://proceedings.mlr.press/v202/kang23c/kang23c.pdf)| 2023 | ICML
 | [Regularizing Second-Order Influences for Continual Learning](https://openaccess.thecvf.com/content/CVPR2023/papers/Sun_Regularizing_Second-Order_Influences_for_Continual_Learning_CVPR_2023_paper.pdf) | 2023|CVPR
 | [Class-Incremental Exemplar Compression for Class-Incremental Learning](https://openaccess.thecvf.com/content/CVPR2023/papers/Luo_Class-Incremental_Exemplar_Compression_for_Class-Incremental_Learning_CVPR_2023_paper.pdf) | 2023|CVPR
+| [A closer look at rehearsal-free continual learning](https://openaccess.thecvf.com/content/CVPR2023W/CLVision/papers/Smith_A_Closer_Look_at_Rehearsal-Free_Continual_Learning_CVPRW_2023_paper.pdf)| 2023|CVPRW
+| [Continual Learning by Modeling Intra-Class Variation](https://openreview.net/forum?id=iDxfGaMYVr)| 2023 | TMLR
 | [Class-Incremental Learning using Diffusion Model for Distillation and Replay](https://arxiv.org/pdf/2306.17560.pdf) | 2023 | Arxiv
 | [On the Effectiveness of Lipschitz-Driven Rehearsal in Continual Learning](https://openreview.net/pdf?id=TThSwRTt4IB) | 2022 | NeurIPS
 | [Exploring Example Influence in Continual Learning](https://openreview.net/pdf?id=u4dXcUEsN7B) | 2022 | NeurIPS
@@ -186,6 +188,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 | [RMM: Reinforced Memory Management for Class-Incremental Learning](https://proceedings.neurips.cc/paper_files/paper/2021/file/1cbcaa5abbb6b70f378a3a03d0c26386-Paper.pdf) | 2021 | NeurIPS
 | [Rainbow Memory: Continual Learning with a Memory of Diverse Samples](https://openaccess.thecvf.com/content/CVPR2021/papers/Bang_Rainbow_Memory_Continual_Learning_With_a_Memory_of_Diverse_Samples_CVPR_2021_paper.pdf) | 2021|CVPR
 | [Prototype Augmentation and Self-Supervision for Incremental Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhu_Prototype_Augmentation_and_Self-Supervision_for_Incremental_Learning_CVPR_2021_paper.pdf) | 2021|CVPR
+| [Class-incremental experience replay for continual learning under concept drift](https://openaccess.thecvf.com/content/CVPR2021W/CLVision/papers/Korycki_Class-Incremental_Experience_Replay_for_Continual_Learning_Under_Concept_Drift_CVPRW_2021_paper.pdf) | 2021|CVPRW
 | [Always Be Dreaming: A New Approach for Data-Free Class-Incremental Learning](https://openaccess.thecvf.com/content/ICCV2021/papers/Smith_Always_Be_Dreaming_A_New_Approach_for_Data-Free_Class-Incremental_Learning_ICCV_2021_paper.pdf) | 2021 | ICCV
 | [Using Hindsight to Anchor Past Knowledge in Continual Learning](https://arxiv.org/pdf/2002.08165.pdf) | 2021 | AAAI
 | [Improved Schemes for Episodic Memory-based Lifelong Learning](https://proceedings.neurips.cc/paper/2020/file/0b5e29aa1acf8bdc5d8935d7036fa4f5-Paper.pdf) | 2020 |NeurIPS
