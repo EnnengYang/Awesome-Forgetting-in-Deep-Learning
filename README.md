@@ -27,7 +27,7 @@ Thanks!
 
   * [Harmful Forgetting](#harmful-forgetting)
     + [Forgetting in Continual Learning](#forgetting-in-continual-learning)
-      - [Survey / Book](#survey---book)
+      - [Survey and Book](#survey-and-book)
       - [Task-aware CL](#task-aware-cl)
         * [Memory-based Methods](#memory-based-methods)
         * [Architecture-based Methods](#architecture-based-methods)
@@ -111,7 +111,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 <u> [Theoretical Analysis](#theoretical-analysis) </u>
 
 
-#### Survey / Book
+#### Survey and Book
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
 | [Continual Learning on Graphs: Challenges, Solutions, and Opportunities](https://arxiv.org/pdf/2402.11565.pdf)| 2024  | Arxiv
