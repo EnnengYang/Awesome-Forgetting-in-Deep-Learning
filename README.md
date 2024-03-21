@@ -152,6 +152,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Accelerating String-Key Learned Index Structures via Memoization based Incremental Training](https://arxiv.org/pdf/2403.11472.pdf) | 2024 | VLDB
 | [DSLR: Diversity Enhancement and Structure Learning for Rehearsal-based Graph Continual Learning](https://arxiv.org/pdf/2402.13711.pdf) | 2024 | WWW
 | [Exemplar-based Continual Learning via Contrastive Learning](https://ieeexplore.ieee.org/abstract/document/10411956) | 2024 | IEEE Transactions on Artificial Intelligence
 | [Saving 100x Storage: Prototype Replay for Reconstructing Training Sample Distribution in Class-Incremental Semantic Segmentation](https://openreview.net/pdf?id=Ct0zPIe3xs) |  2023 | NeurIPS
@@ -547,6 +548,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Expandable Subspace Ensemble for Pre-Trained Model-Based Class-Incremental Learning](https://arxiv.org/pdf/2403.12030.pdf)| 2024 | CVPR
 | [Consistent Prompting for Rehearsal-Free Continual Learning](https://arxiv.org/pdf/2403.08568.pdf)| 2024 | CVPR
 | [Interactive Continual Learning: Fast and Slow Thinking](https://arxiv.org/pdf/2403.02628.pdf)| 2024 | CVPR
 | [HOP to the Next Tasks and Domains for Continual Learning in NLP](https://arxiv.org/pdf/2402.18449.pdf)| 2024 | AAAI
