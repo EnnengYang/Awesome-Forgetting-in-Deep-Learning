@@ -438,6 +438,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [A Bag of Tricks for Few-Shot Class-Incremental Learning](https://arxiv.org/pdf/2403.14392.pdf)| 2024 | Arxiv
 | [Analogical Learning-Based Few-Shot Class-Incremental Learning](https://ieeexplore.ieee.org/abstract/document/10382651) | 2024 | IEEE TCSVT
 | [Few-Shot Class-Incremental Learning via Training-Free Prototype Calibration](https://openreview.net/pdf?id=8NAxGDdf7H) |2023 | NeurIPS
 | [Few-shot Class-incremental Learning: A Survey](https://arxiv.org/pdf/2308.06764.pdf) | 2023 | Arxiv
@@ -805,6 +806,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Text-Enhanced Data-free Approach for Federated Class-Incremental Learning](https://arxiv.org/pdf/2403.14101.pdf)| 2024 | CVPR
 | [Federated Continual Learning via Knowledge Fusion: A Survey](https://ieeexplore.ieee.org/abstract/document/10423871) | 2024 | TKDE
 | [Accurate Forgetting for Heterogeneous Federated Continual Learning](https://openreview.net/pdf?id=ShQrnAsbPI) | 2024 | ICLR
 | [Federated Orthogonal Training: Mitigating Global Catastrophic Forgetting in Continual Federated Learning](https://openreview.net/pdf?id=nAs4LdaP9Y) | 2024 | ICLR
