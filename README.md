@@ -346,6 +346,8 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Task-Free Continual Generation and Representation Learning via Dynamic Expansionable Memory Cluster](https://ojs.aaai.org/index.php/AAAI/article/view/29582) | 2024 | AAAI
+| [Task-Free Dynamic Sparse Vision Transformer for Continual Learning](https://ojs.aaai.org/index.php/AAAI/article/view/29581) | 2024 | AAAI
 | [Doubly Perturbed Task-Free Continual Learning](https://arxiv.org/pdf/2312.13027.pdf) | 2024 | AAAI
 | [Loss Decoupling for Task-Agnostic Continual Learning](https://openreview.net/pdf?id=9Oi3YxIBSa) | 2023 | NeurIPS
 | [Online Bias Correction for Task-Free Continual Learning](https://openreview.net/pdf?id=18XzeuYZh_) | 2023 | ICLR
@@ -551,6 +553,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Evolving Parameterized Prompt Memory for Continual Learning](https://ojs.aaai.org/index.php/AAAI/article/view/29231) |2024 |AAAI
 | [Expandable Subspace Ensemble for Pre-Trained Model-Based Class-Incremental Learning](https://arxiv.org/pdf/2403.12030.pdf)| 2024 | CVPR
 | [Consistent Prompting for Rehearsal-Free Continual Learning](https://arxiv.org/pdf/2403.08568.pdf)| 2024 | CVPR
 | [Interactive Continual Learning: Fast and Slow Thinking](https://arxiv.org/pdf/2403.02628.pdf)| 2024 | CVPR
