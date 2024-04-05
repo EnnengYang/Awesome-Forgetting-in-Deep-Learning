@@ -369,6 +369,8 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Orchestrate Latent Expertise: Advancing Online Continual Learning with Multi-Level Supervision and Reverse Self-Distillation](https://arxiv.org/pdf/2404.00417.pdf)|2024 | CVPR
+| [Learning Equi-angular Representations for Online Continual Learning](https://arxiv.org/pdf/2404.01628.pdf)|2024 | CVPR
 | [Online Continual Learning For Interactive Instruction Following Agents](https://arxiv.org/pdf/2403.07548.pdf)|2024 | ICLR
 | [Online Continual Learning for Interactive Instruction Following Agents](https://openreview.net/pdf?id=7M0EzjugaN)|2024 | ICLR
 | [Summarizing Stream Data for Memory-Constrained Online Continual Learning](https://arxiv.org/pdf/2305.16645.pdf)|2024 | AAAI
@@ -553,6 +555,8 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [InfLoRA: Interference-Free Low-Rank Adaptation for Continual Learning](https://arxiv.org/pdf/2404.00228.pdf) |2024 |CVPR
+| [Semantically-Shifted Incremental Adapter-Tuning is A Continual ViTransformer](https://arxiv.org/pdf/2403.19979.pdf) |2024 |CVPR
 | [Evolving Parameterized Prompt Memory for Continual Learning](https://ojs.aaai.org/index.php/AAAI/article/view/29231) |2024 |AAAI
 | [Expandable Subspace Ensemble for Pre-Trained Model-Based Class-Incremental Learning](https://arxiv.org/pdf/2403.12030.pdf)| 2024 | CVPR
 | [Consistent Prompting for Rehearsal-Free Continual Learning](https://arxiv.org/pdf/2403.08568.pdf)| 2024 | CVPR
@@ -895,6 +899,7 @@ Beneficial forgetting arises when the model contains private information that co
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Label-Agnostic Forgetting: A Supervision-Free Unlearning in Deep Models](https://arxiv.org/pdf/2404.00506.pdf) |2024 | ICLR
 | [Machine Unlearning: A Survey](https://dl.acm.org/doi/10.1145/3603620) | 2023 | ACM Computing Surveys
 | [Deep Unlearning via Randomized Conditionally Independent Hessians](https://openaccess.thecvf.com/content/CVPR2022/papers/Mehta_Deep_Unlearning_via_Randomized_Conditionally_Independent_Hessians_CVPR_2022_paper.pdf) | 2022|CVPR
 | [Eternal Sunshine of the Spotless Net: Selective Forgetting in Deep Networks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Golatkar_Eternal_Sunshine_of_the_Spotless_Net_Selective_Forgetting_in_Deep_CVPR_2020_paper.pdf) |2022 | CVPR
