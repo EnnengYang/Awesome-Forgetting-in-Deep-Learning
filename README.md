@@ -114,6 +114,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 #### Survey and Book
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Continual Learning of Large Language Models: A Comprehensive Survey](https://arxiv.org/pdf/2404.16789) | 2024  | Arxiv
 | [Continual Learning on Graphs: Challenges, Solutions, and Opportunities](https://arxiv.org/pdf/2402.11565.pdf)| 2024  | Arxiv
 | [Continual Learning on Graphs: A Survey](https://arxiv.org/pdf/2402.06330.pdf)| 2024  | Arxiv
 | [A Comprehensive Survey of Continual Learning: Theory, Method and Application](https://arxiv.org/pdf/2302.00487.pdf) | 2024  | TPAMI
@@ -219,6 +220,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Revisiting Neural Networks for Continual Learning: An Architectural Perspective](https://arxiv.org/pdf/2404.14829) | 2024 | IJCAI
 | [Recall-Oriented Continual Learning with Generative Adversarial Meta-Model](https://arxiv.org/pdf/2403.03082.pdf) | 2024 | AAAI
 | [Divide and not forget: Ensemble of selectively trained experts in Continual Learning](https://openreview.net/pdf?id=sSyytcewxe) | 2024 | ICLR
 | [A Probabilistic Framework for Modular Continual Learning](https://openreview.net/pdf?id=MVe2dnWPCu) | 2024 | ICLR
@@ -555,6 +557,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Dynamically Anchored Prompting for Task-Imbalanced Continual Learning](https://arxiv.org/pdf/2404.14721) |2024 |IJCAI
 | [InfLoRA: Interference-Free Low-Rank Adaptation for Continual Learning](https://arxiv.org/pdf/2404.00228.pdf) |2024 |CVPR
 | [Semantically-Shifted Incremental Adapter-Tuning is A Continual ViTransformer](https://arxiv.org/pdf/2403.19979.pdf) |2024 |CVPR
 | [Evolving Parameterized Prompt Memory for Continual Learning](https://ojs.aaai.org/index.php/AAAI/article/view/29231) |2024 |AAAI
