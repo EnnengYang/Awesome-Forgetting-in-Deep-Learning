@@ -494,6 +494,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 | [The Joint Effect of Task Similarity and Overparameterization on Catastrophic Forgetting -- An Analytical Model](https://arxiv.org/pdf/2401.12617.pdf)| 2024 | ICLR
 | [A Unified and General Framework for Continual Learning](https://openreview.net/pdf?id=BE5aK0ETbp)| 2024 | ICLR
 | [Continual Learning in the Presence of Spurious Correlations: Analyses and a Simple Baseline](https://openreview.net/pdf?id=3Y7r6xueJJ)| 2024 | ICLR
+| [On the Convergence of Continual Learning with Adaptive Methods](https://arxiv.org/pdf/2404.05555.pdf)| 2023 | UAI
 | [Does Continual Learning Equally Forget All Parameters? ](https://proceedings.mlr.press/v202/zhao23n/zhao23n.pdf)| 2023 | ICML
 | [The Ideal Continual Learner: An Agent That Never Forgets](https://openreview.net/pdf?id=o7BOzuqFi2) | 2023 | ICML
 | [Continual Learning in Linear Classification on Separable Data](https://openreview.net/pdf?id=kkpIrMu3Vf) | 2023 | ICML
