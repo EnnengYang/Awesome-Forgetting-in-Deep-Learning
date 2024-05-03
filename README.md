@@ -260,6 +260,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [IMEX-Reg: Implicit-Explicit Regularization in the Function Space for Continual Learning](https://arxiv.org/pdf/2404.18161)| 2024 | JMLR
 | [Contrastive Continual Learning with Importance Sampling and Prototype-Instance Relation Distillation](https://arxiv.org/pdf/2403.04599.pdf) | 2024 | AAAI
 | [Elastic Feature Consolidation for Cold Start Exemplar-free Incremental Learning](https://arxiv.org/pdf/2402.03917.pdf) | 2024 | ICLR
 | [Fine-Grained Knowledge Selection and Restoration for Non-Exemplar Class Incremental Learning](https://arxiv.org/pdf/2312.12722.pdf) | 2024 | AAAI
@@ -558,6 +559,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Prompt Customization for Continual Learning](https://arxiv.org/abs/2404.18060) |2024 | MM
 | [Dynamically Anchored Prompting for Task-Imbalanced Continual Learning](https://arxiv.org/pdf/2404.14721) |2024 |IJCAI
 | [InfLoRA: Interference-Free Low-Rank Adaptation for Continual Learning](https://arxiv.org/pdf/2404.00228.pdf) |2024 |CVPR
 | [Semantically-Shifted Incremental Adapter-Tuning is A Continual ViTransformer](https://arxiv.org/pdf/2403.19979.pdf) |2024 |CVPR
@@ -769,6 +771,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 | [A Definition of Continual Reinforcement Learning](https://arxiv.org/pdf/2307.11046.pdf) | 2023 | Arxiv
 | [Continual Task Allocation in Meta-Policy Network via Sparse Prompting](https://openreview.net/pdf?id=IqI8074rFu) |2023 | ICML
 | [Building a Subspace of Policies for Scalable Continual Learning](https://openreview.net/pdf?id=ZloanUtG4a) |2023 | ICLR
+| [Continual Model-based Reinforcement Learning for Data Efficient Wireless Network Optimisation](https://arxiv.org/pdf/2404.19462) | 2023  | ECML
 | [Modular Lifelong Reinforcement Learning via Neural Composition](https://openreview.net/pdf?id=5XmLzdslFNN) |2022 |ICLR
 | [Disentangling Transfer in Continual Reinforcement Learning](https://openreview.net/pdf?id=pgF-N1YORd)|2022 |NeurIPS
 | [Towards continual reinforcement learning: A review and perspectives](https://arxiv.org/pdf/2012.13490.pdf) | 2022 | Journal of Artificial Intelligence Research
