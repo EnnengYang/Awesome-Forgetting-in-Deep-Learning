@@ -445,6 +445,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Wearable Sensor-Based Few-Shot Continual Learning on Hand Gestures for Motor-Impaired Individuals via Latent Embedding Exploitation](https://arxiv.org/pdf/2405.08969) | 2024 | IJCAI
 | [A Bag of Tricks for Few-Shot Class-Incremental Learning](https://arxiv.org/pdf/2403.14392.pdf)| 2024 | Arxiv
 | [Analogical Learning-Based Few-Shot Class-Incremental Learning](https://ieeexplore.ieee.org/abstract/document/10382651) | 2024 | IEEE TCSVT
 | [Few-Shot Class-Incremental Learning via Training-Free Prototype Calibration](https://openreview.net/pdf?id=8NAxGDdf7H) |2023 | NeurIPS
@@ -736,6 +737,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [KFC: Knowledge Reconstruction and Feedback Consolidation Enable Efficient and Effective Continual Generative Learning](https://openreview.net/pdf?id=pVTcR8ig3R) | 2024 | ICLR
 | [The Curse of Recursion: Training on Generated Data Makes Models Forget](https://arxiv.org/pdf/2305.17493.pdf)| 2023|Arxiv
 | [Forget-Me-Not: Learning to Forget in Text-to-Image Diffusion Models](https://arxiv.org/pdf/2303.17591.pdf) | 2023|Arxiv
 | [Selective Amnesia: A Continual Learning Approach to Forgetting in Deep Generative Models](https://arxiv.org/pdf/2305.10120.pdf) | 2023|Arxiv
