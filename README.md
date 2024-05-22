@@ -560,6 +560,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Continual Learning of Large Language Models: A Comprehensive Survey](https://arxiv.org/pdf/2404.16789) |2024 | Arxiv
 | [Prompt Customization for Continual Learning](https://arxiv.org/abs/2404.18060) |2024 | MM
 | [Dynamically Anchored Prompting for Task-Imbalanced Continual Learning](https://arxiv.org/pdf/2404.14721) |2024 |IJCAI
 | [InfLoRA: Interference-Free Low-Rank Adaptation for Continual Learning](https://arxiv.org/pdf/2404.00228.pdf) |2024 |CVPR
