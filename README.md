@@ -560,6 +560,8 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Mixture of Experts Meets Prompt-Based Continual Learning](https://arxiv.org/pdf/2405.14124)|2024 | Arxiv
+| [Gradient Projection For Parameter-Efficient Continual Learning](https://arxiv.org/pdf/2405.13383) |2024 | Arxiv
 | [Continual Learning of Large Language Models: A Comprehensive Survey](https://arxiv.org/pdf/2404.16789) |2024 | Arxiv
 | [Prompt Customization for Continual Learning](https://arxiv.org/abs/2404.18060) |2024 | MM
 | [Dynamically Anchored Prompting for Task-Imbalanced Continual Learning](https://arxiv.org/pdf/2404.14721) |2024 |IJCAI
@@ -647,6 +649,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Controllable Continual Test-Time Adaptation](https://arxiv.org/pdf/2405.14602)| 2024 | Arxiv
 | [ViDA: Homeostatic Visual Domain Adapter for Continual Test Time Adaptation](https://openreview.net/pdf?id=sJ88Wg5Bp5)| 2024 | ICLR
 | [Continual Momentum Filtering on Parameter Space for Online Test-time Adaptation](https://openreview.net/pdf?id=BllUWdpIOA)| 2024 | ICLR
 | [A Comprehensive Survey on Test-Time Adaptation under Distribution Shifts](https://arxiv.org/pdf/2303.15361.pdf) | 2023 | Arxiv
