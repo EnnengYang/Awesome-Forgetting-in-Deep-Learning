@@ -700,6 +700,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Meta Continual Learning Revisited: Implicitly Enhancing Online Hessian Approximation via Variance Reduction](https://openreview.net/forum?id=TpD2aG1h0D) | 2024 | ICLR
 | [Recasting Continual Learning as Sequence Modeling](https://arxiv.org/pdf/2310.11952.pdf) | 2023 | NeurIPS
 | [Adaptive Compositional Continual Meta-Learning](https://proceedings.mlr.press/v202/wu23d/wu23d.pdf) | 2023|ICML
 | [Learning to Learn and Remember Super Long Multi-Domain Task Sequence](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Learning_To_Learn_and_Remember_Super_Long_Multi-Domain_Task_Sequence_CVPR_2022_paper.pdf) | 2022|CVPR
