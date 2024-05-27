@@ -523,6 +523,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Understanding Catastrophic Forgetting in Language Models via Implicit Inference](https://openreview.net/attachment?id=VrHiF2hsrm&name=pdf)| 2024 | ICLR
 | [What Will My Model Forget? Forecasting Forgotten Examples in Language Model Refinement](https://arxiv.org/pdf/2402.01865.pdf)| 2024 | Arxiv
 | [Scaling Laws for Forgetting When Fine-Tuning Large Language Models](https://arxiv.org/pdf/2401.05605.pdf)| 2024 | Arxiv
 | [TOFU: A Task of Fictitious Unlearning for LLMs](https://arxiv.org/pdf/2401.06121.pdf) | 2024 | Arxiv
