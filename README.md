@@ -326,6 +326,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Learning to Continually Learn with the Bayesian Principle](https://arxiv.org/pdf/2405.18758) |2024 | ICML
 | [A Probabilistic Framework for Modular Continual Learning](https://arxiv.org/pdf/2306.06545.pdf) | 2023 |Arxiv
 | [Online Continual Learning on Class Incremental Blurry Task Configuration with Anytime Inference](https://openreview.net/pdf?id=nrGGfMbY_qK) |2022 | ICLR
 | [Continual Learning via Sequential Function-Space Variational Inference](https://proceedings.mlr.press/v162/rudner22a/rudner22a.pdf) | 2022 | ICML
@@ -493,6 +494,8 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Provable Contrastive Continual Learning](https://arxiv.org/pdf/2405.18756)| 2024 | ICLR
+| [Understanding Forgetting in Continual Learning with Linear Regression: Overparameterized and Underparameterized Regimes](https://arxiv.org/pdf/2405.17583)| 2024 | ICLR
 | [The Joint Effect of Task Similarity and Overparameterization on Catastrophic Forgetting -- An Analytical Model](https://arxiv.org/pdf/2401.12617.pdf)| 2024 | ICLR
 | [A Unified and General Framework for Continual Learning](https://openreview.net/pdf?id=BE5aK0ETbp)| 2024 | ICLR
 | [Continual Learning in the Presence of Spurious Correlations: Analyses and a Simple Baseline](https://openreview.net/pdf?id=3Y7r6xueJJ)| 2024 | ICLR
