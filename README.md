@@ -294,6 +294,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Improving Data-aware and Parameter-aware Robustness for Continual Learning](https://arxiv.org/abs/2405.17054v1)| 2024 | Arxiv
 | [Hebbian Learning based Orthogonal Projection for Continual Learning of Spiking Neural Networks](https://openreview.net/pdf?id=MeB86edZ1P) | 2024 | ICLR
 | [Towards Continual Learning Desiderata via HSIC-Bottleneck Orthogonalization and Equiangular Embedding](https://arxiv.org/pdf/2401.09067.pdf)  | 2024 | AAAI
 | [Orthogonal Subspace Learning for Language Model Continual Learning](https://arxiv.org/pdf/2310.14152.pdf) | 2023 | EMNLP
@@ -920,6 +921,7 @@ Beneficial forgetting arises when the model contains private information that co
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Unlearning during Learning: An Efficient Federated Machine Unlearning Method](https://arxiv.org/pdf/2405.15474) | 2024 | IJCAI
 | [Label-Agnostic Forgetting: A Supervision-Free Unlearning in Deep Models](https://arxiv.org/pdf/2404.00506.pdf) |2024 | ICLR
 | [Machine Unlearning: A Survey](https://dl.acm.org/doi/10.1145/3603620) | 2023 | ACM Computing Surveys
 | [Deep Unlearning via Randomized Conditionally Independent Hessians](https://openaccess.thecvf.com/content/CVPR2022/papers/Mehta_Deep_Unlearning_via_Randomized_Conditionally_Independent_Hessians_CVPR_2022_paper.pdf) | 2022|CVPR
