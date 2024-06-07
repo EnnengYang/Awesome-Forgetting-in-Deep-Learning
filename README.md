@@ -527,6 +527,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [D-CPT Law: Domain-specific Continual Pre-Training Scaling Law for Large Language Models](https://arxiv.org/pdf/2406.01375) | 2024 | Arxiv
 | [Dissecting learning and forgetting in language model finetuning](https://openreview.net/forum?id=tmsqb6WpLz)| 2024 | ICLR
 | [Understanding Catastrophic Forgetting in Language Models via Implicit Inference](https://openreview.net/attachment?id=VrHiF2hsrm&name=pdf)| 2024 | ICLR
 | [Two-stage LLM Fine-tuning with Less Specialization and More Generalization](https://arxiv.org/abs/2211.00635)| 2024 | ICLR
