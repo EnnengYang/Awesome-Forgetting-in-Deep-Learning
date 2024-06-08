@@ -114,7 +114,6 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 #### Survey and Book
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
-| ["Forgetting" in Machine Learning and Beyond: A Survey](https://arxiv.org/pdf/2405.20620v1)| 2024  | Arxiv
 | [Continual Learning of Large Language Models: A Comprehensive Survey](https://arxiv.org/pdf/2404.16789) | 2024  | Arxiv
 | [Continual Learning on Graphs: Challenges, Solutions, and Opportunities](https://arxiv.org/pdf/2402.11565.pdf)| 2024  | Arxiv
 | [Continual Learning on Graphs: A Survey](https://arxiv.org/pdf/2402.06330.pdf)| 2024  | Arxiv
@@ -886,6 +885,7 @@ Beneficial forgetting arises when the model contains private information that co
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| ["Forgetting" in Machine Learning and Beyond: A Survey](https://arxiv.org/pdf/2405.20620v1)| 2024  | Arxiv
 | [The Effectiveness of Random Forgetting for Robust Generalization](https://arxiv.org/pdf/2402.11733.pdf)| 2024|ICLR
 | [Sample-Efficient Reinforcement Learning by Breaking the Replay Ratio Barrier](https://openreview.net/pdf?id=OpC-9aBBVJe) | 2023|ICLR
 | [The Primacy Bias in Deep Reinforcement Learning](https://proceedings.mlr.press/v162/nikishin22a/nikishin22a.pdf) | 2022|ICML
@@ -902,6 +902,7 @@ Beneficial forgetting arises when the model contains private information that co
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| ["Forgetting" in Machine Learning and Beyond: A Survey](https://arxiv.org/pdf/2405.20620v1)| 2024  | Arxiv
 | [Improving Language Plasticity via Pretraining with Active Forgetting](https://arxiv.org/pdf/2307.01163.pdf) | 2023 | NeurIPS
 | [ReFactor GNNs: Revisiting Factorisation-based Models from a Message-Passing Perspective](https://openreview.net/pdf?id=81LQV4k7a7X) | 2022|NeurIPS
 | [Fortuitous Forgetting in Connectionist Networks](https://openreview.net/pdf?id=ei3SY1_zYsE) | 2022|ICLR
