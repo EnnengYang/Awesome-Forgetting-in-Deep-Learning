@@ -114,6 +114,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 #### Survey and Book
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Towards Lifelong Learning of Large Language Models: A Survey](https://arxiv.org/pdf/2406.06391)| 2024  | Arxiv
 | [Recent Advances of Foundation Language Models-based Continual Learning: A Survey](https://arxiv.org/pdf/2405.18653)| 2024  | Arxiv
 | [Continual Learning of Large Language Models: A Comprehensive Survey](https://arxiv.org/pdf/2404.16789) | 2024  | Arxiv
 | [Continual Learning on Graphs: Challenges, Solutions, and Opportunities](https://arxiv.org/pdf/2402.11565.pdf)| 2024  | Arxiv
@@ -264,6 +265,7 @@ Class-Incremental Learning](https://arxiv.org/pdf/2406.02428) | 2024 | ICML
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [A Statistical Theory of Regularization-Based Continual Learning](https://arxiv.org/pdf/2406.06213)|2024 | ICML
 | [IMEX-Reg: Implicit-Explicit Regularization in the Function Space for Continual Learning](https://arxiv.org/pdf/2404.18161)| 2024 | JMLR
 | [Contrastive Continual Learning with Importance Sampling and Prototype-Instance Relation Distillation](https://arxiv.org/pdf/2403.04599.pdf) | 2024 | AAAI
 | [Elastic Feature Consolidation for Cold Start Exemplar-free Incremental Learning](https://arxiv.org/pdf/2402.03917.pdf) | 2024 | ICLR
@@ -499,6 +501,8 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [A Statistical Theory of Regularization-Based Continual Learning](https://arxiv.org/pdf/2406.06213)|2024 | ICML
+| [Efficient Continual Finite-Sum Minimization](https://arxiv.org/pdf/2406.04731)| 2024 | ICLR
 | [Provable Contrastive Continual Learning](https://arxiv.org/pdf/2405.18756)| 2024 | ICLR
 | [Understanding Forgetting in Continual Learning with Linear Regression: Overparameterized and Underparameterized Regimes](https://arxiv.org/pdf/2405.17583)| 2024 | ICLR
 | [The Joint Effect of Task Similarity and Overparameterization on Catastrophic Forgetting -- An Analytical Model](https://arxiv.org/pdf/2401.12617.pdf)| 2024 | ICLR
@@ -531,6 +535,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Revisiting Catastrophic Forgetting in Large Language Model Tuning](https://arxiv.org/abs/2406.04836)| 2024 | Arxiv
 | [D-CPT Law: Domain-specific Continual Pre-Training Scaling Law for Large Language Models](https://arxiv.org/pdf/2406.01375) | 2024 | Arxiv
 | [Dissecting learning and forgetting in language model finetuning](https://openreview.net/forum?id=tmsqb6WpLz)| 2024 | ICLR
 | [Understanding Catastrophic Forgetting in Language Models via Implicit Inference](https://openreview.net/attachment?id=VrHiF2hsrm&name=pdf)| 2024 | ICLR
@@ -572,6 +577,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Reflecting on the State of Rehearsal-free Continual Learning with Pretrained Models](https://arxiv.org/pdf/2406.09384)|2024 | CoLLAs
 | [Choice of PEFT Technique in Continual Learning: Prompt Tuning is Not All You Need](https://arxiv.org/pdf/2406.03216)|2024 | Arxiv
 | [Disperse-Then-Merge: Pushing the Limits of Instruction Tuning via Alignment Tax Reduction](https://arxiv.org/pdf/2405.13432)|2024 | ACL
 | [Mixture of Experts Meets Prompt-Based Continual Learning](https://arxiv.org/pdf/2405.14124)|2024 | Arxiv
