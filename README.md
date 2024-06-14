@@ -380,6 +380,7 @@ Class-Incremental Learning](https://arxiv.org/pdf/2406.02428) | 2024 | ICML
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Dual-Enhanced Coreset Selection with Class-wise Collaboration for Online Blurry Class Incremental Learning](https://openaccess.thecvf.com/content/CVPR2024/papers/Luo_Dual-Enhanced_Coreset_Selection_with_Class-wise_Collaboration_for_Online_Blurry_Class_CVPR_2024_paper.pdf)|2024 | CVPR
 | [Orchestrate Latent Expertise: Advancing Online Continual Learning with Multi-Level Supervision and Reverse Self-Distillation](https://arxiv.org/pdf/2404.00417.pdf)|2024 | CVPR
 | [Learning Equi-angular Representations for Online Continual Learning](https://arxiv.org/pdf/2404.01628.pdf)|2024 | CVPR
 | [Online Continual Learning For Interactive Instruction Following Agents](https://arxiv.org/pdf/2403.07548.pdf)|2024 | ICLR
@@ -501,6 +502,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [An analysis of best-practice strategies for replay and rehearsal in continual learning](https://openaccess.thecvf.com/content/CVPR2024W/CLVISION/papers/Krawczyk_An_Analysis_of_Best-practice_Strategies_for_Replay_and_Rehearsal_in_CVPRW_2024_paper.pdf)|2024 | CVPRW
 | [A Statistical Theory of Regularization-Based Continual Learning](https://arxiv.org/pdf/2406.06213)|2024 | ICML
 | [Efficient Continual Finite-Sum Minimization](https://arxiv.org/pdf/2406.04731)| 2024 | ICLR
 | [Provable Contrastive Continual Learning](https://arxiv.org/pdf/2405.18756)| 2024 | ICLR
