@@ -850,6 +850,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Federated Continual Learning via Prompt-based Dual Knowledge Transfer](https://openreview.net/pdf?id=Kqa5JakTjB)| 2024 | ICML
 | [Text-Enhanced Data-free Approach for Federated Class-Incremental Learning](https://arxiv.org/pdf/2403.14101.pdf)| 2024 | CVPR
 | [Federated Continual Learning via Knowledge Fusion: A Survey](https://ieeexplore.ieee.org/abstract/document/10423871) | 2024 | TKDE
 | [Accurate Forgetting for Heterogeneous Federated Continual Learning](https://openreview.net/pdf?id=ShQrnAsbPI) | 2024 | ICLR
