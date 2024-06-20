@@ -97,7 +97,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 ----------
 ### Forgetting in Continual Learning
-
+<a href="#top">[Back to top]</a>
 
 > The goal of continual learning  (CL) is to learn on a sequence of tasks without forgetting the knowledge on previous tasks.
 
@@ -145,6 +145,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 | [Lifelong Machine Learning](https://link.springer.com/book/10.1007/978-3-031-01575-5) | 2016  | Book
 
 #### Task-aware CL
+<a href="#top">[Back to top]</a>
 > Task-aware CL focuses on addressing scenarios where explicit task definitions, such as task IDs or labels, are available during the CL process. Existing methods on task-aware CL have explored five main branches:   [Memory-based Methods](#memory-based-methods) |
   [Architecture-based Methods](#architecture-based-methods) |
   [Regularization-based Methods](#regularization-based-methods) |
@@ -152,6 +153,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
   [Bayesian Methods](#bayesian-methods).
 
 #####  Memory-based Methods
+<a href="#top">[Back to top]</a>
 > Memory-based (or Rehearsal-based) method keeps a memory buffer that stores the examples/knowledges from previous tasks and replay those examples during learning new tasks.
 
 | **Paper Title** | **Year** | **Conference/Journal** |
@@ -219,12 +221,12 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 
 #####  Architecture-based Methods
+<a href="#top">[Back to top]</a>
 > The architecture-based approach avoids forgetting by reducing parameter sharing between tasks or adding parameters to new tasks.
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
-| [Harnessing Neural Unit Dynamics for Effective and Scalable
-Class-Incremental Learning](https://arxiv.org/pdf/2406.02428) | 2024 | ICML
+| [Harnessing Neural Unit Dynamics for Effective and Scalable Class-Incremental Learning](https://arxiv.org/pdf/2406.02428) | 2024 | ICML
 | [Revisiting Neural Networks for Continual Learning: An Architectural Perspective](https://arxiv.org/pdf/2404.14829) | 2024 | IJCAI
 | [Recall-Oriented Continual Learning with Generative Adversarial Meta-Model](https://arxiv.org/pdf/2403.03082.pdf) | 2024 | AAAI
 | [Divide and not forget: Ensemble of selectively trained experts in Continual Learning](https://openreview.net/pdf?id=sSyytcewxe) | 2024 | ICLR
@@ -261,6 +263,7 @@ Class-Incremental Learning](https://arxiv.org/pdf/2406.02428) | 2024 | ICML
 | [Progressive Neural Networks](https://arxiv.org/pdf/1606.04671.pdf) | 2016 | Arxiv
 
 #####  Regularization-based Methods
+<a href="#top">[Back to top]</a>
 > Regularization-based approaches avoid forgetting by penalizing updates of important parameters or distilling knowledge with previous model as a teacher.
 
 | **Paper Title** | **Year** | **Conference/Journal** |
@@ -296,6 +299,7 @@ Class-Incremental Learning](https://arxiv.org/pdf/2406.02428) | 2024 | ICML
 
 
 #####  Subspace-based Methods
+<a href="#top">[Back to top]</a>
 > Subspace-based methods perform CL in multiple disjoint subspaces to avoid interference between multiple tasks.
 
 | **Paper Title** | **Year** | **Conference/Journal** |
@@ -309,6 +313,7 @@ Class-Incremental Learning](https://arxiv.org/pdf/2406.02428) | 2024 | ICML
 | [Building a Subspace of Policies for Scalable Continual Learning](https://openreview.net/pdf?id=ZloanUtG4a) | 2023 | ICLR
 | [Continual Learning with Scaled Gradient Projection](https://arxiv.org/pdf/2302.01386.pdf) | 2023 | AAAI
 | [SketchOGD: Memory-Efficient Continual Learning](https://arxiv.org/pdf/2305.16424.pdf) | 2023 | Arxiv
+| [Continual Learning through Networks Splitting and Merging with Dreaming-Meta Weighted Model Fusion](https://arxiv.org/pdf/2312.07082)| 2023 | Arxiv
 | [Beyond Not-Forgetting: Continual Learning with Backward Knowledge Transfer](https://openreview.net/pdf?id=diV1PpaP33) | 2022 | NeurIPS
 | [TRGP: Trust Region Gradient Projection for Continual Learning](https://openreview.net/pdf?id=iEvAf8i6JjO) | 2022 | ICLR
 | [Continual Learning with Recursive Gradient Optimization](https://openreview.net/pdf?id=7YDLgf9_zgm) | 2022 | ICLR
@@ -329,6 +334,7 @@ Class-Incremental Learning](https://arxiv.org/pdf/2406.02428) | 2024 | ICML
 
 
 #####  Bayesian Methods
+<a href="#top">[Back to top]</a>
 > Bayesian methods provide a principled probabilistic framework for addressing Forgetting.
 
 | **Paper Title** | **Year** | **Conference/Journal** |
@@ -353,6 +359,7 @@ Class-Incremental Learning](https://arxiv.org/pdf/2406.02428) | 2024 | ICML
 
 
 #### Task-free CL
+<a href="#top">[Back to top]</a>
 > Task-free CL refers to a specific scenario that the learning system does not have access to any explicit task information.
 
 | **Paper Title** | **Year** | **Conference/Journal** |
@@ -376,6 +383,7 @@ Class-Incremental Learning](https://arxiv.org/pdf/2406.02428) | 2024 | ICML
 
 
 #### Online CL
+<a href="#top">[Back to top]</a>
 > In online CL, the learner is only allowed to process the data for each task once.
 
 | **Paper Title** | **Year** | **Conference/Journal** |
@@ -438,6 +446,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 
 #### Semi-supervised CL
+<a href="#top">[Back to top]</a>
 > Semi-supervised CL is an extension of traditional CL that allows each task to incorporate unlabeled data as well.
 
 | **Paper Title** | **Year** | **Conference/Journal** |
@@ -451,6 +460,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 
 #### Few-shot CL
+<a href="#top">[Back to top]</a>
 > Few-shot CL refers to the scenario where a model needs to learn new tasks with only a limited number of labeled examples per task while retaining knowledge from previously encountered tasks.
 
 | **Paper Title** | **Year** | **Conference/Journal** |
@@ -482,6 +492,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 <!-- | [Neural Collapse Terminus: A Unified Solution for Class Incremental Learning and Its Variants](https://arxiv.org/pdf/2308.01746.pdf) | 2023 | Arxiv -->
 
 #### Unsupervised CL
+<a href="#top">[Back to top]</a>
 > Unsupervised CL (UCL) assumes that only unlabeled data is provided to the CL learner.
 
 | **Paper Title** | **Year** | **Conference/Journal** |
@@ -498,6 +509,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 
 #### Theoretical Analysis
+<a href="#top">[Back to top]</a>
 > Theory or analysis of continual learning
 
 | **Paper Title** | **Year** | **Conference/Journal** |
@@ -526,13 +538,14 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 
 ### Forgetting in Foundation Models
-
+<a href="#top">[Back to top]</a>
 
 > Foundation models are large machine learning models trained on a vast quantity of data at scale, such that they can be adapted to a wide range of downstream tasks.
 
 **Links**: [Forgetting in Fine-Tuning Foundation Models](#forgetting-in-fine-tuning-foundation-models) | [Forgetting in One-Epoch Pre-training](#forgetting-in-one-epoch-pre-training) | [CL in Foundation Model](#cl-in-foundation-model)
 
 #### Forgetting in Fine-Tuning Foundation Models
+<a href="#top">[Back to top]</a>
 > When fine-tuning a foundation model, there is a tendency to forget the pre-trained knowledge, resulting in sub-optimal performance on downstream tasks.
 
 | **Paper Title** | **Year** | **Conference/Journal** |
@@ -562,6 +575,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 
 #### Forgetting in One-Epoch Pre-training
+<a href="#top">[Back to top]</a>
 > Foundation models often undergo training on a dataset for a single pass. As a result, the earlier examples encountered during pre-training may be overwritten or forgotten by the model more quickly than the later examples.
 
 | **Paper Title** | **Year** | **Conference/Journal** |
@@ -575,10 +589,12 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 
 #### CL in Foundation Model
+<a href="#top">[Back to top]</a>
 > By leveraging the powerful feature extraction capabilities of foundation models, researchers have been able to explore new avenues for advancing continual learning techniques.
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Mitigate Negative Transfer with Similarity Heuristic Lifelong Prompt Tuning](https://arxiv.org/pdf/2406.12251)|2024 | ACL
 | [Reflecting on the State of Rehearsal-free Continual Learning with Pretrained Models](https://arxiv.org/pdf/2406.09384)|2024 | CoLLAs
 | [Choice of PEFT Technique in Continual Learning: Prompt Tuning is Not All You Need](https://arxiv.org/pdf/2406.03216)|2024 | Arxiv
 | [Disperse-Then-Merge: Pushing the Limits of Instruction Tuning via Alignment Tax Reduction](https://arxiv.org/pdf/2405.13432)|2024 | ACL
@@ -640,7 +656,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 
 ### Forgetting in Domain Adaptation
-
+<a href="#top">[Back to top]</a>
 
 > The goal of domain adaptation is to transfer the knowledge from a source domain to a target domain.
 
@@ -665,6 +681,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 
 ### Forgetting in Test-Time Adaptation
+<a href="#top">[Back to top]</a>
 <!-- <u>[Click back to content outline](#framework)</u> -->
 
 > Test time adaptation (TTA) refers to the process of adapting a pre-trained model on-the-fly to unlabeled test data during inference or testin.
@@ -691,7 +708,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 ----------
 
 ### Forgetting in Meta-Learning
-
+<a href="#top">[Back to top]</a>
 
 > Meta-learning, also known as learning to learn, focuses on developing algorithms and models that can learn from previous learning experiences to improve their ability to learn new tasks or adapt to new domains more efficiently and effectively.
 
@@ -701,6 +718,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 
 #### Incremental Few-Shot Learning
+<a href="#top">[Back to top]</a>
 > Incremental few-shot learning (IFSL) focuses on the challenge of learning new categories with limited labeled data while retaining knowledge about previously learned categories.
 
 | **Paper Title** | **Year** | **Conference/Journal** |
@@ -717,6 +735,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 
 #### Continual Meta-Learning
+<a href="#top">[Back to top]</a>
 > The goal of continual meta-learning (CML) is to address the challenge of forgetting in non-stationary task distributions.
 
 | **Paper Title** | **Year** | **Conference/Journal** |
@@ -740,7 +759,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 ----------
 
 ### Forgetting in Generative Models
-
+<a href="#top">[Back to top]</a>
 > The goal of a generative model is to learn a generator that can generate samples from a target distribution.
 
 **Links**:
@@ -749,6 +768,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 
 #### GAN Training is a Continual Learning Problem
+<a href="#top">[Back to top]</a>
 > Treating GAN training as a continual learning problem.
 
 | **Paper Title** | **Year** | **Conference/Journal** |
@@ -762,6 +782,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 
 #### Lifelong Learning of Generative Models
+<a href="#top">[Back to top]</a>
 > The goal is to develop generative models that can continually generate high-quality samples for both new and previously encountered tasks.
 
 | **Paper Title** | **Year** | **Conference/Journal** |
@@ -784,7 +805,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 ----------
 
 ### Forgetting in Reinforcement Learning
-
+<a href="#top">[Back to top]</a>
 
 > Reinforcement learning is a machine learning technique that allows an agent to learn how to behave in an environment by trial and error, through rewards and punishments.
 
@@ -818,7 +839,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 ----------
 
 ### Forgetting in Federated Learning
-
+<a href="#top">[Back to top]</a>
 
 > Federated learning (FL) is a decentralized machine learning approach where the training process takes place on local devices or edge servers instead of a centralized server.
 
@@ -827,7 +848,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
  [Federated Continual Learning](#federated-continual-learning)
 
 #### Forgetting Due to Non-IID Data in FL  
-
+<a href="#top">[Back to top]</a>
 > This branch pertains to the forgetting problem caused by the inherent non-IID (not identically and independently distributed) data among different clients participating in FL.
 
 | **Paper Title** | **Year** | **Conference/Journal** |
@@ -845,7 +866,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 
 #### Federated Continual Learning
-
+<a href="#top">[Back to top]</a>
 > This branch addresses the issue of continual learning within each individual client in the federated learning process, which results in forgetting at the overall FL level.
 
 | **Paper Title** | **Year** | **Conference/Journal** |
@@ -874,7 +895,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 
 ## Beneficial Forgetting
-
+<a href="#top">[Back to top]</a>
 Beneficial forgetting arises when the model contains private information that could lead to privacy breaches or when irrelevant information hinders the learning of new tasks. In these situations, forgetting becomes desirable as it helps protect privacy and facilitate efficient learning by discarding unnecessary information.
 
 | **Problem Setting** | **Goal** |
@@ -889,9 +910,10 @@ Beneficial forgetting arises when the model contains private information that co
 <u>[Machine Unlearning](#machine-unlearning)</u>
 
 ### Forgetting Irrelevant Information to Achieve Better Performance
-
+<a href="#top">[Back to top]</a>
 
 ####  Combat Overfitting Through Forgetting
+<a href="#top">[Back to top]</a>
 > Overfitting in neural networks occurs when the model excessively memorizes the training data, leading to poor generalization. To address overfitting, it is necessary to selectively forget irrelevant or noisy information.
 
 | **Paper Title** | **Year** | **Conference/Journal** |
@@ -909,6 +931,7 @@ Beneficial forgetting arises when the model contains private information that co
 
 
 ####  Learning New Knowledge Through Forgetting Previous Knowledge
+<a href="#top">[Back to top]</a>
 > "Learning to forget" suggests that not all previously acquired prior knowledge is helpful for learning new tasks.
 
 | **Paper Title** | **Year** | **Conference/Journal** |
@@ -931,7 +954,7 @@ Beneficial forgetting arises when the model contains private information that co
 ----------
 
 ### Machine Unlearning
-
+<a href="#top">[Back to top]</a>
 
 > Machine unlearning, a recent area of research, addresses the need to forget previously learned training data in order to protect user data privacy.
 
