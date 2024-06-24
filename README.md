@@ -277,6 +277,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 | [Continual Learning via Sequential Function-Space Variational Inference](https://arxiv.org/pdf/2312.17210.pdf) | 2022 | ICML
 | [Overcoming Catastrophic Forgetting in Incremental Object Detection via Elastic Response Distillation](https://openaccess.thecvf.com/content/CVPR2022/papers/Feng_Overcoming_Catastrophic_Forgetting_in_Incremental_Object_Detection_via_Elastic_Response_CVPR_2022_paper.pdf) | 2022 | CVPR
 | [Class-Incremental Learning by Knowledge Distillation with Adaptive Feature Consolidation](https://openaccess.thecvf.com/content/CVPR2022/papers/Kang_Class-Incremental_Learning_by_Knowledge_Distillation_With_Adaptive_Feature_Consolidation_CVPR_2022_paper.pdf) | 2022 | CVPR
+| [Class-Incremental Learning via Knowledge Amalgamation](https://dl.acm.org/doi/10.1145/3461353.3461367)| 2022 | PKDD
 | [Natural continual learning: success is a journey, not (just) a destination](https://proceedings.neurips.cc/paper/2021/file/ec5aa0b7846082a2415f0902f0da88f2-Paper.pdf) | 2021 | NeurIPS
 | [Distilling Causal Effect of Data in Class-Incremental Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Hu_Distilling_Causal_Effect_of_Data_in_Class-Incremental_Learning_CVPR_2021_paper.pdf) | 2021 | CVPR
 | [On Learning the Geodesic Path for Incremental Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Simon_On_Learning_the_Geodesic_Path_for_Incremental_Learning_CVPR_2021_paper.pdf) | 2021 | CVPR
