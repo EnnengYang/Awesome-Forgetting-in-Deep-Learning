@@ -159,6 +159,8 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
 | [Multi-layer Rehearsal Feature Augmentation for Class-Incremental Learning](https://openreview.net/pdf?id=aksdU1KOpT) | 2024 | ICML
+| [Gradual Divergence for Seamless Adaptation: A Novel Domain Incremental
+Learning Method](https://arxiv.org/pdf/2406.16231) | 2024 | ICML
 | [Accelerating String-Key Learned Index Structures via Memoization based Incremental Training](https://arxiv.org/pdf/2403.11472.pdf) | 2024 | VLDB
 | [DSLR: Diversity Enhancement and Structure Learning for Rehearsal-based Graph Continual Learning](https://arxiv.org/pdf/2402.13711.pdf) | 2024 | WWW
 | [Exemplar-based Continual Learning via Contrastive Learning](https://ieeexplore.ieee.org/abstract/document/10411956) | 2024 | IEEE Transactions on Artificial Intelligence
@@ -595,6 +597,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Domain Adaptation of Llama3-70B-Instruct through Continual Pre-Training and Model Merging: A Comprehensive Evaluation](https://arxiv.org/pdf/2406.14971)|2024 | Arxiv
 | [Mitigate Negative Transfer with Similarity Heuristic Lifelong Prompt Tuning](https://arxiv.org/pdf/2406.12251)|2024 | ACL
 | [Reflecting on the State of Rehearsal-free Continual Learning with Pretrained Models](https://arxiv.org/pdf/2406.09384)|2024 | CoLLAs
 | [Choice of PEFT Technique in Continual Learning: Prompt Tuning is Not All You Need](https://arxiv.org/pdf/2406.03216)|2024 | Arxiv
@@ -872,6 +875,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Personalized Federated Continual Learning via Multi-granularity Prompt](https://arxiv.org/pdf/2407.00113)| 2024 | KDD
 | [Federated Continual Learning via Prompt-based Dual Knowledge Transfer](https://openreview.net/pdf?id=Kqa5JakTjB)| 2024 | ICML
 | [Text-Enhanced Data-free Approach for Federated Class-Incremental Learning](https://arxiv.org/pdf/2403.14101.pdf)| 2024 | CVPR
 | [Federated Continual Learning via Knowledge Fusion: A Survey](https://ieeexplore.ieee.org/abstract/document/10423871) | 2024 | TKDE
