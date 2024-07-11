@@ -597,6 +597,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [HiDe-PET: Continual Learning via Hierarchical Decomposition of Parameter-Efficient Tuning](https://arxiv.org/pdf/2407.05229)|2024 | Arxiv
 | [Domain Adaptation of Llama3-70B-Instruct through Continual Pre-Training and Model Merging: A Comprehensive Evaluation](https://arxiv.org/pdf/2406.14971)|2024 | Arxiv
 | [Mitigate Negative Transfer with Similarity Heuristic Lifelong Prompt Tuning](https://arxiv.org/pdf/2406.12251)|2024 | ACL
 | [Reflecting on the State of Rehearsal-free Continual Learning with Pretrained Models](https://arxiv.org/pdf/2406.09384)|2024 | CoLLAs
