@@ -391,6 +391,8 @@ Learning Method](https://arxiv.org/pdf/2406.16231) | 2024 | ICML
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Mitigating Catastrophic Forgetting in Online Continual Learning by Modeling Previous Task Interrelations via Pareto Optimization](https://openreview.net/pdf?id=olbTrkWo1D)| 2024 | ICML
+| [ER-FSL: Experience Replay with Feature Subspace Learning for Online Continual Learning](https://arxiv.org/pdf/2407.12279)| 2024 | MM
 | [Dual-Enhanced Coreset Selection with Class-wise Collaboration for Online Blurry Class Incremental Learning](https://openaccess.thecvf.com/content/CVPR2024/papers/Luo_Dual-Enhanced_Coreset_Selection_with_Class-wise_Collaboration_for_Online_Blurry_Class_CVPR_2024_paper.pdf)|2024 | CVPR
 | [Orchestrate Latent Expertise: Advancing Online Continual Learning with Multi-Level Supervision and Reverse Self-Distillation](https://arxiv.org/pdf/2404.00417.pdf)|2024 | CVPR
 | [Learning Equi-angular Representations for Online Continual Learning](https://arxiv.org/pdf/2404.01628.pdf)|2024 | CVPR
@@ -693,6 +695,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Adaptive Cascading Network for Continual Test-Time Adaptation](https://arxiv.org/pdf/2407.12240)| 2024 | CIKM
 | [Controllable Continual Test-Time Adaptation](https://arxiv.org/pdf/2405.14602)| 2024 | Arxiv
 | [ViDA: Homeostatic Visual Domain Adapter for Continual Test Time Adaptation](https://openreview.net/pdf?id=sJ88Wg5Bp5)| 2024 | ICLR
 | [Continual Momentum Filtering on Parameter Space for Online Test-time Adaptation](https://openreview.net/pdf?id=BllUWdpIOA)| 2024 | ICLR
