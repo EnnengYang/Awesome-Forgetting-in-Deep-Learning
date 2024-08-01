@@ -158,6 +158,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [FTF-ER: Feature-Topology Fusion-Based Experience Replay Method for Continual Graph Learning](https://arxiv.org/pdf/2407.19429)| 2024 | MM
 | [Multi-layer Rehearsal Feature Augmentation for Class-Incremental Learning](https://openreview.net/pdf?id=aksdU1KOpT) | 2024 | ICML
 | [Gradual Divergence for Seamless Adaptation: A Novel Domain Incremental
 Learning Method](https://arxiv.org/pdf/2406.16231) | 2024 | ICML
@@ -883,6 +884,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [PIP: Prototypes-Injected Prompt for Federated Class Incremental](https://arxiv.org/pdf/2407.20705)| 2024 | CIKM
 | [Personalized Federated Continual Learning via Multi-granularity Prompt](https://arxiv.org/pdf/2407.00113)| 2024 | KDD
 | [Federated Continual Learning via Prompt-based Dual Knowledge Transfer](https://openreview.net/pdf?id=Kqa5JakTjB)| 2024 | ICML
 | [Text-Enhanced Data-free Approach for Federated Class-Incremental Learning](https://arxiv.org/pdf/2403.14101.pdf)| 2024 | CVPR
