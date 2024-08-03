@@ -556,6 +556,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning](https://arxiv.org/pdf/2407.20999)| 2024 | Arxiv
 | [Towards Effective and Efficient Continual Pre-training of Large Language Models](https://arxiv.org/pdf/2407.18743)| 2024 | Arxiv
 | [Revisiting Catastrophic Forgetting in Large Language Model Tuning](https://arxiv.org/abs/2406.04836)| 2024 | Arxiv
 | [D-CPT Law: Domain-specific Continual Pre-Training Scaling Law for Large Language Models](https://arxiv.org/pdf/2406.01375) | 2024 | Arxiv
