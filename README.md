@@ -435,6 +435,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Joint Input and Output Coordination for Class-Incremental Learning](https://www.ijcai.org/proceedings/2024/0565.pdf)| 2024 | IJCAI
 | [Imbalance Mitigation for Continual Learning via Knowledge Decoupling and Dual Enhanced Contrastive Learning](https://ieeexplore.ieee.org/abstract/document/10382590) | 2024 | TNNLS
 | [Overcoming Recency Bias of Normalization Statistics in Continual Learning: Balance and Adaptation](https://openreview.net/pdf?id=Ph65E1bE6A) | 2023 | NeurIPS
 | [Online Bias Correction for Task-Free Continual Learning](https://openreview.net/pdf?id=18XzeuYZh_) | 2023| ICLR
@@ -556,6 +557,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [SLCA++: Unleash the Power of Sequential Fine-tuning for Continual Learning with Pre-training](https://arxiv.org/pdf/2408.08295)| 2024| Arxiv
 | [MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning](https://arxiv.org/pdf/2407.20999)| 2024 | Arxiv
 | [Towards Effective and Efficient Continual Pre-training of Large Language Models](https://arxiv.org/pdf/2407.18743)| 2024 | Arxiv
 | [Revisiting Catastrophic Forgetting in Large Language Model Tuning](https://arxiv.org/abs/2406.04836)| 2024 | Arxiv
