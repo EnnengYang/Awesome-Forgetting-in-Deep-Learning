@@ -604,6 +604,8 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [CoIN: A Benchmark of Continual Instruction tuNing for Multimodel Large Language Model](https://arxiv.org/pdf/2403.08350)|2024 | Arxiv
+| [Continual Instruction Tuning for Large Multimodal Models](https://arxiv.org/pdf/2311.16206)|2024 | Arxiv
 | [Parameter-Efficient Fine-Tuning for Continual Learning: A Neural Tangent Kernel Perspective](https://arxiv.org/pdf/2407.17120)|2024 | Arxiv
 | [Class-Incremental Learning with CLIP: Adaptive Representation Adjustment and Parameter Fusion](https://arxiv.org/pdf/2407.14143) | 2024 | ECCV
 | [Model Tailor: Mitigating Catastrophic Forgetting in Multi-modal Large Language Models](https://arxiv.org/pdf/2402.12048) | 2024 | ICML
