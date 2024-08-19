@@ -205,6 +205,7 @@ Learning Method](https://arxiv.org/pdf/2406.16231) | 2024 | ICML
 | [Improved Schemes for Episodic Memory-based Lifelong Learning](https://proceedings.neurips.cc/paper/2020/file/0b5e29aa1acf8bdc5d8935d7036fa4f5-Paper.pdf) | 2020 |NeurIPS
 | [Dark Experience for General Continual Learning: a Strong, Simple Baseline](https://proceedings.neurips.cc/paper/2020/file/b704ea2c39778f07c617f6b7ce480e9e-Paper.pdf) | 2020 |NeurIPS
 | [La-MAML: Look-ahead Meta Learning for Continual Learning](https://proceedings.neurips.cc/paper/2020/file/85b9a5ac91cd629bd3afe396ec07270a-Paper.pdf) | 2020 | NeurIPS
+| [GAN Memory with No Forgetting](https://arxiv.org/pdf/2006.07543)| 2020 | NeurIPS
 | [Brain-inspired replay for continual learning with artificial neural networks](https://pubmed.ncbi.nlm.nih.gov/32792531/) |2020 |Nature Communications
 | [LAMOL: LAnguage MOdeling for Lifelong Language Learning](https://openreview.net/pdf?id=Skgxcn4YDS) | 2020 |ICLR
 | [Mnemonics Training: Multi-Class Incremental Learning without Forgetting](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Mnemonics_Training_Multi-Class_Incremental_Learning_Without_Forgetting_CVPR_2020_paper.pdf) | 2020 | CVPR
@@ -815,6 +816,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 | [Lifelong Twin Generative Adversarial Networks](https://ieeexplore.ieee.org/document/9506116) |2021 | ICIP
 | [Lifelong Mixture of Variational Autoencoders](https://arxiv.org/pdf/2107.04694.pdf) |2021 | TNNLS
 | [Lifelong Generative Modeling](https://arxiv.org/pdf/1705.09847.pdf) | 2020 |Neurocomputing
+| [GAN Memory with No Forgetting](https://arxiv.org/pdf/2006.07543)| 2020 | NeurIPS
 | [Lifelong GAN: Continual Learning for Conditional Image Generation](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhai_Lifelong_GAN_Continual_Learning_for_Conditional_Image_Generation_ICCV_2019_paper.pdf) |2019 | ICCV
 
 
