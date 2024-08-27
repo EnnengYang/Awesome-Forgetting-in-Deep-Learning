@@ -558,6 +558,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [A Practitioner’s Guide to Continual Multimodal Pretraining](https://arxiv.org/pdf/2408.14471)| 2024| Arxiv
 | [SLCA++: Unleash the Power of Sequential Fine-tuning for Continual Learning with Pre-training](https://arxiv.org/pdf/2408.08295)| 2024| Arxiv
 | [MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning](https://arxiv.org/pdf/2407.20999)| 2024 | Arxiv
 | [Towards Effective and Efficient Continual Pre-training of Large Language Models](https://arxiv.org/pdf/2407.18743)| 2024 | Arxiv
@@ -832,6 +833,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Data Augmentation for Continual RL via Adversarial Gradient Episodic Memory](https://arxiv.org/pdf/2408.13452)| 2024 | Arxiv
 | [Fine-tuning Reinforcement Learning Models is Secretly a Forgetting Mitigation Problem](https://arxiv.org/pdf/2402.02868.pdf)| 2024 | Arxiv
 | [Hierarchical Continual Reinforcement Learning via Large Language Model](https://arxiv.org/pdf/2401.15098.pdf)| 2024 | Arxiv
 | [Augmenting Replay in World Models for Continual Reinforcement Learning](https://arxiv.org/pdf/2401.16650.pdf) | 2024 | Arxiv
