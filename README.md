@@ -158,6 +158,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Prior-free Balanced Replay: Uncertainty-guided Reservoir Sampling for Long-Tailed Continual Learning](https://arxiv.org/pdf/2408.14976)| 2024 | MM
 | [FTF-ER: Feature-Topology Fusion-Based Experience Replay Method for Continual Graph Learning](https://arxiv.org/pdf/2407.19429)| 2024 | MM
 | [Multi-layer Rehearsal Feature Augmentation for Class-Incremental Learning](https://openreview.net/pdf?id=aksdU1KOpT) | 2024 | ICML
 | [Gradual Divergence for Seamless Adaptation: A Novel Domain Incremental
