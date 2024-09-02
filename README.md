@@ -524,6 +524,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Theoretical Insights into Overparameterized Models in Multi-Task and Replay-Based Continual Learning](https://arxiv.org/pdf/2408.16939)|2024 | Arxiv
 | [An analysis of best-practice strategies for replay and rehearsal in continual learning](https://openaccess.thecvf.com/content/CVPR2024W/CLVISION/papers/Krawczyk_An_Analysis_of_Best-practice_Strategies_for_Replay_and_Rehearsal_in_CVPRW_2024_paper.pdf)|2024 | CVPRW
 | [A Statistical Theory of Regularization-Based Continual Learning](https://arxiv.org/pdf/2406.06213)|2024 | ICML
 | [Efficient Continual Finite-Sum Minimization](https://arxiv.org/pdf/2406.04731)| 2024 | ICLR
@@ -684,6 +685,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Towards Cross-Domain Continual Learning](https://arxiv.org/pdf/2402.12490)| 2024| ICDE
 | [Continual Source-Free Unsupervised Domain Adaptation](https://arxiv.org/pdf/2304.07374.pdf) | 2023 | International Conference on Image Analysis and Processing
 | [CoSDA: Continual Source-Free Domain Adaptation](https://arxiv.org/pdf/2304.06627.pdf) | 2023| Arxiv
 | [Lifelong Domain Adaptation via Consolidated Internal Distribution](https://proceedings.neurips.cc/paper_files/paper/2021/file/5caf41d62364d5b41a893adc1a9dd5d4-Paper.pdf) |2022 |NeurIPS
@@ -849,6 +851,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 | [Modular Lifelong Reinforcement Learning via Neural Composition](https://openreview.net/pdf?id=5XmLzdslFNN) |2022 |ICLR
 | [Disentangling Transfer in Continual Reinforcement Learning](https://openreview.net/pdf?id=pgF-N1YORd)|2022 |NeurIPS
 | [Towards continual reinforcement learning: A review and perspectives](https://arxiv.org/pdf/2012.13490.pdf) | 2022 | Journal of Artificial Intelligence Research
+| [Reinforced continual learning for graphs](https://arxiv.org/pdf/2209.01556)| 2022 | CIKM
 | [Model-Free Generative Replay for Lifelong Reinforcement Learning: Application to Starcraft-2](https://proceedings.mlr.press/v199/daniels22a/daniels22a.pdf) | 2022|Conference on Lifelong Learning Agents
 | [Transient Non-stationarity and Generalisation in Deep Reinforcement Learning](https://openreview.net/pdf?id=Qun8fv4qSby) | 2021 | ICLR
 | [Sharing Less is More: Lifelong Learning in Deep Networks with Selective Layer Transfer](http://proceedings.mlr.press/v139/lee21a/lee21a.pdf) | 2021| ICML
