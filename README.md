@@ -114,6 +114,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 #### Survey and Book
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Towards General Industrial Intelligence: A Survey on Industrial IoT-Enhanced Continual Large Models](https://arxiv.org/pdf/2409.01207v1)| 2024  | Arxiv
 | [Towards Lifelong Learning of Large Language Models: A Survey](https://arxiv.org/pdf/2406.06391)| 2024  | Arxiv
 | [Recent Advances of Foundation Language Models-based Continual Learning: A Survey](https://arxiv.org/pdf/2405.18653)| 2024  | Arxiv
 | [Continual Learning of Large Language Models: A Comprehensive Survey](https://arxiv.org/pdf/2404.16789) | 2024  | Arxiv
@@ -898,6 +899,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Diffusion-Driven Data Replay: A Novel Approach to Combat Forgetting in Federated Class Continual Learning](https://arxiv.org/pdf/2409.01128)| 2024 | ECCV
 | [PIP: Prototypes-Injected Prompt for Federated Class Incremental](https://arxiv.org/pdf/2407.20705)| 2024 | CIKM
 | [Personalized Federated Continual Learning via Multi-granularity Prompt](https://arxiv.org/pdf/2407.00113)| 2024 | KDD
 | [Federated Continual Learning via Prompt-based Dual Knowledge Transfer](https://openreview.net/pdf?id=Kqa5JakTjB)| 2024 | ICML
