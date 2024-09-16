@@ -120,13 +120,13 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 | [Continual Learning of Large Language Models: A Comprehensive Survey](https://arxiv.org/pdf/2404.16789) | 2024  | Arxiv
 | [Continual Learning on Graphs: Challenges, Solutions, and Opportunities](https://arxiv.org/pdf/2402.11565.pdf)| 2024  | Arxiv
 | [Continual Learning on Graphs: A Survey](https://arxiv.org/pdf/2402.06330.pdf)| 2024  | Arxiv
+| [Deep Class-Incremental Learning: A Survey](https://arxiv.org/pdf/2302.03648.pdf) | 2024  | TPAMI
 | [A Comprehensive Survey of Continual Learning: Theory, Method and Application](https://arxiv.org/pdf/2302.00487.pdf) | 2024  | TPAMI
 | [Continual Learning for Large Language Models: A Survey](https://arxiv.org/pdf/2402.01364.pdf)| 2024 | Arxiv
 | [Continual Learning with Pre-Trained Models: A Survey](https://arxiv.org/pdf/2401.16386.pdf) | 2024 | Arxiv
 | [A Survey on Few-Shot Class-Incremental Learning](https://www.sciencedirect.com/science/article/pii/S0893608023006019?via%3Dihub) | 2024 | Neural Networks
 | [Sharpness and Gradient Aware Minimization for Memory-based Continual Learning](https://dl.acm.org/doi/10.1145/3628797.3629000) | 2023 | SOICT
 | [A Comprehensive Survey of Forgetting in Deep Learning Beyond Continual Learning](https://arxiv.org/pdf/2307.09218.pdf) | 2023  | Arxiv
-| [Deep Class-Incremental Learning: A Survey](https://arxiv.org/pdf/2302.03648.pdf) | 2023  | Arxiv
 | [A Survey on Incremental Update for Neural Recommender Systems](https://arxiv.org/pdf/2303.02851.pdf) | 2023  | Arxiv
 | [Continual Graph Learning: A Survey](https://arxiv.org/pdf/2301.12230.pdf) | 2023  | Arxiv
 | [Towards Label-Efficient Incremental Learning: A Survey](https://arxiv.org/pdf/2302.00353.pdf) |    2023  | Arxiv
@@ -162,8 +162,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 | [Prior-free Balanced Replay: Uncertainty-guided Reservoir Sampling for Long-Tailed Continual Learning](https://arxiv.org/pdf/2408.14976)| 2024 | MM
 | [FTF-ER: Feature-Topology Fusion-Based Experience Replay Method for Continual Graph Learning](https://arxiv.org/pdf/2407.19429)| 2024 | MM
 | [Multi-layer Rehearsal Feature Augmentation for Class-Incremental Learning](https://openreview.net/pdf?id=aksdU1KOpT) | 2024 | ICML
-| [Gradual Divergence for Seamless Adaptation: A Novel Domain Incremental
-Learning Method](https://arxiv.org/pdf/2406.16231) | 2024 | ICML
+| [Gradual Divergence for Seamless Adaptation: A Novel Domain Incremental Learning Method](https://arxiv.org/pdf/2406.16231) | 2024 | ICML
 | [Accelerating String-Key Learned Index Structures via Memoization based Incremental Training](https://arxiv.org/pdf/2403.11472.pdf) | 2024 | VLDB
 | [DSLR: Diversity Enhancement and Structure Learning for Rehearsal-based Graph Continual Learning](https://arxiv.org/pdf/2402.13711.pdf) | 2024 | WWW
 | [Exemplar-based Continual Learning via Contrastive Learning](https://ieeexplore.ieee.org/abstract/document/10411956) | 2024 | IEEE Transactions on Artificial Intelligence
@@ -275,7 +274,7 @@ Learning Method](https://arxiv.org/pdf/2406.16231) | 2024 | ICML
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
 | [A Statistical Theory of Regularization-Based Continual Learning](https://arxiv.org/pdf/2406.06213)|2024 | ICML
-| [IMEX-Reg: Implicit-Explicit Regularization in the Function Space for Continual Learning](https://arxiv.org/pdf/2404.18161)| 2024 | JMLR
+| [IMEX-Reg: Implicit-Explicit Regularization in the Function Space for Continual Learning](https://arxiv.org/pdf/2404.18161)| 2024 | TMLR
 | [Contrastive Continual Learning with Importance Sampling and Prototype-Instance Relation Distillation](https://arxiv.org/pdf/2403.04599.pdf) | 2024 | AAAI
 | [Elastic Feature Consolidation for Cold Start Exemplar-free Incremental Learning](https://arxiv.org/pdf/2402.03917.pdf) | 2024 | ICLR
 | [Fine-Grained Knowledge Selection and Restoration for Non-Exemplar Class Incremental Learning](https://arxiv.org/pdf/2312.12722.pdf) | 2024 | AAAI
