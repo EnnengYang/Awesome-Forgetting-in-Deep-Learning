@@ -312,6 +312,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 | --------------- | :----: | :----: |
 | [Introducing Common Null Space of Gradients for Gradient Projection Methods in Continual Learning](https://openreview.net/pdf?id=N3yngE4fTy)| 2024 | ACM MM
 | [Improving Data-aware and Parameter-aware Robustness for Continual Learning](https://arxiv.org/abs/2405.17054v1)| 2024 | Arxiv
+| [Prompt Gradient Projection for Continual Learning](https://openreview.net/pdf?id=EH2O3h7sBI) | 2024 | ICLR
 | [Hebbian Learning based Orthogonal Projection for Continual Learning of Spiking Neural Networks](https://openreview.net/pdf?id=MeB86edZ1P) | 2024 | ICLR
 | [Towards Continual Learning Desiderata via HSIC-Bottleneck Orthogonalization and Equiangular Embedding](https://arxiv.org/pdf/2401.09067.pdf)  | 2024 | AAAI
 | [Orthogonal Subspace Learning for Language Model Continual Learning](https://arxiv.org/pdf/2310.14152.pdf) | 2023 | EMNLP
