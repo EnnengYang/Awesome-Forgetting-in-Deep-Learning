@@ -396,6 +396,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Random Representations Outperform Online Continually Learned Representations](https://cdn.iiit.ac.in/cdn/precog.iiit.ac.in/pubs/NeurIPS-RanDumb.pdf)| 2024 | NeurIPS
 | [Forgetting, Ignorance or Myopia: Revisiting Key Challenges in Online Continual Learning](https://arxiv.org/pdf/2409.19245)| 2024 | NeurIPS
 | [Mitigating Catastrophic Forgetting in Online Continual Learning by Modeling Previous Task Interrelations via Pareto Optimization](https://openreview.net/pdf?id=olbTrkWo1D)| 2024 | ICML
 | [ER-FSL: Experience Replay with Feature Subspace Learning for Online Continual Learning](https://arxiv.org/pdf/2407.12279)| 2024 | MM
