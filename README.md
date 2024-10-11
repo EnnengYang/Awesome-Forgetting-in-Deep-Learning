@@ -612,6 +612,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Dual Consolidation for Pre-Trained Model-Based Domain-Incremental Learning](https://arxiv.org/pdf/2410.00911)|2024 | Arxiv
 | [ICL-TSVD: Bridging Theory and Practice in Continual Learning with Pre-trained Models](https://arxiv.org/pdf/2410.00645)|2024 | Arxiv
 | [Adaptive Adapter Routing for Long-Tailed Class-Incremental Learning](https://arxiv.org/pdf/2311.03396) | 2024 | Machine Learning Journal
 | [CoIN: A Benchmark of Continual Instruction tuNing for Multimodel Large Language Model](https://arxiv.org/pdf/2403.08350)|2024 | Arxiv
