@@ -114,6 +114,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 #### Survey and Book
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Recent Advances of Multimodal Continual Learning: A Comprehensive Survey](https://arxiv.org/pdf/2410.05352)| 2024  | Arxiv
 | [Towards General Industrial Intelligence: A Survey on Industrial IoT-Enhanced Continual Large Models](https://arxiv.org/pdf/2409.01207v1)| 2024  | Arxiv
 | [Towards Lifelong Learning of Large Language Models: A Survey](https://arxiv.org/pdf/2406.06391)| 2024  | Arxiv
 | [Recent Advances of Foundation Language Models-based Continual Learning: A Survey](https://arxiv.org/pdf/2405.18653)| 2024  | Arxiv
@@ -612,6 +613,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Does RoBERTa Perform Better than BERT in Continual Learning: An Attention Sink Perspective](https://arxiv.org/pdf/2410.05648)|2024 | COLM
 | [Dual Consolidation for Pre-Trained Model-Based Domain-Incremental Learning](https://arxiv.org/pdf/2410.00911)|2024 | Arxiv
 | [ICL-TSVD: Bridging Theory and Practice in Continual Learning with Pre-trained Models](https://arxiv.org/pdf/2410.00645)|2024 | Arxiv
 | [Adaptive Adapter Routing for Long-Tailed Class-Incremental Learning](https://arxiv.org/pdf/2311.03396) | 2024 | Machine Learning Journal
