@@ -622,6 +622,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 | [Parameter-Efficient Fine-Tuning for Continual Learning: A Neural Tangent Kernel Perspective](https://arxiv.org/pdf/2407.17120)|2024 | Arxiv
 | [Class-Incremental Learning with CLIP: Adaptive Representation Adjustment and Parameter Fusion](https://arxiv.org/pdf/2407.14143) | 2024 | ECCV
 | [Model Tailor: Mitigating Catastrophic Forgetting in Multi-modal Large Language Models](https://arxiv.org/pdf/2402.12048) | 2024 | ICML
+| [One Size Fits All for Semantic Shifts: Adaptive Prompt Tuning for Continual Learning](https://arxiv.org/pdf/2311.12048) | 2024 | ICML
 | [HiDe-PET: Continual Learning via Hierarchical Decomposition of Parameter-Efficient Tuning](https://arxiv.org/pdf/2407.05229)|2024 | Arxiv
 | [Domain Adaptation of Llama3-70B-Instruct through Continual Pre-Training and Model Merging: A Comprehensive Evaluation](https://arxiv.org/pdf/2406.14971)|2024 | Arxiv
 | [Mitigate Negative Transfer with Similarity Heuristic Lifelong Prompt Tuning](https://arxiv.org/pdf/2406.12251)|2024 | ACL
