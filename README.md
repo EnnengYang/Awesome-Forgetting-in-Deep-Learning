@@ -530,6 +530,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 | --------------- | :----: | :----: |
 | [Theoretical Insights into Overparameterized Models in Multi-Task and Replay-Based Continual Learning](https://arxiv.org/pdf/2408.16939)|2024 | Arxiv
 | [An analysis of best-practice strategies for replay and rehearsal in continual learning](https://openaccess.thecvf.com/content/CVPR2024W/CLVISION/papers/Krawczyk_An_Analysis_of_Best-practice_Strategies_for_Replay_and_Rehearsal_in_CVPRW_2024_paper.pdf)|2024 | CVPRW
+| [Provable Contrastive Continual Learning](https://arxiv.org/pdf/2405.18756)|2024 | ICML
 | [A Statistical Theory of Regularization-Based Continual Learning](https://arxiv.org/pdf/2406.06213)|2024 | ICML
 | [Efficient Continual Finite-Sum Minimization](https://arxiv.org/pdf/2406.04731)| 2024 | ICLR
 | [Provable Contrastive Continual Learning](https://arxiv.org/pdf/2405.18756)| 2024 | ICLR
