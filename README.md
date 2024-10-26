@@ -601,6 +601,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Exploring Forgetting in Large Language Model Pre-Training](https://arxiv.org/pdf/2410.17018)|2024 | Arxiv
 | [Measuring Forgetting of Memorized Training Examples](https://openreview.net/pdf?id=7bJizxLKrR) | 2023 | ICLR
 | [Quantifying Memorization Across Neural Language Models](https://openreview.net/pdf?id=TatRHT_1cK) | 2023| ICLR
 | [Analyzing leakage of personally identifiable information in language models](https://arxiv.org/pdf/2302.00539.pdf) | 2023|S\&P
