@@ -616,6 +616,9 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Incremental Learning of Retrievable Skills For Efficient Continual Task Adaptation](https://arxiv.org/pdf/2410.22658)|2024 | NeurIPS
+| [Vector Quantization Prompting for Continual Learning](https://arxiv.org/pdf/2410.20444)|2024 | NeurIPS
+| [Dual Low-Rank Adaptation for Continual Learning with Pre-Trained Models](https://arxiv.org/pdf/2411.00623)|2024 | Arxiv
 | [Is Parameter Collision Hindering Continual Learning in LLMs](https://arxiv.org/pdf/2410.10179)|2024 | Arxiv
 | [Does RoBERTa Perform Better than BERT in Continual Learning: An Attention Sink Perspective](https://arxiv.org/pdf/2410.05648)|2024 | COLM
 | [Dual Consolidation for Pre-Trained Model-Based Domain-Incremental Learning](https://arxiv.org/pdf/2410.00911)|2024 | Arxiv
@@ -720,10 +723,11 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 <a href="#top">[Back to top]</a>
 <!-- <u>[Click back to content outline](#framework)</u> -->
 
-> Test time adaptation (TTA) refers to the process of adapting a pre-trained model on-the-fly to unlabeled test data during inference or testin.
+> Test time adaptation (TTA) refers to the process of adapting a pre-trained model on-the-fly to unlabeled test data during inference or testing.
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [PCoTTA: Continual Test-Time Adaptation for Multi-Task Point Cloud Understanding](https://arxiv.org/pdf/2411.00632)| 2024 | NeurIPS
 | [Adaptive Cascading Network for Continual Test-Time Adaptation](https://arxiv.org/pdf/2407.12240)| 2024 | CIKM
 | [Controllable Continual Test-Time Adaptation](https://arxiv.org/pdf/2405.14602)| 2024 | Arxiv
 | [ViDA: Homeostatic Visual Domain Adapter for Continual Test Time Adaptation](https://openreview.net/pdf?id=sJ88Wg5Bp5)| 2024 | ICLR
