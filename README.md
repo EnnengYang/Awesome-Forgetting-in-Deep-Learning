@@ -616,6 +616,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Mitigating Catastrophic Forgetting in Large Language Models with Self-Synthesized Rehearsal](https://aclanthology.org/2024.acl-long.77.pdf)|2024 | ACL
 | [Incremental Learning of Retrievable Skills For Efficient Continual Task Adaptation](https://arxiv.org/pdf/2410.22658)|2024 | NeurIPS
 | [Vector Quantization Prompting for Continual Learning](https://arxiv.org/pdf/2410.20444)|2024 | NeurIPS
 | [Dual Low-Rank Adaptation for Continual Learning with Pre-Trained Models](https://arxiv.org/pdf/2411.00623)|2024 | Arxiv
