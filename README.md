@@ -663,6 +663,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 | [KOPPA: Improving Prompt-based Continual Learning with Key-Query Orthogonal Projection and Prototype-based One-Versus-All](https://arxiv.org/pdf/2311.15414.pdf) | 2023 | Arxiv
 | [RanPAC: Random Projections and Pre-trained Models for Continual Learning](https://arxiv.org/pdf/2307.02251.pdf) | 2023 | NeurIPS
 | [Hierarchical Decomposition of Prompt-Based Continual Learning: Rethinking Obscured Sub-optimality](https://arxiv.org/pdf/2310.07234.pdf) | 2023 | NeurIPS
+| [A Unified Continual Learning Framework with General Parameter-Efficient Tuning](https://arxiv.org/pdf/2303.10070) |2023 | ICCV
 | [Generating Instance-level Prompts for Rehearsal-free Continual Learning](https://openaccess.thecvf.com/content/ICCV2023/papers/Jung_Generating_Instance-level_Prompts_for_Rehearsal-free_Continual_Learning_ICCV_2023_paper.pdf) | 2023| ICCV
 | [Introducing Language Guidance in Prompt-based Continual Learning](https://openaccess.thecvf.com/content/ICCV2023/papers/Khan_Introducing_Language_Guidance_in_Prompt-based_Continual_Learning_ICCV_2023_paper.pdf) | 2023| ICCV
 | [Generating Instance-level Prompts for Rehearsal-free Continual Learning](https://openaccess.thecvf.com/content/ICCV2023/papers/Jung_Generating_Instance-level_Prompts_for_Rehearsal-free_Continual_Learning_ICCV_2023_paper.pdf) | 2023| ICCV
