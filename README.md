@@ -10,9 +10,9 @@ A comprehensive list of papers about **'[A Comprehensive Survey of Forgetting in
 
 ## Citation
 
-If you find our paper or this resource helpful, please consider cite:
+If you find our paper or this resource helpful, please consider citing:
 ```
-@article{Forgetting_Survey_2023,
+@article{Forgetting_Survey_2024,
   title={A Comprehensive Survey of Forgetting in Deep Learning Beyond Continual Learning},
   author={Wang, Zhenyi and Yang, Enneng and Shen, Li and Huang, Heng},
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
