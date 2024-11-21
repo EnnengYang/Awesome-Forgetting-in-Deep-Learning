@@ -618,6 +618,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
 | [Mitigating Catastrophic Forgetting in Large Language Models with Self-Synthesized Rehearsal](https://aclanthology.org/2024.acl-long.77.pdf)|2024 | ACL
+| [Mixture of Experts Meets Prompt-Based Continual Learning](https://arxiv.org/pdf/2405.14124)|2024 | NeurIPS
 | [SAFE: Slow and Fast Parameter-Efficient Tuning for Continual Learning with Pre-Trained Mode](https://arxiv.org/pdf/2411.02175)|2024 | NeurIPS
 | [Incremental Learning of Retrievable Skills For Efficient Continual Task Adaptation](https://arxiv.org/pdf/2410.22658)|2024 | NeurIPS
 | [Vector Quantization Prompting for Continual Learning](https://arxiv.org/pdf/2410.20444)|2024 | NeurIPS
@@ -639,7 +640,6 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 | [Reflecting on the State of Rehearsal-free Continual Learning with Pretrained Models](https://arxiv.org/pdf/2406.09384)|2024 | CoLLAs
 | [Choice of PEFT Technique in Continual Learning: Prompt Tuning is Not All You Need](https://arxiv.org/pdf/2406.03216)|2024 | Arxiv
 | [Disperse-Then-Merge: Pushing the Limits of Instruction Tuning via Alignment Tax Reduction](https://arxiv.org/pdf/2405.13432)|2024 | ACL
-| [Mixture of Experts Meets Prompt-Based Continual Learning](https://arxiv.org/pdf/2405.14124)|2024 | Arxiv
 | [Gradient Projection For Parameter-Efficient Continual Learning](https://arxiv.org/pdf/2405.13383) |2024 | Arxiv
 | [Continual Learning of Large Language Models: A Comprehensive Survey](https://arxiv.org/pdf/2404.16789) |2024 | Arxiv
 | [Prompt Customization for Continual Learning](https://arxiv.org/abs/2404.18060) |2024 | MM
