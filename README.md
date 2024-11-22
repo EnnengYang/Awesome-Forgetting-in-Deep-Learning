@@ -118,6 +118,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 | [A Comprehensive Survey of Forgetting in Deep Learning Beyond Continual Learning](https://arxiv.org/pdf/2307.09218.pdf) | 2024  | TPAMI
 | [Deep Class-Incremental Learning: A Survey](https://arxiv.org/pdf/2302.03648.pdf) | 2024  | TPAMI
 | [A Comprehensive Survey of Continual Learning: Theory, Method and Application](https://arxiv.org/pdf/2302.00487.pdf) | 2024  | TPAMI
+| [Federated Continual Learning for Edge-AI: A Comprehensive Survey](https://arxiv.org/pdf/2411.13740)| 2024  | Arxiv
 | [Continual Learning with Neuromorphic Computing: Theories, Methods, and Applications](https://arxiv.org/pdf/2410.09218)| 2024  | Arxiv
 | [Recent Advances of Multimodal Continual Learning: A Comprehensive Survey](https://arxiv.org/pdf/2410.05352)| 2024  | Arxiv
 | [Towards General Industrial Intelligence: A Survey on Industrial IoT-Enhanced Continual Large Models](https://arxiv.org/pdf/2409.01207v1)| 2024  | Arxiv
@@ -399,6 +400,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Dealing with Synthetic Data Contamination in Online Continual Learning](https://arxiv.org/pdf/2411.13852)| 2024 | NeurIPS
 | [Random Representations Outperform Online Continually Learned Representations](https://cdn.iiit.ac.in/cdn/precog.iiit.ac.in/pubs/NeurIPS-RanDumb.pdf)| 2024 | NeurIPS
 | [Forgetting, Ignorance or Myopia: Revisiting Key Challenges in Online Continual Learning](https://arxiv.org/pdf/2409.19245)| 2024 | NeurIPS
 | [Mitigating Catastrophic Forgetting in Online Continual Learning by Modeling Previous Task Interrelations via Pareto Optimization](https://openreview.net/pdf?id=olbTrkWo1D)| 2024 | ICML
