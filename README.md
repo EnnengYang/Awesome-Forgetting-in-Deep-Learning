@@ -619,6 +619,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Learn or Recall? Revisiting Incremental Learning with Pre-trained Language Models](https://arxiv.org/pdf/2312.07887)|2024 | ACL
 | [Mitigating Catastrophic Forgetting in Large Language Models with Self-Synthesized Rehearsal](https://aclanthology.org/2024.acl-long.77.pdf)|2024 | ACL
 | [Mixture of Experts Meets Prompt-Based Continual Learning](https://arxiv.org/pdf/2405.14124)|2024 | NeurIPS
 | [SAFE: Slow and Fast Parameter-Efficient Tuning for Continual Learning with Pre-Trained Mode](https://arxiv.org/pdf/2411.02175)|2024 | NeurIPS
