@@ -235,6 +235,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [CEAT: Continual Expansion and Absorption Transformer for Non-Exemplar Class-Incremental Learning](https://arxiv.org/pdf/2403.06670)| 2024 | TCSVT
 | [Harnessing Neural Unit Dynamics for Effective and Scalable Class-Incremental Learning](https://arxiv.org/pdf/2406.02428) | 2024 | ICML
 | [Revisiting Neural Networks for Continual Learning: An Architectural Perspective](https://arxiv.org/pdf/2404.14829) | 2024 | IJCAI
 | [Recall-Oriented Continual Learning with Generative Adversarial Meta-Model](https://arxiv.org/pdf/2403.03082.pdf) | 2024 | AAAI
