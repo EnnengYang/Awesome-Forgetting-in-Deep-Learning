@@ -862,6 +862,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Continual Deep Reinforcement Learning with Task-Agnostic Policy Distillation](https://arxiv.org/pdf/2411.16532)| 2024 | Arxiv
 | [Data Augmentation for Continual RL via Adversarial Gradient Episodic Memory](https://arxiv.org/pdf/2408.13452)| 2024 | Arxiv
 | [Fine-tuning Reinforcement Learning Models is Secretly a Forgetting Mitigation Problem](https://arxiv.org/pdf/2402.02868.pdf)| 2024 | Arxiv
 | [Hierarchical Continual Reinforcement Learning via Large Language Model](https://arxiv.org/pdf/2401.15098.pdf)| 2024 | Arxiv
