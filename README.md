@@ -620,7 +620,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
-| [MOS: Model Surgery for Pre-Trained Model-Based Class-Incremental Learning](https://arxiv.org/pdf/2412.09441)|2024 | AAAI
+| [MOS: Model Surgery for Pre-Trained Model-Based Class-Incremental Learning](https://arxiv.org/pdf/2412.09441)|2025 | AAAI
 | [Learn or Recall? Revisiting Incremental Learning with Pre-trained Language Models](https://arxiv.org/pdf/2312.07887)|2024 | ACL
 | [Mitigating Catastrophic Forgetting in Large Language Models with Self-Synthesized Rehearsal](https://aclanthology.org/2024.acl-long.77.pdf)|2024 | ACL
 | [Mixture of Experts Meets Prompt-Based Continual Learning](https://arxiv.org/pdf/2405.14124)|2024 | NeurIPS
