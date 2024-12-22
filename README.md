@@ -118,6 +118,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 | [A Comprehensive Survey of Forgetting in Deep Learning Beyond Continual Learning](https://arxiv.org/pdf/2307.09218.pdf) | 2024  | TPAMI
 | [Class-Incremental Learning: A Survey](https://arxiv.org/pdf/2302.03648.pdf) | 2024  | TPAMI
 | [A Comprehensive Survey of Continual Learning: Theory, Method and Application](https://arxiv.org/pdf/2302.00487.pdf) | 2024  | TPAMI
+| [Unleashing the Power of Continual Learning on Non-Centralized Devices: A Survey](https://arxiv.org/pdf/2412.13840)| 2024  | Arxiv
 | [Federated Continual Learning for Edge-AI: A Comprehensive Survey](https://arxiv.org/pdf/2411.13740)| 2024  | Arxiv
 | [Continual Learning with Neuromorphic Computing: Theories, Methods, and Applications](https://arxiv.org/pdf/2410.09218)| 2024  | Arxiv
 | [Recent Advances of Multimodal Continual Learning: A Comprehensive Survey](https://arxiv.org/pdf/2410.05352)| 2024  | Arxiv
@@ -278,6 +279,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Rehearsal-Free Continual Federated Learning with Synergistic Regularization](https://arxiv.org/pdf/2412.13779)|2024 | Arxiv
 | [A Statistical Theory of Regularization-Based Continual Learning](https://arxiv.org/pdf/2406.06213)|2024 | ICML
 | [IMEX-Reg: Implicit-Explicit Regularization in the Function Space for Continual Learning](https://arxiv.org/pdf/2404.18161)| 2024 | TMLR
 | [Contrastive Continual Learning with Importance Sampling and Prototype-Instance Relation Distillation](https://arxiv.org/pdf/2403.04599.pdf) | 2024 | AAAI
@@ -605,6 +607,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Efficient Continual Pre-training of LLMs for Low-resource Languages](https://arxiv.org/pdf/2412.10244)|2024 | Arxiv
 | [Exploring Forgetting in Large Language Model Pre-Training](https://arxiv.org/pdf/2410.17018)|2024 | Arxiv
 | [Measuring Forgetting of Memorized Training Examples](https://openreview.net/pdf?id=7bJizxLKrR) | 2023 | ICLR
 | [Quantifying Memorization Across Neural Language Models](https://openreview.net/pdf?id=TatRHT_1cK) | 2023| ICLR
@@ -620,6 +623,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [PEARL: Input-Agnostic Prompt Enhancement with Negative Feedback Regulation for Class-Incremental Learning](https://arxiv.org/pdf/2412.10900))|2025 | AAAI
 | [MOS: Model Surgery for Pre-Trained Model-Based Class-Incremental Learning](https://arxiv.org/pdf/2412.09441)|2025 | AAAI
 | [Learn or Recall? Revisiting Incremental Learning with Pre-trained Language Models](https://arxiv.org/pdf/2312.07887)|2024 | ACL
 | [Mitigating Catastrophic Forgetting in Large Language Models with Self-Synthesized Rehearsal](https://aclanthology.org/2024.acl-long.77.pdf)|2024 | ACL
@@ -773,6 +777,8 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [AnchorInv: Few-Shot Class-Incremental Learning of Physiological Signals via Feature Space-Guided Inversion](https://arxiv.org/pdf/2412.13714)| 2024 | Arxiv
+| [On Distilling the Displacement Knowledge for Few-Shot Class-Incremental Learning](https://arxiv.org/pdf/2412.11017) | 2024 | Arxiv
 | [Few-Shot Class-Incremental Learning via Training-Free Prototype Calibration](https://arxiv.org/pdf/2312.05229.pdf) | 2023|NeurIPS
 | [Constrained Few-shot Class-incremental Learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Hersche_Constrained_Few-Shot_Class-Incremental_Learning_CVPR_2022_paper.pdf) | 2022 | CVPR
 | [Meta-Learning with Less Forgetting on Large-Scale Non-Stationary Task Distributions](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136800211.pdf) | 2022 | ECCV
