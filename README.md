@@ -449,6 +449,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Towards Macro-AUC oriented Imbalanced Multi-Label Continual Learning](https://arxiv.org/pdf/2412.18231) | 2025 | IJCAI
 | [Joint Input and Output Coordination for Class-Incremental Learning](https://www.ijcai.org/proceedings/2024/0565.pdf)| 2024 | IJCAI
 | [Imbalance Mitigation for Continual Learning via Knowledge Decoupling and Dual Enhanced Contrastive Learning](https://ieeexplore.ieee.org/abstract/document/10382590) | 2024 | TNNLS
 | [Overcoming Recency Bias of Normalization Statistics in Continual Learning: Balance and Adaptation](https://openreview.net/pdf?id=Ph65E1bE6A) | 2023 | NeurIPS
