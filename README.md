@@ -915,6 +915,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Exemplar-condensed Federated Class-incremental Learning](https://arxiv.org/pdf/2412.18926)| 2024 | Arxiv
 | [Flashback: Understanding and Mitigating Forgetting in Federated Learning](https://arxiv.org/pdf/2402.05558.pdf) | 2024 | Arxiv
 | [How to Forget Clients in Federated Online Learning to Rank?](https://arxiv.org/pdf/2401.13410.pdf) | 2024 | ECIR
 | [GradMA: A Gradient-Memory-based Accelerated Federated Learning with Alleviated Catastrophic Forgetting](https://openaccess.thecvf.com/content/CVPR2023/papers/Luo_GradMA_A_Gradient-Memory-Based_Accelerated_Federated_Learning_With_Alleviated_Catastrophic_Forgetting_CVPR_2023_paper.pdf) |2023 | CVPR
