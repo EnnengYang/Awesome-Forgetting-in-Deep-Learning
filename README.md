@@ -935,6 +935,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Resource-Constrained Federated Continual Learning: What Does Matter?](https://arxiv.org/pdf/2501.08737)| 2025 | Arxiv
 | [Diffusion-Driven Data Replay: A Novel Approach to Combat Forgetting in Federated Class Continual Learning](https://arxiv.org/pdf/2409.01128)| 2024 | ECCV
 | [PIP: Prototypes-Injected Prompt for Federated Class Incremental](https://arxiv.org/pdf/2407.20705)| 2024 | CIKM
 | [Personalized Federated Continual Learning via Multi-granularity Prompt](https://arxiv.org/pdf/2407.00113)| 2024 | KDD
