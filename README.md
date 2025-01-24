@@ -621,12 +621,14 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 | [Continual contrastive learning for image classification](https://ieeexplore.ieee.org/document/9859995) | 2022 | ICME
 
 
-#### CL in Foundation Model
+#### CL in Foundation Model or Pretrained Model
 <a href="#top">[Back to top]</a>
 > By leveraging the powerful feature extraction capabilities of foundation models, researchers have been able to explore new avenues for advancing continual learning techniques.
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [S-LoRA: Scalable Low-Rank Adaptation for Class Incremental Learning](https://arxiv.org/pdf/2501.13198)|2025 | ICLR
+| [Spurious Forgetting in Continual Learning of Language Models](https://arxiv.org/pdf/2501.13453)|2025 | ICLR
 | [PEARL: Input-Agnostic Prompt Enhancement with Negative Feedback Regulation for Class-Incremental Learning](https://arxiv.org/pdf/2412.10900))|2025 | AAAI
 | [MOS: Model Surgery for Pre-Trained Model-Based Class-Incremental Learning](https://arxiv.org/pdf/2412.09441)|2025 | AAAI
 | [Learn or Recall? Revisiting Incremental Learning with Pre-trained Language Models](https://arxiv.org/pdf/2312.07887)|2024 | ACL
