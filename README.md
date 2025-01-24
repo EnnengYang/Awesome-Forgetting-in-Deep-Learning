@@ -575,6 +575,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [AURORA-M: Open Source Continual Pre-training for Multilingual Language and Code](https://aclanthology.org/2025.coling-industry.56.pdf)| 2025| Coling
 | [Continual Learning Using a Kernel-Based Method Over Foundation Models](https://arxiv.org/pdf/2412.15571)| 2024| Arxiv
 | [A Practitioner’s Guide to Continual Multimodal Pretraining](https://arxiv.org/pdf/2408.14471)| 2024| Arxiv
 | [SLCA++: Unleash the Power of Sequential Fine-tuning for Continual Learning with Pre-training](https://arxiv.org/pdf/2408.08295)| 2024| Arxiv
