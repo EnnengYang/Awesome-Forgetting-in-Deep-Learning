@@ -783,6 +783,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Controllable Forgetting Mechanism for Few-Shot Class-Incremental Learning](https://arxiv.org/pdf/2501.15998)| 2025 | ICASSP
 | [AnchorInv: Few-Shot Class-Incremental Learning of Physiological Signals via Feature Space-Guided Inversion](https://arxiv.org/pdf/2412.13714)| 2024 | Arxiv
 | [On Distilling the Displacement Knowledge for Few-Shot Class-Incremental Learning](https://arxiv.org/pdf/2412.11017) | 2024 | Arxiv
 | [Few-Shot Class-Incremental Learning via Training-Free Prototype Calibration](https://arxiv.org/pdf/2312.05229.pdf) | 2023|NeurIPS
@@ -938,6 +939,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Federated Class-Incremental Learning: A Hybrid Approach Using Latent Exemplars and Data-Free Techniques to Address Local and Global Forgetting](https://arxiv.org/pdf/2501.15356)|2025|ICLR
 | [Resource-Constrained Federated Continual Learning: What Does Matter?](https://arxiv.org/pdf/2501.08737)| 2025 | Arxiv
 | [Diffusion-Driven Data Replay: A Novel Approach to Combat Forgetting in Federated Class Continual Learning](https://arxiv.org/pdf/2409.01128)| 2024 | ECCV
 | [PIP: Prototypes-Injected Prompt for Federated Class Incremental](https://arxiv.org/pdf/2407.20705)| 2024 | CIKM
