@@ -318,6 +318,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Revisiting Flatness-aware Optimization in Continual Learning with Orthogonal Gradient Projection](https://ieeexplore.ieee.org/abstract/document/10874188)|2025|TPAMI
 | [Introducing Common Null Space of Gradients for Gradient Projection Methods in Continual Learning](https://openreview.net/pdf?id=N3yngE4fTy)| 2024 | ACM MM
 | [Improving Data-aware and Parameter-aware Robustness for Continual Learning](https://arxiv.org/abs/2405.17054v1)| 2024 | Arxiv
 | [Prompt Gradient Projection for Continual Learning](https://openreview.net/pdf?id=EH2O3h7sBI) | 2024 | ICLR
@@ -404,6 +405,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Online Curvature-Aware Replay: Leveraging 2nd Order Information for Online Continual Learning](https://arxiv.org/pdf/2502.01866) |2025|Arxiv
 | [Dealing with Synthetic Data Contamination in Online Continual Learning](https://arxiv.org/pdf/2411.13852)| 2024 | NeurIPS
 | [Random Representations Outperform Online Continually Learned Representations](https://cdn.iiit.ac.in/cdn/precog.iiit.ac.in/pubs/NeurIPS-RanDumb.pdf)| 2024 | NeurIPS
 | [Forgetting, Ignorance or Myopia: Revisiting Key Challenges in Online Continual Learning](https://arxiv.org/pdf/2409.19245)| 2024 | NeurIPS
@@ -627,6 +629,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [SPARC: Subspace-Aware Prompt Adaptation for Robust Continual Learning in LLMs](https://arxiv.org/pdf/2502.02909)| 2025 | Arxiv |
 | [S-LoRA: Scalable Low-Rank Adaptation for Class Incremental Learning](https://arxiv.org/pdf/2501.13198)|2025 | ICLR
 | [Spurious Forgetting in Continual Learning of Language Models](https://arxiv.org/pdf/2501.13453)|2025 | ICLR
 | [PEARL: Input-Agnostic Prompt Enhancement with Negative Feedback Regulation for Class-Incremental Learning](https://arxiv.org/pdf/2412.10900))|2025 | AAAI
@@ -746,6 +749,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Conformal Uncertainty Indicator for Continual Test-Time Adaptation](https://arxiv.org/pdf/2502.02998)| 2025 | Arxiv
 | [PCoTTA: Continual Test-Time Adaptation for Multi-Task Point Cloud Understanding](https://arxiv.org/pdf/2411.00632)| 2024 | NeurIPS
 | [Adaptive Cascading Network for Continual Test-Time Adaptation](https://arxiv.org/pdf/2407.12240)| 2024 | CIKM
 | [Controllable Continual Test-Time Adaptation](https://arxiv.org/pdf/2405.14602)| 2024 | Arxiv
