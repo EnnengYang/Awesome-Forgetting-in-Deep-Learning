@@ -115,6 +115,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 #### Survey and Book
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Federated Continual Learning: Concepts, Challenges, and Solutions](https://arxiv.org/pdf/2502.07059)| 2025  | Arxiv
 | [Online Continual Learning: A Systematic Literature Review of Approaches, Challenges, and Benchmarks](https://arxiv.org/pdf/2501.04897)| 2025  | Arxiv
 | [A Comprehensive Survey of Forgetting in Deep Learning Beyond Continual Learning](https://arxiv.org/pdf/2307.09218.pdf) | 2024  | TPAMI
 | [Class-Incremental Learning: A Survey](https://arxiv.org/pdf/2302.03648.pdf) | 2024  | TPAMI
