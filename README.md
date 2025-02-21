@@ -282,6 +282,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [On the Computation of the Fisher Information in Continual Learning](https://arxiv.org/pdf/2502.11756)|2025 | ICLR
 | [Rehearsal-Free Continual Federated Learning with Synergistic Regularization](https://arxiv.org/pdf/2412.13779)|2024 | Arxiv
 | [A Statistical Theory of Regularization-Based Continual Learning](https://arxiv.org/pdf/2406.06213)|2024 | ICML
 | [IMEX-Reg: Implicit-Explicit Regularization in the Function Space for Continual Learning](https://arxiv.org/pdf/2404.18161)| 2024 | TMLR
@@ -632,7 +633,11 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [How Do LLMs Acquire New Knowledge? A Knowledge Circuits Perspective on Continual Pre-Training](https://arxiv.org/pdf/2502.11196)| 2025 | Arxiv |
+| [DATA: Decomposed Attention-based Task Adaptation for Rehearsal-Free Continual Learning](https://arxiv.org/pdf/2502.11482)| 2025 | Arxiv |
 | [SPARC: Subspace-Aware Prompt Adaptation for Robust Continual Learning in LLMs](https://arxiv.org/pdf/2502.02909)| 2025 | Arxiv |
+| [Sculpting [CLS] Features for Pre-Trained Model-Based Class-Incremental Learning](https://arxiv.org/pdf/2502.14762)| 2025 | Arxiv |
+| [Unlocking the Power of Function Vectors for Characterizing and Mitigating Catastrophic Forgetting in Continual Instruction Tuning](https://arxiv.org/pdf/2502.11019)|2025 | ICLR
 | [S-LoRA: Scalable Low-Rank Adaptation for Class Incremental Learning](https://arxiv.org/pdf/2501.13198)|2025 | ICLR
 | [Spurious Forgetting in Continual Learning of Language Models](https://arxiv.org/pdf/2501.13453)|2025 | ICLR
 | [PEARL: Input-Agnostic Prompt Enhancement with Negative Feedback Regulation for Class-Incremental Learning](https://arxiv.org/pdf/2412.10900))|2025 | AAAI
@@ -948,6 +953,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 | --------------- | :----: | :----: |
 | [Federated Class-Incremental Learning: A Hybrid Approach Using Latent Exemplars and Data-Free Techniques to Address Local and Global Forgetting](https://arxiv.org/pdf/2501.15356)|2025|ICLR
 | [Resource-Constrained Federated Continual Learning: What Does Matter?](https://arxiv.org/pdf/2501.08737)| 2025 | Arxiv
+| [Accurate Forgetting for Heterogeneous Federated Continual Learning](https://arxiv.org/pdf/2502.14205)| 2024 | ICLR
 | [Diffusion-Driven Data Replay: A Novel Approach to Combat Forgetting in Federated Class Continual Learning](https://arxiv.org/pdf/2409.01128)| 2024 | ECCV
 | [PIP: Prototypes-Injected Prompt for Federated Class Incremental](https://arxiv.org/pdf/2407.20705)| 2024 | CIKM
 | [Personalized Federated Continual Learning via Multi-granularity Prompt](https://arxiv.org/pdf/2407.00113)| 2024 | KDD
