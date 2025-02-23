@@ -633,6 +633,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [An Empirical Analysis of Forgetting in Pre-trained Models with Incremental Low-Rank Updates](https://proceedings.mlr.press/v274/soutif25a.html)| 2025 | Conference on Lifelong Learning Agents |
 | [Unlocking the Power of Function Vectors for Characterizing and Mitigating Catastrophic Forgetting in Continual Instruction Tuning](https://arxiv.org/pdf/2502.11019)| 2025 | ICLR |
 | [Mitigating Visual Knowledge Forgetting in MLLM Instruction-tuning via Modality-decoupled Gradient Descent](https://arxiv.org/pdf/2502.11740)| 2025 | Arxiv |
 | [How Do LLMs Acquire New Knowledge? A Knowledge Circuits Perspective on Continual Pre-Training](https://arxiv.org/pdf/2502.11196)| 2025 | Arxiv |
