@@ -633,6 +633,8 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Unlocking the Power of Function Vectors for Characterizing and Mitigating Catastrophic Forgetting in Continual Instruction Tuning](https://arxiv.org/pdf/2502.11019)| 2025 | ICLR |
+| [Mitigating Visual Knowledge Forgetting in MLLM Instruction-tuning via Modality-decoupled Gradient Descent](https://arxiv.org/pdf/2502.11740)| 2025 | Arxiv |
 | [How Do LLMs Acquire New Knowledge? A Knowledge Circuits Perspective on Continual Pre-Training](https://arxiv.org/pdf/2502.11196)| 2025 | Arxiv |
 | [DATA: Decomposed Attention-based Task Adaptation for Rehearsal-Free Continual Learning](https://arxiv.org/pdf/2502.11482)| 2025 | Arxiv |
 | [SPARC: Subspace-Aware Prompt Adaptation for Robust Continual Learning in LLMs](https://arxiv.org/pdf/2502.02909)| 2025 | Arxiv |
