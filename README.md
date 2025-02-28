@@ -633,6 +633,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Recurrent Knowledge Identification and Fusion for Language Model Continual Learning](https://arxiv.org/pdf/2502.17510)| 2025 | Arxiv |
 | [An Empirical Analysis of Forgetting in Pre-trained Models with Incremental Low-Rank Updates](https://proceedings.mlr.press/v274/soutif25a.html)| 2025 | Conference on Lifelong Learning Agents |
 | [Unlocking the Power of Function Vectors for Characterizing and Mitigating Catastrophic Forgetting in Continual Instruction Tuning](https://arxiv.org/pdf/2502.11019)| 2025 | ICLR |
 | [Mitigating Visual Knowledge Forgetting in MLLM Instruction-tuning via Modality-decoupled Gradient Descent](https://arxiv.org/pdf/2502.11740)| 2025 | Arxiv |
@@ -891,6 +892,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [An Autonomous Network Orchestration Framework Integrating Large Language Models with Continual Reinforcement Learning](https://arxiv.org/pdf/2502.16198)| 2025 | Arxiv
 | [Continual Deep Reinforcement Learning with Task-Agnostic Policy Distillation](https://arxiv.org/pdf/2411.16532)| 2024 | Arxiv
 | [Data Augmentation for Continual RL via Adversarial Gradient Episodic Memory](https://arxiv.org/pdf/2408.13452)| 2024 | Arxiv
 | [Fine-tuning Reinforcement Learning Models is Secretly a Forgetting Mitigation Problem](https://arxiv.org/pdf/2402.02868.pdf)| 2024 | Arxiv
@@ -1050,6 +1052,7 @@ Beneficial forgetting arises when the model contains private information that co
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Exploring Incremental Unlearning: Techniques, Challenges, and Future Directions](https://arxiv.org/pdf/2502.16708) | 2025 | Arxiv
 | [Unlearning during Learning: An Efficient Federated Machine Unlearning Method](https://arxiv.org/pdf/2405.15474) | 2024 | IJCAI
 | [Label-Agnostic Forgetting: A Supervision-Free Unlearning in Deep Models](https://arxiv.org/pdf/2404.00506.pdf) |2024 | ICLR
 | [Machine Unlearning: A Survey](https://dl.acm.org/doi/10.1145/3603620) | 2023 | ACM Computing Surveys
