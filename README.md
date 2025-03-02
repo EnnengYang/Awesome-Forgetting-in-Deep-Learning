@@ -455,6 +455,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Replay Without Saving: Prototype Derivation and Distribution Rebalance for Class-Incremental Semantic Segmentation](https://ieeexplore.ieee.org/document/10904177?denied=)| 2025 | TPAMI
 | [Towards Macro-AUC oriented Imbalanced Multi-Label Continual Learning](https://arxiv.org/pdf/2412.18231) | 2025 | IJCAI
 | [Joint Input and Output Coordination for Class-Incremental Learning](https://www.ijcai.org/proceedings/2024/0565.pdf)| 2024 | IJCAI
 | [Imbalance Mitigation for Continual Learning via Knowledge Decoupling and Dual Enhanced Contrastive Learning](https://ieeexplore.ieee.org/abstract/document/10382590) | 2024 | TNNLS
