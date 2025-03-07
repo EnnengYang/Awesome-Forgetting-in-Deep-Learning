@@ -167,6 +167,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [STAR: Stability-Inducing Weight Perturbation for Continual Learning](https://arxiv.org/pdf/2503.01595)| 2025 | ICLR
 | [Prior-free Balanced Replay: Uncertainty-guided Reservoir Sampling for Long-Tailed Continual Learning](https://arxiv.org/pdf/2408.14976)| 2024 | MM
 | [FTF-ER: Feature-Topology Fusion-Based Experience Replay Method for Continual Graph Learning](https://arxiv.org/pdf/2407.19429)| 2024 | MM
 | [Multi-layer Rehearsal Feature Augmentation for Class-Incremental Learning](https://openreview.net/pdf?id=aksdU1KOpT) | 2024 | ICML
@@ -282,6 +283,8 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Parabolic Continual Learning](https://arxiv.org/pdf/2503.02117)|2025 | Arxiv
+| [No Forgetting Learning: Memory-free Continual Learning](https://arxiv.org/pdf/2503.04638)|2025 | Arxiv
 | [On the Computation of the Fisher Information in Continual Learning](https://arxiv.org/pdf/2502.11756)|2025 | ICLR
 | [Rehearsal-Free Continual Federated Learning with Synergistic Regularization](https://arxiv.org/pdf/2412.13779)|2024 | Arxiv
 | [A Statistical Theory of Regularization-Based Continual Learning](https://arxiv.org/pdf/2406.06213)|2024 | ICML
@@ -408,6 +411,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Alchemist: Towards the Design of Efficient Online Continual Learning System](https://arxiv.org/pdf/2503.01066) |2025|Arxiv
 | [Online Curvature-Aware Replay: Leveraging 2nd Order Information for Online Continual Learning](https://arxiv.org/pdf/2502.01866) |2025|Arxiv
 | [Dealing with Synthetic Data Contamination in Online Continual Learning](https://arxiv.org/pdf/2411.13852)| 2024 | NeurIPS
 | [Random Representations Outperform Online Continually Learned Representations](https://cdn.iiit.ac.in/cdn/precog.iiit.ac.in/pubs/NeurIPS-RanDumb.pdf)| 2024 | NeurIPS
@@ -494,6 +498,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Improving Open-world Continual Learning under the Constraints of Scarce Labeled Data](https://arxiv.org/pdf/2502.20974) | 2025 | Arxiv |
 | [Wearable Sensor-Based Few-Shot Continual Learning on Hand Gestures for Motor-Impaired Individuals via Latent Embedding Exploitation](https://arxiv.org/pdf/2405.08969) | 2024 | IJCAI
 | [A Bag of Tricks for Few-Shot Class-Incremental Learning](https://arxiv.org/pdf/2403.14392.pdf)| 2024 | Arxiv
 | [Analogical Learning-Based Few-Shot Class-Incremental Learning](https://ieeexplore.ieee.org/abstract/document/10382651) | 2024 | IEEE TCSVT
@@ -634,6 +639,10 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [CL-MoE: Enhancing Multimodal Large Language Model with Dual Momentum Mixture-of-Experts for Continual Visual Question Answering](https://arxiv.org/pdf/2503.00413)| 2025 | CVPR |
+| [CLDyB: Towards Dynamic Benchmarking for Continual Learning with Pre-trained Models](https://arxiv.org/pdf/2503.04655)| 2025 | ICLR |
+| [Beyond Cosine Decay: On the effectiveness of Infinite Learning Rate Schedule for Continual Pre-training](https://arxiv.org/pdf/2503.02844)| 2025 | Arxiv |
+| [Synthetic Data is an Elegant GIFT for Continual Vision-Language Models](https://arxiv.org/pdf/2503.04229)| 2025 | Arxiv |
 | [Recurrent Knowledge Identification and Fusion for Language Model Continual Learning](https://arxiv.org/pdf/2502.17510)| 2025 | Arxiv |
 | [An Empirical Analysis of Forgetting in Pre-trained Models with Incremental Low-Rank Updates](https://proceedings.mlr.press/v274/soutif25a.html)| 2025 | Conference on Lifelong Learning Agents |
 | [Unlocking the Power of Function Vectors for Characterizing and Mitigating Catastrophic Forgetting in Continual Instruction Tuning](https://arxiv.org/pdf/2502.11019)| 2025 | ICLR |
@@ -762,6 +771,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [FoCTTA: Low-Memory Continual Test-Time Adaptation with Focus](https://arxiv.org/pdf/2502.20677)| 2025 | Arxiv
 | [Conformal Uncertainty Indicator for Continual Test-Time Adaptation](https://arxiv.org/pdf/2502.02998)| 2025 | Arxiv
 | [PCoTTA: Continual Test-Time Adaptation for Multi-Task Point Cloud Understanding](https://arxiv.org/pdf/2411.00632)| 2024 | NeurIPS
 | [Adaptive Cascading Network for Continual Test-Time Adaptation](https://arxiv.org/pdf/2407.12240)| 2024 | CIKM
