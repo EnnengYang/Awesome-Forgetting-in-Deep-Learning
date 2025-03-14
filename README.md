@@ -167,6 +167,9 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Towards Experience Replay for Class-Incremental Learning in Fully-Binary Networks](https://arxiv.org/pdf/2503.07107)| 2025 | Arxiv
+| [Generative Binary Memory: Pseudo-Replay Class-Incremental Learning on Binarized Embeddings](https://arxiv.org/pdf/2503.10333)| 2025 | Arxiv
+| [Sample Compression for Continual Learning](https://arxiv.org/pdf/2503.10503)| 2025 | Arxiv
 | [STAR: Stability-Inducing Weight Perturbation for Continual Learning](https://arxiv.org/pdf/2503.01595)| 2025 | ICLR
 | [Prior-free Balanced Replay: Uncertainty-guided Reservoir Sampling for Long-Tailed Continual Learning](https://arxiv.org/pdf/2408.14976)| 2024 | MM
 | [FTF-ER: Feature-Topology Fusion-Based Experience Replay Method for Continual Graph Learning](https://arxiv.org/pdf/2407.19429)| 2024 | MM
@@ -240,6 +243,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [External Knowledge Injection for CLIP-Based Class-Incremental Learning](https://arxiv.org/pdf/2503.08510)| 2025 | Arxiv |
 | [CEAT: Continual Expansion and Absorption Transformer for Non-Exemplar Class-Incremental Learning](https://arxiv.org/pdf/2403.06670)| 2024 | TCSVT
 | [Harnessing Neural Unit Dynamics for Effective and Scalable Class-Incremental Learning](https://arxiv.org/pdf/2406.02428) | 2024 | ICML
 | [Revisiting Neural Networks for Continual Learning: An Architectural Perspective](https://arxiv.org/pdf/2404.14829) | 2024 | IJCAI
@@ -498,6 +502,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [A New Benchmark for Few-Shot Class-Incremental Learning: Redefining the Upper Bound](https://arxiv.org/pdf/2503.10003) | 2025 | Arxiv |
 | [Improving Open-world Continual Learning under the Constraints of Scarce Labeled Data](https://arxiv.org/pdf/2502.20974) | 2025 | Arxiv |
 | [Wearable Sensor-Based Few-Shot Continual Learning on Hand Gestures for Motor-Impaired Individuals via Latent Embedding Exploitation](https://arxiv.org/pdf/2405.08969) | 2024 | IJCAI
 | [A Bag of Tricks for Few-Shot Class-Incremental Learning](https://arxiv.org/pdf/2403.14392.pdf)| 2024 | Arxiv
@@ -639,6 +644,8 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [TMs-TSCIL Pre-Trained Models Based Class-Incremental Learning](https://arxiv.org/pdf/2503.07153)| 2025 | Arxiv |
+| [Merge then Realign: Simple and Effective Modality-Incremental Continual Learning for Multimodal LLMs](https://arxiv.org/pdf/2503.07663)| 2025 | Arxiv |
 | [CL-MoE: Enhancing Multimodal Large Language Model with Dual Momentum Mixture-of-Experts for Continual Visual Question Answering](https://arxiv.org/pdf/2503.00413)| 2025 | CVPR |
 | [CLDyB: Towards Dynamic Benchmarking for Continual Learning with Pre-trained Models](https://arxiv.org/pdf/2503.04655)| 2025 | ICLR |
 | [Beyond Cosine Decay: On the effectiveness of Infinite Learning Rate Schedule for Continual Pre-training](https://arxiv.org/pdf/2503.02844)| 2025 | Arxiv |
@@ -903,6 +910,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Mastering Continual Reinforcement Learning through Fine-Grained Sparse Network Allocation and Dormant Neuron Exploration Notebook](https://arxiv.org/pdf/2503.05246)| 2025 | Arxiv
 | [An Autonomous Network Orchestration Framework Integrating Large Language Models with Continual Reinforcement Learning](https://arxiv.org/pdf/2502.16198)| 2025 | Arxiv
 | [Continual Deep Reinforcement Learning with Task-Agnostic Policy Distillation](https://arxiv.org/pdf/2411.16532)| 2024 | Arxiv
 | [Data Augmentation for Continual RL via Adversarial Gradient Episodic Memory](https://arxiv.org/pdf/2408.13452)| 2024 | Arxiv
