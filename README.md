@@ -415,6 +415,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Ferret: An Efficient Online Continual Learning Framework under Varying Memory Constraints](https://arxiv.org/pdf/2503.12053)|2025|CVPR
 | [Alchemist: Towards the Design of Efficient Online Continual Learning System](https://arxiv.org/pdf/2503.01066) |2025|Arxiv
 | [Online Curvature-Aware Replay: Leveraging 2nd Order Information for Online Continual Learning](https://arxiv.org/pdf/2502.01866) |2025|Arxiv
 | [Dealing with Synthetic Data Contamination in Online Continual Learning](https://arxiv.org/pdf/2411.13852)| 2024 | NeurIPS
@@ -644,6 +645,8 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [HiDe-LLaVA: Hierarchical Decoupling for Continual Instruction Tuning of Multimodal Large Language Model](https://arxiv.org/pdf/2503.12941)| 2025 | Arxiv |
+| [Analytic Subspace Routing: How Recursive Least Squares Works in Continual Learning of Large Language Model](https://arxiv.org/pdf/2503.13575)| 2025 | Arxiv |
 | [TMs-TSCIL Pre-Trained Models Based Class-Incremental Learning](https://arxiv.org/pdf/2503.07153)| 2025 | Arxiv |
 | [Merge then Realign: Simple and Effective Modality-Incremental Continual Learning for Multimodal LLMs](https://arxiv.org/pdf/2503.07663)| 2025 | Arxiv |
 | [CL-MoE: Enhancing Multimodal Large Language Model with Dual Momentum Mixture-of-Experts for Continual Visual Question Answering](https://arxiv.org/pdf/2503.00413)| 2025 | CVPR |
@@ -817,6 +820,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [An experimental approach on Few Shot Class Incremental Learning](https://arxiv.org/pdf/2503.11349)| 2025 | Arxiv
 | [Controllable Forgetting Mechanism for Few-Shot Class-Incremental Learning](https://arxiv.org/pdf/2501.15998)| 2025 | ICASSP
 | [AnchorInv: Few-Shot Class-Incremental Learning of Physiological Signals via Feature Space-Guided Inversion](https://arxiv.org/pdf/2412.13714)| 2024 | Arxiv
 | [On Distilling the Displacement Knowledge for Few-Shot Class-Incremental Learning](https://arxiv.org/pdf/2412.11017) | 2024 | Arxiv
