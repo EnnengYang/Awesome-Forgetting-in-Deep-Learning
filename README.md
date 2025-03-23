@@ -328,6 +328,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Geodesic-Aligned Gradient Projection for Continual Task Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10934731)|2025|TIP
 | [Revisiting Flatness-aware Optimization in Continual Learning with Orthogonal Gradient Projection](https://ieeexplore.ieee.org/abstract/document/10874188)|2025|TPAMI
 | [Introducing Common Null Space of Gradients for Gradient Projection Methods in Continual Learning](https://openreview.net/pdf?id=N3yngE4fTy)| 2024 | ACM MM
 | [Improving Data-aware and Parameter-aware Robustness for Continual Learning](https://arxiv.org/abs/2405.17054v1)| 2024 | Arxiv
