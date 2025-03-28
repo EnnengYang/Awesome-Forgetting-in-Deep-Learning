@@ -167,6 +167,8 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Do Your Best and Get Enough Rest for Continual Learning](https://arxiv.org/pdf/2503.18371)| 2025 | CVPR
+| [Reducing Class-wise Confusion for Incremental Learning with Disentangled Manifolds](https://arxiv.org/pdf/2503.17677)| 2025 | CVPR
 | [Towards Experience Replay for Class-Incremental Learning in Fully-Binary Networks](https://arxiv.org/pdf/2503.07107)| 2025 | Arxiv
 | [Generative Binary Memory: Pseudo-Replay Class-Incremental Learning on Binarized Embeddings](https://arxiv.org/pdf/2503.10333)| 2025 | Arxiv
 | [Sample Compression for Continual Learning](https://arxiv.org/pdf/2503.10503)| 2025 | Arxiv
@@ -243,7 +245,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
-| [External Knowledge Injection for CLIP-Based Class-Incremental Learning](https://arxiv.org/pdf/2503.08510)| 2025 | Arxiv |
+| [KAC: Kolmogorov-Arnold Classifier for Continual Learning](https://arxiv.org/pdf/2503.21076)| 2024 | CVPR
 | [CEAT: Continual Expansion and Absorption Transformer for Non-Exemplar Class-Incremental Learning](https://arxiv.org/pdf/2403.06670)| 2024 | TCSVT
 | [Harnessing Neural Unit Dynamics for Effective and Scalable Class-Incremental Learning](https://arxiv.org/pdf/2406.02428) | 2024 | ICML
 | [Revisiting Neural Networks for Continual Learning: An Architectural Perspective](https://arxiv.org/pdf/2404.14829) | 2024 | IJCAI
@@ -646,6 +648,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [LoRA Subtraction for Drift-Resistant Space in Exemplar-Free Continual Learning](https://arxiv.org/pdf/2503.18985)| 2025 | CVPR |
 | [HiDe-LLaVA: Hierarchical Decoupling for Continual Instruction Tuning of Multimodal Large Language Model](https://arxiv.org/pdf/2503.12941)| 2025 | Arxiv |
 | [Analytic Subspace Routing: How Recursive Least Squares Works in Continual Learning of Large Language Model](https://arxiv.org/pdf/2503.13575)| 2025 | Arxiv |
 | [TMs-TSCIL Pre-Trained Models Based Class-Incremental Learning](https://arxiv.org/pdf/2503.07153)| 2025 | Arxiv |
@@ -980,6 +983,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Dynamic Allocation Hypernetwork with Adaptive Model Recalibration for Federated Continual Learning](https://arxiv.org/pdf/2503.20808)|2025|IPMI
 | [Federated Class-Incremental Learning: A Hybrid Approach Using Latent Exemplars and Data-Free Techniques to Address Local and Global Forgetting](https://arxiv.org/pdf/2501.15356)|2025|ICLR
 | [Resource-Constrained Federated Continual Learning: What Does Matter?](https://arxiv.org/pdf/2501.08737)| 2025 | Arxiv
 | [Accurate Forgetting for Heterogeneous Federated Continual Learning](https://arxiv.org/pdf/2502.14205)| 2024 | ICLR
