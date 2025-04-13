@@ -648,6 +648,9 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [SEE: Continual Fine-tuning with Sequential Ensemble of Experts]()
+| [Sculpting Subspaces: Constrained Full Fine-Tuning in LLMs for Continual Learning](https://arxiv.org/pdf/2504.07097)| 2025 | Arxiv
+| [Dynamic Adapter Tuning for Long-Tailed Class-Incremental Learning](https://ieeexplore.ieee.org/abstract/document/10943390)| 2025 | WACV |
 | [LoRA Subtraction for Drift-Resistant Space in Exemplar-Free Continual Learning](https://arxiv.org/pdf/2503.18985)| 2025 | CVPR |
 | [HiDe-LLaVA: Hierarchical Decoupling for Continual Instruction Tuning of Multimodal Large Language Model](https://arxiv.org/pdf/2503.12941)| 2025 | Arxiv |
 | [Analytic Subspace Routing: How Recursive Least Squares Works in Continual Learning of Large Language Model](https://arxiv.org/pdf/2503.13575)| 2025 | Arxiv |
