@@ -245,6 +245,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Self-Controlled Dynamic Expansion Model for Continual Learning](https://arxiv.org/pdf/2504.10561)| 2025 | Arxiv
 | [KAC: Kolmogorov-Arnold Classifier for Continual Learning](https://arxiv.org/pdf/2503.21076)| 2024 | CVPR
 | [CEAT: Continual Expansion and Absorption Transformer for Non-Exemplar Class-Incremental Learning](https://arxiv.org/pdf/2403.06670)| 2024 | TCSVT
 | [Harnessing Neural Unit Dynamics for Effective and Scalable Class-Incremental Learning](https://arxiv.org/pdf/2406.02428) | 2024 | ICML
@@ -557,6 +558,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Convergence and Implicit Bias of Gradient Descent on Continual Linear Classification](https://arxiv.org/pdf/2504.12712)|2025 | Arxiv
 | [Theoretical Insights into Overparameterized Models in Multi-Task and Replay-Based Continual Learning](https://arxiv.org/pdf/2408.16939)|2024 | Arxiv
 | [An analysis of best-practice strategies for replay and rehearsal in continual learning](https://openaccess.thecvf.com/content/CVPR2024W/CLVISION/papers/Krawczyk_An_Analysis_of_Best-practice_Strategies_for_Replay_and_Rehearsal_in_CVPRW_2024_paper.pdf)|2024 | CVPRW
 | [Provable Contrastive Continual Learning](https://arxiv.org/pdf/2405.18756)|2024 | ICML
@@ -648,7 +650,8 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
-| [SEE: Continual Fine-tuning with Sequential Ensemble of Experts]()
+| [Domain-Adaptive Continued Pre-Training of Small Language Models](https://arxiv.org/pdf/2504.09687)| 2025 | Arxiv
+| [SEE: Continual Fine-tuning with Sequential Ensemble of Experts](https://arxiv.org/abs/2504.06664)| 2025 | Arxiv
 | [Sculpting Subspaces: Constrained Full Fine-Tuning in LLMs for Continual Learning](https://arxiv.org/pdf/2504.07097)| 2025 | Arxiv
 | [Dynamic Adapter Tuning for Long-Tailed Class-Incremental Learning](https://ieeexplore.ieee.org/abstract/document/10943390)| 2025 | WACV |
 | [LoRA Subtraction for Drift-Resistant Space in Exemplar-Free Continual Learning](https://arxiv.org/pdf/2503.18985)| 2025 | CVPR |
@@ -921,6 +924,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Rethinking the Foundations for Continual Reinforcement Learning](https://arxiv.org/pdf/2504.08161)| 2025 | RLDM
 | [Mastering Continual Reinforcement Learning through Fine-Grained Sparse Network Allocation and Dormant Neuron Exploration Notebook](https://arxiv.org/pdf/2503.05246)| 2025 | Arxiv
 | [An Autonomous Network Orchestration Framework Integrating Large Language Models with Continual Reinforcement Learning](https://arxiv.org/pdf/2502.16198)| 2025 | Arxiv
 | [Continual Deep Reinforcement Learning with Task-Agnostic Policy Distillation](https://arxiv.org/pdf/2411.16532)| 2024 | Arxiv
