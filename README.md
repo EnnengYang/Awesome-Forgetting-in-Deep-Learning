@@ -115,6 +115,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 #### Survey and Book
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Parameter-Efficient Continual Fine-Tuning: A Survey](https://arxiv.org/pdf/2504.13822)| 2025  | Arxiv
 | [Latest Advancements Towards Catastrophic Forgetting under Data Scarcity: A Comprehensive Survey on Few-Shot Class Incremental Learning](https://arxiv.org/pdf/2502.08181)| 2025  | Arxiv
 | [Federated Continual Learning: Concepts, Challenges, and Solutions](https://arxiv.org/pdf/2502.07059)| 2025  | Arxiv
 | [Online Continual Learning: A Systematic Literature Review of Approaches, Challenges, and Benchmarks](https://arxiv.org/pdf/2501.04897)| 2025  | Arxiv
@@ -370,6 +371,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Bayesian continual learning and forgetting in neural networks](https://arxiv.org/pdf/2504.13569)| 2025 |Arxiv
 | [Learning to Continually Learn with the Bayesian Principle](https://arxiv.org/pdf/2405.18758) |2024 | ICML
 | [A Probabilistic Framework for Modular Continual Learning](https://arxiv.org/pdf/2306.06545.pdf) | 2023 |Arxiv
 | [Online Continual Learning on Class Incremental Blurry Task Configuration with Anytime Inference](https://openreview.net/pdf?id=nrGGfMbY_qK) |2022 | ICLR
@@ -650,6 +652,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [SPECI: Skill Prompts based Hierarchical Continual Imitation Learning for Robot Manipulation](https://arxiv.org/pdf/2504.15561)| 2025 | Arxiv
 | [Domain-Adaptive Continued Pre-Training of Small Language Models](https://arxiv.org/pdf/2504.09687)| 2025 | Arxiv
 | [SEE: Continual Fine-tuning with Sequential Ensemble of Experts](https://arxiv.org/abs/2504.06664)| 2025 | Arxiv
 | [Sculpting Subspaces: Constrained Full Fine-Tuning in LLMs for Continual Learning](https://arxiv.org/pdf/2504.07097)| 2025 | Arxiv
