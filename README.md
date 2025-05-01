@@ -421,6 +421,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Amphibian: A Meta-Learning Framework for Rehearsal-Free, Fast Online Continual Learning](https://openreview.net/forum?id=n4AaKOBWbB)|2025|TMLR
 | [Ferret: An Efficient Online Continual Learning Framework under Varying Memory Constraints](https://arxiv.org/pdf/2503.12053)|2025|CVPR
 | [Alchemist: Towards the Design of Efficient Online Continual Learning System](https://arxiv.org/pdf/2503.01066) |2025|Arxiv
 | [Online Curvature-Aware Replay: Leveraging 2nd Order Information for Online Continual Learning](https://arxiv.org/pdf/2502.01866) |2025|Arxiv
