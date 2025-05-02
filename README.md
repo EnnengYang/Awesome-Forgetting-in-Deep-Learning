@@ -653,6 +653,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Enhancing Pre-Trained Model-Based Class-Incremental Learning through Neural Collapse](https://arxiv.org/pdf/2504.18437)| 2025 | Arxiv
 | [SPECI: Skill Prompts based Hierarchical Continual Imitation Learning for Robot Manipulation](https://arxiv.org/pdf/2504.15561)| 2025 | Arxiv
 | [Domain-Adaptive Continued Pre-Training of Small Language Models](https://arxiv.org/pdf/2504.09687)| 2025 | Arxiv
 | [SEE: Continual Fine-tuning with Sequential Ensemble of Experts](https://arxiv.org/abs/2504.06664)| 2025 | Arxiv
@@ -994,6 +995,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [SacFL: Self-Adaptive Federated Continual Learning for Resource-Constrained End Devices](https://arxiv.org/pdf/2505.00365)|2025|TNNLS
 | [Dynamic Allocation Hypernetwork with Adaptive Model Recalibration for Federated Continual Learning](https://arxiv.org/pdf/2503.20808)|2025|IPMI
 | [Federated Class-Incremental Learning: A Hybrid Approach Using Latent Exemplars and Data-Free Techniques to Address Local and Global Forgetting](https://arxiv.org/pdf/2501.15356)|2025|ICLR
 | [Resource-Constrained Federated Continual Learning: What Does Matter?](https://arxiv.org/pdf/2501.08737)| 2025 | Arxiv
