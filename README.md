@@ -164,10 +164,11 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 #####  Memory-based Methods
 <a href="#top">[Back to top]</a>
-> Memory-based (or Rehearsal-based) method keeps a memory buffer that stores the examples/knowledges from previous tasks and replay those examples during learning new tasks.
+> Memory-based (or Rehearsal-based) method keeps a memory buffer that stores the examples/knowledge from previous tasks and replays those examples during learning new tasks.
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Autoencoder-Based Hybrid Replay for Class-Incremental Learning](https://arxiv.org/pdf/2505.05926)| 2025 | ICML
 | [Do Your Best and Get Enough Rest for Continual Learning](https://arxiv.org/pdf/2503.18371)| 2025 | CVPR
 | [Reducing Class-wise Confusion for Incremental Learning with Disentangled Manifolds](https://arxiv.org/pdf/2503.17677)| 2025 | CVPR
 | [Towards Experience Replay for Class-Incremental Learning in Fully-Binary Networks](https://arxiv.org/pdf/2503.07107)| 2025 | Arxiv
@@ -246,6 +247,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Prototype Augmented Hypernetworks for Continual Learning](https://arxiv.org/pdf/2505.07450) | 2025| CVPR
 | [Self-Controlled Dynamic Expansion Model for Continual Learning](https://arxiv.org/pdf/2504.10561)| 2025 | Arxiv
 | [KAC: Kolmogorov-Arnold Classifier for Continual Learning](https://arxiv.org/pdf/2503.21076)| 2024 | CVPR
 | [CEAT: Continual Expansion and Absorption Transformer for Non-Exemplar Class-Incremental Learning](https://arxiv.org/pdf/2403.06670)| 2024 | TCSVT
