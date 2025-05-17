@@ -655,6 +655,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Beyond CLIP Generalization: Against Forward&Backward Forgetting Adapter for Continual Learning of Vision-Language Models](https://arxiv.org/pdf/2505.07690)| 2025 | Arxiv
 | [Componential Prompt-Knowledge Alignment for Domain Incremental Learning](https://arxiv.org/pdf/2505.04575)| 2025 | ICML
 | [Enhancing Pre-Trained Model-Based Class-Incremental Learning through Neural Collapse](https://arxiv.org/pdf/2504.18437)| 2025 | Arxiv
 | [SPECI: Skill Prompts based Hierarchical Continual Imitation Learning for Robot Manipulation](https://arxiv.org/pdf/2504.15561)| 2025 | Arxiv
