@@ -334,6 +334,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Continuous Subspace Optimization for Continual Learning](https://arxiv.org/pdf/2505.11816)| 2025 | Arxiv
 | [Geodesic-Aligned Gradient Projection for Continual Task Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10934731)|2025|TIP
 | [Revisiting Flatness-aware Optimization in Continual Learning with Orthogonal Gradient Projection](https://ieeexplore.ieee.org/abstract/document/10874188)|2025|TPAMI
 | [Introducing Common Null Space of Gradients for Gradient Projection Methods in Continual Learning](https://openreview.net/pdf?id=N3yngE4fTy)| 2024 | ACM MM
@@ -655,6 +656,8 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Efficient Federated Class-Incremental Learning of Pre-Trained Models via Task-agnostic Low-rank Residual Adaptation](https://arxiv.org/pdf/2505.12318)| 2025 | Arxiv
+| [Parameter Efficient Continual Learning with Dynamic Low-Rank Adaptation](https://arxiv.org/pdf/2505.11998)| 2025 | Arxiv
 | [Beyond CLIP Generalization: Against Forward&Backward Forgetting Adapter for Continual Learning of Vision-Language Models](https://arxiv.org/pdf/2505.07690)| 2025 | Arxiv
 | [Componential Prompt-Knowledge Alignment for Domain Incremental Learning](https://arxiv.org/pdf/2505.04575)| 2025 | ICML
 | [Enhancing Pre-Trained Model-Based Class-Incremental Learning through Neural Collapse](https://arxiv.org/pdf/2504.18437)| 2025 | Arxiv
@@ -800,6 +803,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Ranked Entropy Minimization for Continual Test-Time Adaptation](https://arxiv.org/pdf/2505.16441)| 2025 | ICML
 | [FoCTTA: Low-Memory Continual Test-Time Adaptation with Focus](https://arxiv.org/pdf/2502.20677)| 2025 | Arxiv
 | [Conformal Uncertainty Indicator for Continual Test-Time Adaptation](https://arxiv.org/pdf/2502.02998)| 2025 | Arxiv
 | [PCoTTA: Continual Test-Time Adaptation for Multi-Task Point Cloud Understanding](https://arxiv.org/pdf/2411.00632)| 2024 | NeurIPS
@@ -1097,6 +1101,7 @@ Beneficial forgetting arises when the model contains private information that co
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [A Unified Gradient-based Framework for Task-agnostic Continual Learning-Unlearning](https://arxiv.org/pdf/2505.16441)| 2025 | Arxiv
 | [Exploring Incremental Unlearning: Techniques, Challenges, and Future Directions](https://arxiv.org/pdf/2502.16708) | 2025 | Arxiv
 | [Unlearning during Learning: An Efficient Federated Machine Unlearning Method](https://arxiv.org/pdf/2405.15474) | 2024 | IJCAI
 | [Label-Agnostic Forgetting: A Supervision-Free Unlearning in Deep Models](https://arxiv.org/pdf/2404.00506.pdf) |2024 | ICLR
