@@ -424,6 +424,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Cut out and Replay: A Simple yet Versatile Strategy for Multi-Label Online Continual Learning](https://arxiv.org/pdf/2505.19680)|2025|ICML
 | [Amphibian: A Meta-Learning Framework for Rehearsal-Free, Fast Online Continual Learning](https://openreview.net/forum?id=n4AaKOBWbB)|2025|TMLR
 | [Ferret: An Efficient Online Continual Learning Framework under Varying Memory Constraints](https://arxiv.org/pdf/2503.12053)|2025|CVPR
 | [Alchemist: Towards the Design of Efficient Online Continual Learning System](https://arxiv.org/pdf/2503.01066) |2025|Arxiv
@@ -656,6 +657,11 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Can LLMs Alleviate Catastrophic Forgetting in Graph Continual Learning? A Systematic Study](https://arxiv.org/pdf/2505.18697)| 2025 | Arxiv
+| [Beyond Freezing: Sparse Tuning Enhances Plasticity in Continual Learning with Pre-Trained Models](https://arxiv.org/pdf/2505.19943)| 2025 | Arxiv
+| [SplitLoRA: Balancing Stability and Plasticity in Continual Learning Through Gradient Space Splitting](https://arxiv.org/pdf/2505.22370)| 2025 | Arxiv
+| [Budget-Adaptive Adapter Tuning in Orthogonal Subspaces for Continual Learning in LLMs](https://arxiv.org/pdf/2505.22358)| 2025 | Arxiv
+| [LADA: Scalable Label-Specific CLIP Adapter for Continual Learning](https://arxiv.org/pdf/2505.23271)| 2025 | ICML
 | [Efficient Federated Class-Incremental Learning of Pre-Trained Models via Task-agnostic Low-rank Residual Adaptation](https://arxiv.org/pdf/2505.12318)| 2025 | Arxiv
 | [Parameter Efficient Continual Learning with Dynamic Low-Rank Adaptation](https://arxiv.org/pdf/2505.11998)| 2025 | Arxiv
 | [Beyond CLIP Generalization: Against Forward&Backward Forgetting Adapter for Continual Learning of Vision-Language Models](https://arxiv.org/pdf/2505.07690)| 2025 | Arxiv
