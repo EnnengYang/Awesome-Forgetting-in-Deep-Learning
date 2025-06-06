@@ -115,6 +115,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 #### Survey and Book
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [The Future of Continual Learning in the Era of Foundation Models: Three Key Directions](https://arxiv.org/pdf/2506.03320)| 2025  | TCAI workshop 2025
 | [Parameter-Efficient Continual Fine-Tuning: A Survey](https://arxiv.org/pdf/2504.13822)| 2025  | Arxiv
 | [Latest Advancements Towards Catastrophic Forgetting under Data Scarcity: A Comprehensive Survey on Few-Shot Class Incremental Learning](https://arxiv.org/pdf/2502.08181)| 2025  | Arxiv
 | [Federated Continual Learning: Concepts, Challenges, and Solutions](https://arxiv.org/pdf/2502.07059)| 2025  | Arxiv
@@ -168,6 +169,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Unlocking the Power of Rehearsal in Continual Learning: A Theoretical Perspective](https://arxiv.org/pdf/2506.00205)| 2025 | ICML
 | [Autoencoder-Based Hybrid Replay for Class-Incremental Learning](https://arxiv.org/pdf/2505.05926)| 2025 | ICML
 | [Do Your Best and Get Enough Rest for Continual Learning](https://arxiv.org/pdf/2503.18371)| 2025 | CVPR
 | [Reducing Class-wise Confusion for Incremental Learning with Disentangled Manifolds](https://arxiv.org/pdf/2503.17677)| 2025 | CVPR
@@ -247,6 +249,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Rethinking the Stability-Plasticity Trade-off in Continual Learning from an Architectural Perspective](https://arxiv.org/pdf/2506.03951)| 2025| ICML
 | [Prototype Augmented Hypernetworks for Continual Learning](https://arxiv.org/pdf/2505.07450) | 2025| CVPR
 | [Self-Controlled Dynamic Expansion Model for Continual Learning](https://arxiv.org/pdf/2504.10561)| 2025 | Arxiv
 | [KAC: Kolmogorov-Arnold Classifier for Continual Learning](https://arxiv.org/pdf/2503.21076)| 2024 | CVPR
@@ -657,6 +660,8 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Vulnerability-Aware Alignment: Mitigating Uneven Forgetting in Harmful Fine-Tuning](https://arxiv.org/pdf/2506.03850)| 2025 | ICML
+| [Proxy-FDA: Proxy-based Feature Distribution Alignment for Fine-tuning Vision Foundation Models without Forgetting](https://arxiv.org/pdf/2505.24088)| 2025 | ICML
 | [Can LLMs Alleviate Catastrophic Forgetting in Graph Continual Learning? A Systematic Study](https://arxiv.org/pdf/2505.18697)| 2025 | Arxiv
 | [Beyond Freezing: Sparse Tuning Enhances Plasticity in Continual Learning with Pre-Trained Models](https://arxiv.org/pdf/2505.19943)| 2025 | Arxiv
 | [SplitLoRA: Balancing Stability and Plasticity in Continual Learning Through Gradient Space Splitting](https://arxiv.org/pdf/2505.22370)| 2025 | Arxiv
