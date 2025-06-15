@@ -666,6 +666,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 | [Breaking Data Silos: Towards Open and Scalable Mobility Foundation Models via Generative Continual Learning](https://arxiv.org/pdf/2506.06694)| 2025 | Arxiv
 | [Leveraging Pre-Trained Models for Multimodal Class-Incremental Learning under Adaptive Fusion](https://arxiv.org/pdf/2506.09999)| 2025 | Arxiv
 | [Can LLMs Alleviate Catastrophic Forgetting in Graph Continual Learning? A Systematic Study](https://arxiv.org/pdf/2505.18697)| 2025 | Arxiv
+| [Dynamic Mixture of Progressive Parameter-Efficient Expert Library for Lifelong Robot Learning](https://arxiv.org/pdf/2506.05985)| 2025 | Arxiv
 | [Beyond Freezing: Sparse Tuning Enhances Plasticity in Continual Learning with Pre-Trained Models](https://arxiv.org/pdf/2505.19943)| 2025 | Arxiv
 | [SplitLoRA: Balancing Stability and Plasticity in Continual Learning Through Gradient Space Splitting](https://arxiv.org/pdf/2505.22370)| 2025 | Arxiv
 | [Budget-Adaptive Adapter Tuning in Orthogonal Subspaces for Continual Learning in LLMs](https://arxiv.org/pdf/2505.22358)| 2025 | Arxiv
