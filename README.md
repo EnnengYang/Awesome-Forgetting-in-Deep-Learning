@@ -115,6 +115,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 #### Survey and Book
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [A Comprehensive Survey on Continual Learning in Generative Models](https://arxiv.org/pdf/2506.13045)| 2025  | Arxiv
 | [The Future of Continual Learning in the Era of Foundation Models: Three Key Directions](https://arxiv.org/pdf/2506.03320)| 2025  | TCAI workshop 2025
 | [Parameter-Efficient Continual Fine-Tuning: A Survey](https://arxiv.org/pdf/2504.13822)| 2025  | Arxiv
 | [Latest Advancements Towards Catastrophic Forgetting under Data Scarcity: A Comprehensive Survey on Few-Shot Class Incremental Learning](https://arxiv.org/pdf/2502.08181)| 2025  | Arxiv
@@ -955,6 +956,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 | [Rethinking the Foundations for Continual Reinforcement Learning](https://arxiv.org/pdf/2504.08161)| 2025 | RLDM
 | [Mastering Continual Reinforcement Learning through Fine-Grained Sparse Network Allocation and Dormant Neuron Exploration Notebook](https://arxiv.org/pdf/2503.05246)| 2025 | Arxiv
 | [An Autonomous Network Orchestration Framework Integrating Large Language Models with Continual Reinforcement Learning](https://arxiv.org/pdf/2502.16198)| 2025 | Arxiv
+| [Self-Composing Policies for Scalable Continual Reinforcement Learning](https://arxiv.org/pdf/2506.14811)| 2024 | ICML
 | [Continual Deep Reinforcement Learning with Task-Agnostic Policy Distillation](https://arxiv.org/pdf/2411.16532)| 2024 | Arxiv
 | [Data Augmentation for Continual RL via Adversarial Gradient Episodic Memory](https://arxiv.org/pdf/2408.13452)| 2024 | Arxiv
 | [Fine-tuning Reinforcement Learning Models is Secretly a Forgetting Mitigation Problem](https://arxiv.org/pdf/2402.02868.pdf)| 2024 | Arxiv
