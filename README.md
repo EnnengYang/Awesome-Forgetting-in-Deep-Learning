@@ -250,6 +250,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [The Importance of Being Lazy: Scaling Limits of Continual Learning](https://arxiv.org/pdf/2506.16884)| 2025| ICML
 | [Rethinking the Stability-Plasticity Trade-off in Continual Learning from an Architectural Perspective](https://arxiv.org/pdf/2506.03951)| 2025| ICML
 | [Prototype Augmented Hypernetworks for Continual Learning](https://arxiv.org/pdf/2505.07450) | 2025| CVPR
 | [Self-Controlled Dynamic Expansion Model for Continual Learning](https://arxiv.org/pdf/2504.10561)| 2025 | Arxiv
