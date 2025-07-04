@@ -115,6 +115,9 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 #### Survey and Book
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [A Survey of Continual Reinforcement Learning](https://arxiv.org/pdf/2506.21872) | 2025  | TPAMI
+| [Advancements and Challenges in Continual Reinforcement Learning: A Comprehensive Review](https://arxiv.org/pdf/2506.21899)| 2025  | Arxiv
+| [SWE-Bench-CL: Continual Learning for Coding Agents](https://arxiv.org/pdf/2507.00014)| 2025  | Arxiv
 | [A Comprehensive Survey on Continual Learning in Generative Models](https://arxiv.org/pdf/2506.13045)| 2025  | Arxiv
 | [The Future of Continual Learning in the Era of Foundation Models: Three Key Directions](https://arxiv.org/pdf/2506.03320)| 2025  | TCAI workshop 2025
 | [Parameter-Efficient Continual Fine-Tuning: A Survey](https://arxiv.org/pdf/2504.13822)| 2025  | Arxiv
@@ -662,6 +665,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Continual Gradient Low-Rank Projection Fine-Tuning for LLMs](https://arxiv.org/pdf/2507.02503)| 2025 | ACL
 | [TreeLoRA: Efficient Continual Learning via Layer-Wise LoRAs Guided by a Hierarchical Gradient-Similarity Tree](https://arxiv.org/pdf/2506.10355)| 2025 | ICML
 | [Vulnerability-Aware Alignment: Mitigating Uneven Forgetting in Harmful Fine-Tuning](https://arxiv.org/pdf/2506.03850)| 2025 | ICML
 | [Proxy-FDA: Proxy-based Feature Distribution Alignment for Fine-tuning Vision Foundation Models without Forgetting](https://arxiv.org/pdf/2505.24088)| 2025 | ICML
