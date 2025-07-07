@@ -707,6 +707,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 | [Unlocking the Power of Function Vectors for Characterizing and Mitigating Catastrophic Forgetting in Continual Instruction Tuning](https://arxiv.org/pdf/2502.11019)|2025 | ICLR
 | [S-LoRA: Scalable Low-Rank Adaptation for Class Incremental Learning](https://arxiv.org/pdf/2501.13198)|2025 | ICLR
 | [Spurious Forgetting in Continual Learning of Language Models](https://arxiv.org/pdf/2501.13453)|2025 | ICLR
+| [Practical Continual Forgetting for Pre-trained Vision Models](https://arxiv.org/pdf/2501.09705)|2025 | Arxiv
 | [PEARL: Input-Agnostic Prompt Enhancement with Negative Feedback Regulation for Class-Incremental Learning](https://arxiv.org/pdf/2412.10900))|2025 | AAAI
 | [MOS: Model Surgery for Pre-Trained Model-Based Class-Incremental Learning](https://arxiv.org/pdf/2412.09441)|2025 | AAAI
 | [Learn or Recall? Revisiting Incremental Learning with Pre-trained Language Models](https://arxiv.org/pdf/2312.07887)|2024 | ACL
@@ -737,6 +738,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 | [Continual Learning of Large Language Models: A Comprehensive Survey](https://arxiv.org/pdf/2404.16789) |2024 | Arxiv
 | [Prompt Customization for Continual Learning](https://arxiv.org/abs/2404.18060) |2024 | MM
 | [Dynamically Anchored Prompting for Task-Imbalanced Continual Learning](https://arxiv.org/pdf/2404.14721) |2024 |IJCAI
+| [Continual Forgetting for Pre-trained Vision Models](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_Continual_Forgetting_for_Pre-trained_Vision_Models_CVPR_2024_paper.pdf#:~:text=We%20propose%20a%20new%20problem%20termed%20continual%20forgetting%2C,model%20while%20preserving%20the%20performance%20of%20the%20rest)|2024 |CVPR
 | [InfLoRA: Interference-Free Low-Rank Adaptation for Continual Learning](https://arxiv.org/pdf/2404.00228.pdf) |2024 |CVPR
 | [Semantically-Shifted Incremental Adapter-Tuning is A Continual ViTransformer](https://arxiv.org/pdf/2403.19979.pdf) |2024 |CVPR
 | [Evolving Parameterized Prompt Memory for Continual Learning](https://ojs.aaai.org/index.php/AAAI/article/view/29231) |2024 |AAAI
