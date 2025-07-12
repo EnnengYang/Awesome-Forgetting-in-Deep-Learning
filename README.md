@@ -665,6 +665,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Reinforcement Fine-Tuning Naturally Mitigates Forgetting in Continual Post-Training](https://arxiv.org/pdf/2507.05386)| 2025 | Arxiv
 | [Continual Gradient Low-Rank Projection Fine-Tuning for LLMs](https://arxiv.org/pdf/2507.02503)| 2025 | ACL
 | [TreeLoRA: Efficient Continual Learning via Layer-Wise LoRAs Guided by a Hierarchical Gradient-Similarity Tree](https://arxiv.org/pdf/2506.10355)| 2025 | ICML
 | [Vulnerability-Aware Alignment: Mitigating Uneven Forgetting in Harmful Fine-Tuning](https://arxiv.org/pdf/2506.03850)| 2025 | ICML
