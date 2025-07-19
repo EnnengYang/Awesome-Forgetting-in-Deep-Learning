@@ -115,6 +115,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 #### Survey and Book
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [The Bayesian Approach to Continual Learning: An Overview](https://arxiv.org/pdf/2507.08922)| 2025  | Arxiv
 | [A Survey of Continual Reinforcement Learning](https://arxiv.org/pdf/2506.21872) | 2025  | TPAMI
 | [Advancements and Challenges in Continual Reinforcement Learning: A Comprehensive Review](https://arxiv.org/pdf/2506.21899)| 2025  | Arxiv
 | [SWE-Bench-CL: Continual Learning for Coding Agents](https://arxiv.org/pdf/2507.00014)| 2025  | Arxiv
@@ -173,6 +174,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Information-Theoretic Generalization Bounds of Replay-based Continual Learning](https://arxiv.org/pdf/2507.12043)| 2025 | Arxiv
 | [Unlocking the Power of Rehearsal in Continual Learning: A Theoretical Perspective](https://arxiv.org/pdf/2506.00205)| 2025 | ICML
 | [Autoencoder-Based Hybrid Replay for Class-Incremental Learning](https://arxiv.org/pdf/2505.05926)| 2025 | ICML
 | [Do Your Best and Get Enough Rest for Continual Learning](https://arxiv.org/pdf/2503.18371)| 2025 | CVPR
@@ -432,6 +434,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [PROL : Rehearsal Free Continual Learning in Streaming Data via Prompt Online Learning](https://arxiv.org/pdf/2507.12305)|2025|Arxiv
 | [Cut out and Replay: A Simple yet Versatile Strategy for Multi-Label Online Continual Learning](https://arxiv.org/pdf/2505.19680)|2025|ICML
 | [Amphibian: A Meta-Learning Framework for Rehearsal-Free, Fast Online Continual Learning](https://openreview.net/forum?id=n4AaKOBWbB)|2025|TMLR
 | [Ferret: An Efficient Online Continual Learning Framework under Varying Memory Constraints](https://arxiv.org/pdf/2503.12053)|2025|CVPR
@@ -665,6 +668,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [ind the Gap: Preserving and Compensating for the Modality Gap in CLIP-Based Continual Learning](https://arxiv.org/pdf/2507.12043)| 2025 | Arxiv
 | [Reinforcement Fine-Tuning Naturally Mitigates Forgetting in Continual Post-Training](https://arxiv.org/pdf/2507.05386)| 2025 | Arxiv
 | [Continual Gradient Low-Rank Projection Fine-Tuning for LLMs](https://arxiv.org/pdf/2507.02503)| 2025 | ACL
 | [TreeLoRA: Efficient Continual Learning via Layer-Wise LoRAs Guided by a Hierarchical Gradient-Similarity Tree](https://arxiv.org/pdf/2506.10355)| 2025 | ICML
