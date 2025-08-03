@@ -668,7 +668,10 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
-| [ind the Gap: Preserving and Compensating for the Modality Gap in CLIP-Based Continual Learning](https://arxiv.org/pdf/2507.12043)| 2025 | Arxiv
+| [GNSP: Gradient Null Space Projection for Preserving Cross-Modal Alignment in VLMs Continual Learning](https://arxiv.org/pdf/2507.19839)| 2025 | Arxiv
+| [CLoRA: Parameter-Efficient Continual Learning with Low-Rank Adaptation](https://arxiv.org/pdf/2507.19887) | 2025 | CoLLAs
+| [RainbowPrompt: Diversity-Enhanced Prompt-Evolving for Continual Learning](https://arxiv.org/pdf/2507.22553)| 2025 | ICCV
+| [Mind the Gap: Preserving and Compensating for the Modality Gap in CLIP-Based Continual Learning](https://arxiv.org/pdf/2507.12043)| 2025 | Arxiv
 | [Reinforcement Fine-Tuning Naturally Mitigates Forgetting in Continual Post-Training](https://arxiv.org/pdf/2507.05386)| 2025 | Arxiv
 | [Continual Gradient Low-Rank Projection Fine-Tuning for LLMs](https://arxiv.org/pdf/2507.02503)| 2025 | ACL
 | [TreeLoRA: Efficient Continual Learning via Layer-Wise LoRAs Guided by a Hierarchical Gradient-Similarity Tree](https://arxiv.org/pdf/2506.10355)| 2025 | ICML
