@@ -115,6 +115,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 #### Survey and Book
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Continual Learning for VLMs: A Survey and Taxonomy Beyond Forgetting](https://arxiv.org/pdf/2508.04227)| 2025  | Arxiv
 | [The Bayesian Approach to Continual Learning: An Overview](https://arxiv.org/pdf/2507.08922)| 2025  | Arxiv
 | [A Survey of Continual Reinforcement Learning](https://arxiv.org/pdf/2506.21872) | 2025  | TPAMI
 | [Advancements and Challenges in Continual Reinforcement Learning: A Comprehensive Review](https://arxiv.org/pdf/2506.21899)| 2025  | Arxiv
