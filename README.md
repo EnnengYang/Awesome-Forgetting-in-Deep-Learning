@@ -175,6 +175,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [GeRe: Towards Efficient Anti-Forgetting in Continual Learning of LLM via General Samples Replay](https://arxiv.org/pdf/2508.04676)| 2025 | Arxiv
 | [Information-Theoretic Generalization Bounds of Replay-based Continual Learning](https://arxiv.org/pdf/2507.12043)| 2025 | Arxiv
 | [Unlocking the Power of Rehearsal in Continual Learning: A Theoretical Perspective](https://arxiv.org/pdf/2506.00205)| 2025 | ICML
 | [Autoencoder-Based Hybrid Replay for Class-Incremental Learning](https://arxiv.org/pdf/2505.05926)| 2025 | ICML
@@ -512,6 +513,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Divide-and-Conquer for Enhancing Unlabeled Learning, Stability, and Plasticity in Semi-supervised Continual Learning](https://arxiv.org/pdf/2508.05316) | 2025 | ICCV
 | [Continual Learning on a Diet: Learning from Sparsely Labeled Streams Under Constrained Computation](https://openreview.net/pdf?id=Xvfz8NHmCj)| 2024 | ICLR
 | [Dynamic Sub-graph Distillation for Robust Semi-supervised Continual Learning](https://arxiv.org/pdf/2312.16409.pdf) | 2024 | AAAI
 | [Semi-supervised drifted stream learning with short lookback](https://arxiv.org/pdf/2205.13066.pdf) | 2022 | SIGKDD
@@ -669,6 +671,8 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Revisiting Replay and Gradient Alignment for Continual Pre-Training of Large Language Models](https://arxiv.org/pdf/2508.01908)| 2025 | Arxiv
+| [VisionTS++: Cross-Modal Time Series Foundation Model with Continual Pre-trained Visual Backbones](https://arxiv.org/pdf/2508.04379)| 2025 | Arxiv
 | [GNSP: Gradient Null Space Projection for Preserving Cross-Modal Alignment in VLMs Continual Learning](https://arxiv.org/pdf/2507.19839)| 2025 | Arxiv
 | [CLoRA: Parameter-Efficient Continual Learning with Low-Rank Adaptation](https://arxiv.org/pdf/2507.19887) | 2025 | CoLLAs
 | [RainbowPrompt: Diversity-Enhanced Prompt-Evolving for Continual Learning](https://arxiv.org/pdf/2507.22553)| 2025 | ICCV
