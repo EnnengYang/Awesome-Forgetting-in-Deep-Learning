@@ -671,6 +671,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Fine-Grained Safety Neurons with Training-Free Continual Projection to Reduce LLM Fine Tuning Risks](https://arxiv.org/pdf/2508.09190)| 2025 | Arxiv
 | [Revisiting Replay and Gradient Alignment for Continual Pre-Training of Large Language Models](https://arxiv.org/pdf/2508.01908)| 2025 | Arxiv
 | [VisionTS++: Cross-Modal Time Series Foundation Model with Continual Pre-trained Visual Backbones](https://arxiv.org/pdf/2508.04379)| 2025 | Arxiv
 | [GNSP: Gradient Null Space Projection for Preserving Cross-Modal Alignment in VLMs Continual Learning](https://arxiv.org/pdf/2507.19839)| 2025 | Arxiv
@@ -1040,6 +1041,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Large-Small Model Collaborative Framework for Federated Continual Learning](https://arxiv.org/pdf/2508.09489)| 2025 | Arxiv
 | [SacFL: Self-Adaptive Federated Continual Learning for Resource-Constrained End Devices](https://arxiv.org/pdf/2505.00365)|2025|TNNLS
 | [Dynamic Allocation Hypernetwork with Adaptive Model Recalibration for Federated Continual Learning](https://arxiv.org/pdf/2503.20808)|2025|IPMI
 | [Federated Class-Incremental Learning: A Hybrid Approach Using Latent Exemplars and Data-Free Techniques to Address Local and Global Forgetting](https://arxiv.org/pdf/2501.15356)|2025|ICLR
