@@ -562,6 +562,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Unsupervised Video Continual Learning via Non-Parametric Deep Embedded Clustering](https://arxiv.org/pdf/2508.21773)| 2025 | BMVC
 | [Class-Incremental Unsupervised Domain Adaptation via Pseudo-Label Distillation](https://pubmed.ncbi.nlm.nih.gov/38285572/) | 2024 | TIP
 | [Plasticity-Optimized Complementary Networks for Unsupervised Continual](https://arxiv.org/pdf/2309.06086.pdf) | 2024 | WACV
 | [Unsupervised Continual Learning in Streaming Environments](https://ieeexplore.ieee.org/document/9756660) | 2023 | TNNLS
@@ -671,6 +672,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Unlearning That Lasts: Utility-Preserving, Robust, and Almost Irreversible Forgetting in LLMs](https://arxiv.org/pdf/2509.02820)| 2025 | Arxiv
 | [Fine-Grained Safety Neurons with Training-Free Continual Projection to Reduce LLM Fine Tuning Risks](https://arxiv.org/pdf/2508.09190)| 2025 | Arxiv
 | [Revisiting Replay and Gradient Alignment for Continual Pre-Training of Large Language Models](https://arxiv.org/pdf/2508.01908)| 2025 | Arxiv
 | [VisionTS++: Cross-Modal Time Series Foundation Model with Continual Pre-trained Visual Backbones](https://arxiv.org/pdf/2508.04379)| 2025 | Arxiv
