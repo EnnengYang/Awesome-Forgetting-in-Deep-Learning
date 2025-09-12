@@ -672,6 +672,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Orthogonal Low-rank Adaptation in Lie Groups for Continual Learning of Large Language Models](https://arxiv.org/pdf/2509.06100)| 2025 | Arxiv
 | [Unlearning That Lasts: Utility-Preserving, Robust, and Almost Irreversible Forgetting in LLMs](https://arxiv.org/pdf/2509.02820)| 2025 | Arxiv
 | [Fine-Grained Safety Neurons with Training-Free Continual Projection to Reduce LLM Fine Tuning Risks](https://arxiv.org/pdf/2508.09190)| 2025 | Arxiv
 | [Revisiting Replay and Gradient Alignment for Continual Pre-Training of Large Language Models](https://arxiv.org/pdf/2508.01908)| 2025 | Arxiv
