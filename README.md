@@ -672,6 +672,8 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Mixture of Noise for Pre-Trained Model-Based Class-Incremental Learning](https://arxiv.org/pdf/2509.16738)| 2025 | NeurIPS
+| [Self-Evolving LLMs via Continual Instruction Tuning](https://arxiv.org/pdf/2509.18133)| 2025 | Arxiv
 | [Orthogonal Low-rank Adaptation in Lie Groups for Continual Learning of Large Language Models](https://arxiv.org/pdf/2509.06100)| 2025 | Arxiv
 | [Unlearning That Lasts: Utility-Preserving, Robust, and Almost Irreversible Forgetting in LLMs](https://arxiv.org/pdf/2509.02820)| 2025 | Arxiv
 | [Fine-Grained Safety Neurons with Training-Free Continual Projection to Reduce LLM Fine Tuning Risks](https://arxiv.org/pdf/2508.09190)| 2025 | Arxiv
@@ -1044,6 +1046,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [C2Prompt: Class-aware Client Knowledge Interaction for Federated Continual Learning](https://arxiv.org/pdf/2509.19674)| 2025 | NeurIPS
 | [Large-Small Model Collaborative Framework for Federated Continual Learning](https://arxiv.org/pdf/2508.09489)| 2025 | Arxiv
 | [SacFL: Self-Adaptive Federated Continual Learning for Resource-Constrained End Devices](https://arxiv.org/pdf/2505.00365)|2025|TNNLS
 | [Dynamic Allocation Hypernetwork with Adaptive Model Recalibration for Federated Continual Learning](https://arxiv.org/pdf/2503.20808)|2025|IPMI
