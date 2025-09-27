@@ -672,6 +672,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Data Efficient Adaptation in Large Language Models via Continuous Low-Rank Fine-Tuning](https://arxiv.org/pdf/2509.18942)| 2025 | NeurIPS
 | [Mixture of Noise for Pre-Trained Model-Based Class-Incremental Learning](https://arxiv.org/pdf/2509.16738)| 2025 | NeurIPS
 | [Self-Evolving LLMs via Continual Instruction Tuning](https://arxiv.org/pdf/2509.18133)| 2025 | Arxiv
 | [Orthogonal Low-rank Adaptation in Lie Groups for Continual Learning of Large Language Models](https://arxiv.org/pdf/2509.06100)| 2025 | Arxiv
