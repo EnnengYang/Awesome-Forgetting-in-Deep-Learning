@@ -175,6 +175,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Release the Potential of Memory Buffer in Continual Learning: A Dynamic System Perspective](https://ieeexplore.ieee.org/abstract/document/11198838)| 2025 | TPAMI
 | [GeRe: Towards Efficient Anti-Forgetting in Continual Learning of LLM via General Samples Replay](https://arxiv.org/pdf/2508.04676)| 2025 | Arxiv
 | [Information-Theoretic Generalization Bounds of Replay-based Continual Learning](https://arxiv.org/pdf/2507.12043)| 2025 | Arxiv
 | [Unlocking the Power of Rehearsal in Continual Learning: A Theoretical Perspective](https://arxiv.org/pdf/2506.00205)| 2025 | ICML
