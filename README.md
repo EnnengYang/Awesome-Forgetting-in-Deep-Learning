@@ -437,7 +437,8 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
-| [PROL : Rehearsal Free Continual Learning in Streaming Data via Prompt Online Learning](https://arxiv.org/pdf/2507.12305)|2025|Arxiv
+| [Gradient-Guided Epsilon Constraint Method for Online Continual Learning](https://openreview.net/pdf?id=MuhYHqLDZT)|2025|NeurIPS
+| [PROL: Rehearsal Free Continual Learning in Streaming Data via Prompt Online Learning](https://arxiv.org/pdf/2507.12305)|2025|Arxiv
 | [Cut out and Replay: A Simple yet Versatile Strategy for Multi-Label Online Continual Learning](https://arxiv.org/pdf/2505.19680)|2025|ICML
 | [Amphibian: A Meta-Learning Framework for Rehearsal-Free, Fast Online Continual Learning](https://openreview.net/forum?id=n4AaKOBWbB)|2025|TMLR
 | [Ferret: An Efficient Online Continual Learning Framework under Varying Memory Constraints](https://arxiv.org/pdf/2503.12053)|2025|CVPR
@@ -981,6 +982,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Tackling Continual Offline RL through Selective Weights Activation on Aligned Spaces](https://openreview.net/forum?id=KfRfTAJpjh) | 2025 | NeurIPS
 | [Rethinking the Foundations for Continual Reinforcement Learning](https://arxiv.org/pdf/2504.08161)| 2025 | RLDM
 | [Mastering Continual Reinforcement Learning through Fine-Grained Sparse Network Allocation and Dormant Neuron Exploration Notebook](https://arxiv.org/pdf/2503.05246)| 2025 | Arxiv
 | [An Autonomous Network Orchestration Framework Integrating Large Language Models with Continual Reinforcement Learning](https://arxiv.org/pdf/2502.16198)| 2025 | Arxiv
