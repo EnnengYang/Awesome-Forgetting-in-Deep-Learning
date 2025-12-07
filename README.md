@@ -1150,6 +1150,7 @@ Beneficial forgetting arises when the model contains private information that co
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Unlearning Comparator: A Visual Analytics System for Comparative Evaluation of Machine Unlearning Methods](https://arxiv.org/abs/2508.12730) | 2025 | Arxiv |
 | [A Unified Gradient-based Framework for Task-agnostic Continual Learning-Unlearning](https://arxiv.org/pdf/2505.16441)| 2025 | Arxiv
 | [Exploring Incremental Unlearning: Techniques, Challenges, and Future Directions](https://arxiv.org/pdf/2502.16708) | 2025 | Arxiv
 | [Unlearning during Learning: An Efficient Federated Machine Unlearning Method](https://arxiv.org/pdf/2405.15474) | 2024 | IJCAI
