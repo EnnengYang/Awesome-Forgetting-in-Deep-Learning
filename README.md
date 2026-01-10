@@ -176,6 +176,7 @@ Harmful forgetting occurs when we desire the machine learning model to retain pr
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [FOREVER: Forgetting Curve-Inspired Memory Replay for Language Model Continual Learning](https://arxiv.org/pdf/2601.03938) 2026 | Arxiv
 | [Release the Potential of Memory Buffer in Continual Learning: A Dynamic System Perspective](https://ieeexplore.ieee.org/abstract/document/11198838)| 2025 | TPAMI
 | [GeRe: Towards Efficient Anti-Forgetting in Continual Learning of LLM via General Samples Replay](https://arxiv.org/pdf/2508.04676)| 2025 | Arxiv
 | [Information-Theoretic Generalization Bounds of Replay-based Continual Learning](https://arxiv.org/pdf/2507.12043)| 2025 | Arxiv
@@ -675,6 +676,7 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [FOREVER: Forgetting Curve-Inspired Memory Replay for Language Model Continual Learning](https://arxiv.org/pdf/2601.03938) 2026 | Arxiv
 | [Data Efficient Adaptation in Large Language Models via Continuous Low-Rank Fine-Tuning](https://arxiv.org/pdf/2509.18942)| 2025 | NeurIPS
 | [Mixture of Noise for Pre-Trained Model-Based Class-Incremental Learning](https://arxiv.org/pdf/2509.16738)| 2025 | NeurIPS
 | [Self-Evolving LLMs via Continual Instruction Tuning](https://arxiv.org/pdf/2509.18133)| 2025 | Arxiv
