@@ -676,7 +676,8 @@ The presence of **imbalanced data** streams in CL (especially online CL) has dra
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
-| [FOREVER: Forgetting Curve-Inspired Memory Replay for Language Model Continual Learning](https://arxiv.org/pdf/2601.03938) 2026 | Arxiv
+| [One-Prompt Strikes Back: Sparse Mixture of Experts for Prompt-based Continual Learning](https://arxiv.org/abs/2509.24483)| 2026 | ICLR
+| [FOREVER: Forgetting Curve-Inspired Memory Replay for Language Model Continual Learning](https://arxiv.org/pdf/2601.03938)| 2026 | Arxiv
 | [Data Efficient Adaptation in Large Language Models via Continuous Low-Rank Fine-Tuning](https://arxiv.org/pdf/2509.18942)| 2025 | NeurIPS
 | [Mixture of Noise for Pre-Trained Model-Based Class-Incremental Learning](https://arxiv.org/pdf/2509.16738)| 2025 | NeurIPS
 | [Self-Evolving LLMs via Continual Instruction Tuning](https://arxiv.org/pdf/2509.18133)| 2025 | Arxiv
